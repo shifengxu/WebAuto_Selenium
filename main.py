@@ -171,12 +171,16 @@ def main():
     page_url_spot = f"https://openreview.net/group?id=ICLR.cc/2025/Conference#tab-accept-spotlight"
     res_author_href  = f"./res_author_href.txt"
     res_author_email = f"./res_author_email.txt"
-    ae.parse_papers(page_url_oral, f"./res_oral_paper.txt")
-    ae.parse_papers(page_url_spot, f"./res_spotlight_paper.txt")
+    ae.parse_papers(page_url_oral, f"./res_paper_oral.txt")
+    ae.parse_papers(page_url_spot, f"./res_paper_spotlight.txt")
     with open(res_author_href, "w") as f: [f.write(f"{href}\n") for href in ae.author_href_set]
     print(f"File saved: {res_author_href}")
 
     ae.parser_authors(res_author_href, res_author_email)
+
+    from paper_info import replenish_emails
+    paper_file_list = [f"./res_paper_oral.txt", f"./res_paper_spotlight.txt"]
+    replenish_emails(paper_file_list, res_author_email)
 
 if __name__ == '__main__':
     main()

@@ -1,0 +1,4457 @@
+[paper]
+# paper        : 1
+# page         : 1
+# paper_in_page: 1
+How new data pollutes LLM knowledge and how to dilute it
+    https://openreview.net/profile?id=~Chen_Sun7
+    https://openreview.net/profile?id=~Renat_Aksitov1
+    https://openreview.net/profile?id=~Andrey_Zhmoginov1
+    https://openreview.net/profile?id=~Nolan_Andrew_Miller1
+    https://openreview.net/profile?id=~Max_Vladymyrov1
+    https://openreview.net/profile?id=~Ulrich_Rueckert1
+    https://openreview.net/profile?id=~Been_Kim1
+    https://openreview.net/profile?id=~Mark_Sandler1
+
+[paper]
+# paper        : 2
+# page         : 1
+# paper_in_page: 2
+UniCBE: An Uniformity-driven Comparing Based Evaluation Framework with Unified Multi-Objective Optimization
+    https://openreview.net/profile?id=~Peiwen_Yuan1
+    https://openreview.net/profile?id=~Shaoxiong_Feng1
+    https://openreview.net/profile?id=~Yiwei_Li1
+    https://openreview.net/profile?id=~Xinglin_Wang1
+    https://openreview.net/profile?id=~Yueqi_Zhang2
+    https://openreview.net/profile?id=~Jiayi_Shi1
+    https://openreview.net/profile?id=~Chuyi_Tan1
+    https://openreview.net/profile?id=~Boyuan_Pan1
+    https://openreview.net/profile?id=~Yao_Hu1
+    https://openreview.net/profile?id=~Kan_Li3
+
+[paper]
+# paper        : 3
+# page         : 1
+# paper_in_page: 3
+NetMoE: Accelerating MoE Training through Dynamic Sample Placement
+    https://openreview.net/profile?id=~Xinyi_Liu16
+    https://openreview.net/profile?id=~Yujie_Wang10
+    https://openreview.net/profile?id=~Fangcheng_Fu1
+    https://openreview.net/profile?id=~Xupeng_Miao1
+    https://openreview.net/profile?id=~Shenhan_Zhu1
+    https://openreview.net/profile?id=~Xiaonan_Nie1
+    https://openreview.net/profile?id=~Bin_CUI2
+
+[paper]
+# paper        : 4
+# page         : 1
+# paper_in_page: 4
+Analyzing Pitfalls and Filling the Gaps in Tabular Deep Learning Benchmarks
+    https://openreview.net/profile?id=~Ivan_Rubachev1
+    https://openreview.net/profile?id=~Nikolay_Kartashev1
+    https://openreview.net/profile?id=~Yury_Gorishniy1
+    https://openreview.net/profile?id=~Artem_Babenko1
+
+[paper]
+# paper        : 5
+# page         : 1
+# paper_in_page: 5
+Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency
+    https://openreview.net/profile?id=~Jiangrong_Shen1
+    https://openreview.net/profile?id=~Qi_Xu1
+    https://openreview.net/profile?id=~Gang_Pan1
+    https://openreview.net/profile?id=~Badong_Chen1
+
+[paper]
+# paper        : 6
+# page         : 1
+# paper_in_page: 6
+JudgeLM: Fine-tuned Large Language Models are Scalable Judges
+    https://openreview.net/profile?id=~Lianghui_Zhu2
+    https://openreview.net/profile?id=~Xinggang_Wang1
+    https://openreview.net/profile?id=~Xinlong_Wang2
+
+[paper]
+# paper        : 7
+# page         : 1
+# paper_in_page: 7
+Direct Post-Training Preference Alignment of Multi-Agent Motion Generation Model with Implicit Feedback from Demonstrations
+    https://openreview.net/profile?id=~Thomas_Tian1
+    https://openreview.net/profile?id=~Kratarth_Goel1
+
+[paper]
+# paper        : 8
+# page         : 1
+# paper_in_page: 8
+Online Preference Alignment for Language Models via Count-based Exploration
+    https://openreview.net/profile?id=~Chenjia_Bai2
+    https://openreview.net/profile?id=~Yang_Zhang49
+    https://openreview.net/profile?id=~Shuang_Qiu2
+    https://openreview.net/profile?id=~Qiaosheng_Zhang2
+    https://openreview.net/profile?id=~Kang_Xu2
+    https://openreview.net/profile?id=~Xuelong_Li2
+
+[paper]
+# paper        : 9
+# page         : 1
+# paper_in_page: 9
+Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence
+    https://openreview.net/profile?id=~Weize_Chen1
+    https://openreview.net/profile?id=~Ziming_You1
+    https://openreview.net/profile?id=~Ran_Li6
+    https://openreview.net/profile?id=~yitong_guan1
+    https://openreview.net/profile?id=~Chen_Qian8
+    https://openreview.net/profile?id=~Chenyang_Zhao6
+    https://openreview.net/profile?id=~Cheng_Yang6
+    https://openreview.net/profile?id=~Ruobing_Xie2
+    https://openreview.net/profile?id=~Zhiyuan_Liu1
+    https://openreview.net/profile?id=~Maosong_Sun1
+
+[paper]
+# paper        : 10
+# page         : 1
+# paper_in_page: 10
+Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning
+    https://openreview.net/profile?id=~Amrith_Setlur1
+    https://openreview.net/profile?id=~Chirag_Nagpal1
+    https://openreview.net/profile?id=~Adam_Fisch2
+    https://openreview.net/profile?id=~Xinyang_Geng1
+    https://openreview.net/profile?id=~Jacob_Eisenstein1
+    https://openreview.net/profile?id=~Rishabh_Agarwal2
+    https://openreview.net/profile?id=~Alekh_Agarwal2
+    https://openreview.net/profile?id=~Jonathan_Berant1
+    https://openreview.net/profile?id=~Aviral_Kumar2
+
+[paper]
+# paper        : 11
+# page         : 1
+# paper_in_page: 11
+MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations
+    https://openreview.net/profile?id=~Shaochen_Zhong1
+    https://openreview.net/profile?id=~Yifan_Lu8
+    https://openreview.net/profile?id=~Lize_Shao1
+    https://openreview.net/profile?id=~Bhargav_Bhushanam1
+    https://openreview.net/profile?id=~Xiaocong_Du2
+    https://openreview.net/profile?id=~Yixin_Wan1
+    https://openreview.net/profile?id=~Yucheng_Shi2
+    https://openreview.net/profile?id=~Daochen_Zha1
+    https://openreview.net/profile?id=~Yiwei_Wang2
+    https://openreview.net/profile?id=~Ninghao_Liu2
+    https://openreview.net/profile?id=~Kaixiong_Zhou1
+    https://openreview.net/profile?id=~Shuai_Xu2
+    https://openreview.net/profile?id=~Kai-Wei_Chang1
+    https://openreview.net/profile?id=~Louis_Feng1
+    https://openreview.net/profile?id=~Vipin_Chaudhary2
+    https://openreview.net/profile?id=~Xia_Hu4
+
+[paper]
+# paper        : 12
+# page         : 1
+# paper_in_page: 12
+Algorithmic Phases of In-Context Learning
+    https://openreview.net/profile?id=~Core_Francisco_Park1
+    https://openreview.net/profile?id=~Ekdeep_Singh_Lubana1
+    https://openreview.net/profile?id=~Hidenori_Tanaka1
+
+[paper]
+# paper        : 13
+# page         : 1
+# paper_in_page: 13
+In vivo cell-type and brain region classification via multimodal contrastive learning
+    https://openreview.net/profile?id=~Han_Yu13
+    https://openreview.net/profile?id=~Hanrui_Lyu1
+    https://openreview.net/profile?id=~YiXun_Xu1
+    https://openreview.net/profile?id=~Charlie_Windolf1
+    https://openreview.net/profile?id=~Eric_Kenji_Lee1
+    https://openreview.net/profile?id=~Fan_Yang71
+    https://openreview.net/profile?id=~Andrew_M_Shelton1
+    https://openreview.net/profile?id=~Olivier_Winter1
+    https://openreview.net/profile?id=~International_Brain_Laboratory1
+    https://openreview.net/profile?id=~Eva_L_Dyer1
+    https://openreview.net/profile?id=~Chandramouli_Chandrasekaran1
+    https://openreview.net/profile?id=~Nicholas_A._Steinmetz1
+    https://openreview.net/profile?id=~Liam_Paninski1
+    https://openreview.net/profile?id=~Cole_Lincoln_Hurwitz1
+
+[paper]
+# paper        : 14
+# page         : 1
+# paper_in_page: 14
+Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws
+    https://openreview.net/profile?id=~Zeyuan_Allen-Zhu1
+    https://openreview.net/profile?id=~Yuanzhi_Li1
+
+[paper]
+# paper        : 15
+# page         : 1
+# paper_in_page: 15
+Scalable Decision-Making in Stochastic Environments through Learned Temporal Abstraction
+    https://openreview.net/profile?id=~Baiting_Luo1
+    https://openreview.net/profile?id=~Ava_Pettet1
+    https://openreview.net/profile?id=~Aron_Laszka1
+    https://openreview.net/profile?id=~Abhishek_Dubey1
+    https://openreview.net/profile?id=~Ayan_Mukhopadhyay1
+
+[paper]
+# paper        : 16
+# page         : 1
+# paper_in_page: 16
+Modeling Complex System Dynamics with Flow Matching Across Time and Conditions
+    https://openreview.net/profile?id=~Martin_Rohbeck2
+    https://openreview.net/profile?id=~Charlotte_Bunne1
+    https://openreview.net/profile?id=~Edward_De_Brouwer1
+    https://openreview.net/profile?id=~Jan-Christian_Huetter1
+    https://openreview.net/profile?id=~Anne_Biton1
+    https://openreview.net/profile?id=~Kelvin_Y._Chen1
+    https://openreview.net/profile?id=~Aviv_Regev1
+    https://openreview.net/profile?id=~Romain_Lopez1
+
+[paper]
+# paper        : 17
+# page         : 1
+# paper_in_page: 17
+Joint Reward and Policy Learning with Demonstrations and Human Feedback Improves Alignment
+    https://openreview.net/profile?id=~Chenliang_Li3
+    https://openreview.net/profile?id=~Siliang_Zeng1
+    https://openreview.net/profile?id=~Zeyi_Liao1
+    https://openreview.net/profile?id=~Jiaxiang_Li1
+    https://openreview.net/profile?id=~Dongyeop_Kang2
+    https://openreview.net/profile?id=~Alfredo_Garcia1
+    https://openreview.net/profile?id=~Mingyi_Hong1
+
+[paper]
+# paper        : 18
+# page         : 1
+# paper_in_page: 18
+Counterfactual Realizability
+    https://openreview.net/profile?id=~Arvind_Raghavan1
+    https://openreview.net/profile?id=~Elias_Bareinboim2
+
+[paper]
+# paper        : 19
+# page         : 1
+# paper_in_page: 19
+Robustness Reprogramming for Representation Learning
+    https://openreview.net/profile?id=~Zhichao_Hou1
+    https://openreview.net/profile?id=~MohamadAli_Torkamani1
+    https://openreview.net/profile?id=~Hamid_Krim3
+    https://openreview.net/profile?id=~Xiaorui_Liu1
+
+[paper]
+# paper        : 20
+# page         : 1
+# paper_in_page: 20
+LayerDAG: A Layerwise Autoregressive Diffusion Model for Directed Acyclic Graph Generation
+    https://openreview.net/profile?id=~Mufei_Li2
+    https://openreview.net/profile?id=~Viraj_Shitole1
+    https://openreview.net/profile?id=~Eli_Chien1
+    https://openreview.net/profile?id=~Changhai_Man1
+    https://openreview.net/profile?id=~Zhaodong_Wang3
+    https://openreview.net/profile?id=~Srinivas1
+    https://openreview.net/profile?id=~Ying_Zhang19
+    https://openreview.net/profile?id=~Tushar_Krishna1
+    https://openreview.net/profile?id=~Pan_Li2
+
+[paper]
+# paper        : 21
+# page         : 1
+# paper_in_page: 21
+DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life
+    https://openreview.net/profile?id=~Yu_Ying_Chiu1
+    https://openreview.net/profile?id=~Liwei_Jiang2
+    https://openreview.net/profile?id=~Yejin_Choi1
+
+[paper]
+# paper        : 22
+# page         : 1
+# paper_in_page: 22
+Learning-Augmented Frequent Directions
+    https://openreview.net/profile?id=~Anders_Aamand1
+    https://openreview.net/profile?id=~Justin_Y._Chen1
+    https://openreview.net/profile?id=~Siddharth_Gollapudi1
+    https://openreview.net/profile?id=~Sandeep_Silwal1
+    https://openreview.net/profile?id=~Hao_WU21
+
+[paper]
+# paper        : 23
+# page         : 1
+# paper_in_page: 23
+No Need to Talk: Asynchronous Mixture of Language Models
+    https://openreview.net/profile?id=~Anastasiia_Filippova2
+    https://openreview.net/profile?id=~Angelos_Katharopoulos1
+    https://openreview.net/profile?id=~David_Grangier1
+    https://openreview.net/profile?id=~Ronan_Collobert1
+
+[paper]
+# paper        : 24
+# page         : 1
+# paper_in_page: 24
+Estimating the Probabilities of Rare Outputs in Language Models
+    https://openreview.net/profile?id=~Gabriel_Wu1
+    https://openreview.net/profile?id=~Jacob_Hilton1
+
+[paper]
+# paper        : 25
+# page         : 1
+# paper_in_page: 25
+Quality Measures for Dynamic Graph Generative Models
+    https://openreview.net/profile?id=~Ryien_Hosseini1
+    https://openreview.net/profile?id=~Filippo_Simini1
+    https://openreview.net/profile?id=~Venkatram_Vishwanath1
+    https://openreview.net/profile?id=~Rebecca_Willett1
+    https://openreview.net/profile?id=~Henry_Hoffmann1
+
+[paper]
+# paper        : 26
+# page         : 2
+# paper_in_page: 1
+Correlated Proxies: A New Definition and Improved Mitigation for Reward Hacking
+    https://openreview.net/profile?id=~Cassidy_Laidlaw1
+    https://openreview.net/profile?id=~Shivam_Singhal1
+    https://openreview.net/profile?id=~Anca_Dragan1
+
+[paper]
+# paper        : 27
+# page         : 2
+# paper_in_page: 2
+Holistically Evaluating the Environmental Impact of Creating Language Models
+    https://openreview.net/profile?id=~Jacob_Morrison2
+    https://openreview.net/profile?id=~Clara_Na1
+    https://openreview.net/profile?id=~Jared_Fernandez1
+    https://openreview.net/profile?id=~Tim_Dettmers2
+    https://openreview.net/profile?id=~Emma_Strubell1
+    https://openreview.net/profile?id=~Jesse_Dodge1
+
+[paper]
+# paper        : 28
+# page         : 2
+# paper_in_page: 3
+Mixture-of-Agents Enhances Large Language Model Capabilities
+    https://openreview.net/profile?id=~Junlin_Wang1
+    https://openreview.net/profile?id=~Jue_WANG1
+    https://openreview.net/profile?id=~Ben_Athiwaratkun1
+    https://openreview.net/profile?id=~Ce_Zhang1
+    https://openreview.net/profile?id=~James_Zou1
+
+[paper]
+# paper        : 29
+# page         : 2
+# paper_in_page: 4
+Answer, Assemble, Ace: Understanding How LMs Answer Multiple Choice Questions
+    https://openreview.net/profile?id=~Sarah_Wiegreffe1
+    https://openreview.net/profile?id=~Oyvind_Tafjord2
+    https://openreview.net/profile?id=~Yonatan_Belinkov1
+    https://openreview.net/profile?id=~Hannaneh_Hajishirzi1
+    https://openreview.net/profile?id=~Ashish_Sabharwal1
+
+[paper]
+# paper        : 30
+# page         : 2
+# paper_in_page: 5
+Provable Uncertainty Decomposition via Higher-Order Calibration
+    https://openreview.net/profile?id=~Gustaf_Ahdritz2
+    https://openreview.net/profile?id=~Aravind_Gollakota1
+    https://openreview.net/profile?id=~Parikshit_Gopalan1
+    https://openreview.net/profile?id=~Charlotte_Peale1
+    https://openreview.net/profile?id=~Udi_Wieder2
+
+[paper]
+# paper        : 31
+# page         : 2
+# paper_in_page: 6
+Sparse components distinguish visual pathways & their alignment to neural networks
+    https://openreview.net/profile?id=~Ammar_I_Marvi1
+    https://openreview.net/profile?id=~Nancy_Kanwisher1
+    https://openreview.net/profile?id=~Meenakshi_Khosla2
+
+[paper]
+# paper        : 32
+# page         : 2
+# paper_in_page: 7
+Reducing Hallucinations in Large Vision-Language Models via Latent Space Steering
+    https://openreview.net/profile?id=~Sheng_Liu2
+    https://openreview.net/profile?id=~Haotian_Ye1
+    https://openreview.net/profile?id=~James_Zou1
+
+[paper]
+# paper        : 33
+# page         : 2
+# paper_in_page: 8
+Mitigating Memorization in Language Models
+    https://openreview.net/profile?id=~Mansi_Sakarvadia1
+    https://openreview.net/profile?id=~Aswathy_Ajith1
+    https://openreview.net/profile?id=~Arham_Mushtaq_Khan1
+    https://openreview.net/profile?id=~Nathaniel_C_Hudson1
+    https://openreview.net/profile?id=~Caleb_Geniesse1
+    https://openreview.net/profile?id=~Kyle_Chard1
+    https://openreview.net/profile?id=~Yaoqing_Yang1
+    https://openreview.net/profile?id=~Ian_Foster2
+    https://openreview.net/profile?id=~Michael_W._Mahoney1
+
+[paper]
+# paper        : 34
+# page         : 2
+# paper_in_page: 9
+Effective post-training embedding compression via temperature control in contrastive training
+    https://openreview.net/profile?id=~Georgiana_Dinu2
+    https://openreview.net/profile?id=~Corey_D_Barrett1
+    https://openreview.net/profile?id=~Yi_Xiang3
+    https://openreview.net/profile?id=~Miguel_Romero_Calvo1
+    https://openreview.net/profile?id=~Anna_Currey1
+    https://openreview.net/profile?id=~Xing_Niu1
+
+[paper]
+# paper        : 35
+# page         : 2
+# paper_in_page: 10
+TopoNets: High performing vision and language models with brain-like topography
+    https://openreview.net/profile?id=~Mayukh_Deb2
+    https://openreview.net/profile?id=~Mainak_Deb1
+    https://openreview.net/profile?id=~Apurva_Ratan_Murty1
+
+[paper]
+# paper        : 36
+# page         : 2
+# paper_in_page: 11
+INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge
+    https://openreview.net/profile?id=~Angelika_Romanou1
+    https://openreview.net/profile?id=~Negar_Foroutan1
+    https://openreview.net/profile?id=~Anna_Sotnikova1
+    https://openreview.net/profile?id=~Sree_Harsha_Nelaturu1
+    https://openreview.net/profile?id=~Shivalika_Singh1
+    https://openreview.net/profile?id=~Rishabh_Maheshwary2
+    https://openreview.net/profile?id=~Micol_Altomare1
+    https://openreview.net/profile?id=~Zeming_Chen1
+    https://openreview.net/profile?id=~Mohamed_A._Haggag1
+    https://openreview.net/profile?id=~Snegha_A1
+    https://openreview.net/profile?id=~Alfonso_Amayuelas2
+    https://openreview.net/profile?id=~Azril_Hafizi_Amirudin1
+    https://openreview.net/profile?id=~Danylo_Boiko1
+    https://openreview.net/profile?id=~Michael_Chang2
+    https://openreview.net/profile?id=~Jenny_Chim1
+    https://openreview.net/profile?id=~Gal_Cohen2
+    https://openreview.net/profile?id=~Aditya_Kumar_Dalmia1
+    https://openreview.net/profile?id=~Abraham_Diress1
+    https://openreview.net/profile?id=~Sharad_Duwal1
+    https://openreview.net/profile?id=~Daniil_Dzenhaliou1
+
+[paper]
+# paper        : 37
+# page         : 2
+# paper_in_page: 12
+Deep Learning Alternatives Of The Kolmogorov Superposition Theorem
+    https://openreview.net/profile?id=~Leonardo_Ferreira_Guilhoto1
+    https://openreview.net/profile?id=~Paris_Perdikaris1
+
+[paper]
+# paper        : 38
+# page         : 2
+# paper_in_page: 13
+Vision Language Models are In-Context Value Learners
+    https://openreview.net/profile?id=~Yecheng_Jason_Ma2
+    https://openreview.net/profile?id=~Joey_Hejna1
+    https://openreview.net/profile?id=~Chuyuan_Fu1
+    https://openreview.net/profile?id=~Dhruv_Shah1
+    https://openreview.net/profile?id=~Jacky_Liang1
+    https://openreview.net/profile?id=~Zhuo_Xu1
+    https://openreview.net/profile?id=~Sean_Kirmani1
+    https://openreview.net/profile?id=~Peng_Xu9
+    https://openreview.net/profile?id=~Danny_Driess1
+    https://openreview.net/profile?id=~Ted_Xiao1
+    https://openreview.net/profile?id=~Osbert_Bastani1
+    https://openreview.net/profile?id=~Dinesh_Jayaraman2
+    https://openreview.net/profile?id=~Wenhao_Yu1
+    https://openreview.net/profile?id=~Tingnan_Zhang1
+    https://openreview.net/profile?id=~Dorsa_Sadigh1
+    https://openreview.net/profile?id=~Fei_Xia1
+
+[paper]
+# paper        : 39
+# page         : 2
+# paper_in_page: 14
+Approaching Rate-Distortion Limits in Neural Compression with Lattice Transform Coding
+    https://openreview.net/profile?id=~Eric_Lei2
+    https://openreview.net/profile?id=~Hamed_Hassani2
+    https://openreview.net/profile?id=~Shirin_Saeedi_Bidokhti1
+
+[paper]
+# paper        : 40
+# page         : 2
+# paper_in_page: 15
+Wasserstein Distances, Neuronal Entanglement, and Sparsity
+    https://openreview.net/profile?id=~Shashata_Sawmya1
+    https://openreview.net/profile?id=~Linghao_Kong1
+    https://openreview.net/profile?id=~Ilia_Markov1
+    https://openreview.net/profile?id=~Dan_Alistarh7
+    https://openreview.net/profile?id=~Nir_N_Shavit1
+
+[paper]
+# paper        : 41
+# page         : 2
+# paper_in_page: 16
+Walk the Talk? Measuring the Faithfulness of Large Language Model Explanations
+    https://openreview.net/profile?id=~Katie_Matton1
+    https://openreview.net/profile?id=~Robert_Ness1
+    https://openreview.net/profile?id=~John_Guttag2
+    https://openreview.net/profile?id=~Emre_Kiciman1
+
+[paper]
+# paper        : 42
+# page         : 2
+# paper_in_page: 17
+Implicit Bias of Mirror Flow for Shallow Neural Networks in Univariate Regression
+    https://openreview.net/profile?id=~Shuang_Liang6
+    https://openreview.net/profile?id=~Guido_Montufar1
+
+[paper]
+# paper        : 43
+# page         : 2
+# paper_in_page: 18
+WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild
+    https://openreview.net/profile?id=~Bill_Yuchen_Lin1
+    https://openreview.net/profile?id=~Yuntian_Deng2
+    https://openreview.net/profile?id=~Khyathi_Chandu1
+    https://openreview.net/profile?id=~Abhilasha_Ravichander2
+    https://openreview.net/profile?id=~Valentina_Pyatkin1
+    https://openreview.net/profile?id=~Nouha_Dziri2
+    https://openreview.net/profile?id=~Ronan_Le_Bras1
+    https://openreview.net/profile?id=~Yejin_Choi1
+
+[paper]
+# paper        : 44
+# page         : 2
+# paper_in_page: 19
+Revisiting Zeroth-Order Optimization: Minimum-Variance Two-Point Estimators and Directionally Aligned Perturbations
+    https://openreview.net/profile?id=~Shaocong_Ma1
+    https://openreview.net/profile?id=~Heng_Huang1
+
+[paper]
+# paper        : 45
+# page         : 2
+# paper_in_page: 20
+Adaptive Batch Size for Privately Finding Second-Order Stationary Points
+    https://openreview.net/profile?id=~Daogao_Liu1
+    https://openreview.net/profile?id=~Kunal_Talwar1
+
+[paper]
+# paper        : 46
+# page         : 2
+# paper_in_page: 21
+Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI
+    https://openreview.net/profile?id=~Robert_H%C3%B6nig1
+    https://openreview.net/profile?id=~Javier_Rando2
+    https://openreview.net/profile?id=~Nicholas_Carlini1
+    https://openreview.net/profile?id=~Florian_Tram%C3%A8r1
+
+[paper]
+# paper        : 47
+# page         : 2
+# paper_in_page: 22
+Better autoregressive regression with LLMs
+    https://openreview.net/profile?id=~Michal_Lukasik1
+    https://openreview.net/profile?id=~Zhao_Meng1
+    https://openreview.net/profile?id=~Harikrishna_Narasimhan1
+    https://openreview.net/profile?id=~Aditya_Krishna_Menon1
+    https://openreview.net/profile?id=~Yin-Wen_Chang1
+    https://openreview.net/profile?id=~Felix_Yu1
+    https://openreview.net/profile?id=~Sanjiv_Kumar1
+
+[paper]
+# paper        : 48
+# page         : 2
+# paper_in_page: 23
+Analyzing Neural Scaling Laws in Two-Layer Networks with Power-Law Data Spectra
+    https://openreview.net/profile?id=~Roman_Worschech1
+    https://openreview.net/profile?id=~Bernd_Rosenow1
+
+[paper]
+# paper        : 49
+# page         : 2
+# paper_in_page: 24
+Differential learning kinetics govern the transition from memorization to generalization during in-context learning
+    https://openreview.net/profile?id=~Alex_Nguyen1
+    https://openreview.net/profile?id=~Gautam_Reddy1
+
+[paper]
+# paper        : 50
+# page         : 2
+# paper_in_page: 25
+Multi-session, multi-task neural decoding from distinct cell-types and brain regions
+    https://openreview.net/profile?id=~Mehdi_Azabou2
+    https://openreview.net/profile?id=~Krystal_Xuejing_Pan1
+    https://openreview.net/profile?id=~Vinam_Arora1
+    https://openreview.net/profile?id=~Ian_Jarratt_Knight1
+    https://openreview.net/profile?id=~Eva_L_Dyer1
+    https://openreview.net/profile?id=~Blake_Aaron_Richards1
+
+[paper]
+# paper        : 51
+# page         : 3
+# paper_in_page: 1
+Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models
+    https://openreview.net/profile?id=~Lucas_Bandarkar1
+    https://openreview.net/profile?id=~Benjamin_Muller1
+    https://openreview.net/profile?id=~Pritish_Yuvraj2
+    https://openreview.net/profile?id=~Rui_Hou3
+    https://openreview.net/profile?id=~Nayan_Singhal2
+    https://openreview.net/profile?id=~Hongjiang_Lv1
+    https://openreview.net/profile?id=~Bing_Liu5
+
+[paper]
+# paper        : 52
+# page         : 3
+# paper_in_page: 2
+Bayesian Optimization via Continual Variational Last Layer Training
+    https://openreview.net/profile?id=~Paul_Brunzema1
+    https://openreview.net/profile?id=~Mikkel_Jordahn1
+    https://openreview.net/profile?id=~John_Willes2
+    https://openreview.net/profile?id=~Sebastian_Trimpe1
+    https://openreview.net/profile?id=~Jasper_Snoek1
+    https://openreview.net/profile?id=~James_Harrison1
+
+[paper]
+# paper        : 53
+# page         : 3
+# paper_in_page: 3
+Bayesian Optimization of Antibodies Informed by a Generative Model of Evolving Sequences
+    https://openreview.net/profile?id=~Alan_Nawzad_Amin1
+    https://openreview.net/profile?id=~Nate_Gruver1
+    https://openreview.net/profile?id=~Yilun_Kuang1
+    https://openreview.net/profile?id=~Yucen_Lily_Li1
+    https://openreview.net/profile?id=~Hunter_Elliott1
+    https://openreview.net/profile?id=~Calvin_McCarter1
+    https://openreview.net/profile?id=~Aniruddh_Raghu1
+    https://openreview.net/profile?id=~Peyton_Greenside1
+    https://openreview.net/profile?id=~Andrew_Gordon_Wilson1
+
+[paper]
+# paper        : 54
+# page         : 3
+# paper_in_page: 4
+Meta-Dynamical State Space Models for Integrative Neural Data Analysis
+    https://openreview.net/profile?id=~Ayesha_Vermani1
+    https://openreview.net/profile?id=~Josue_Nassar1
+    https://openreview.net/profile?id=~Hyungju_Jeon1
+    https://openreview.net/profile?id=~Matthew_Dowling2
+    https://openreview.net/profile?id=~Il_Memming_Park1
+
+[paper]
+# paper        : 55
+# page         : 3
+# paper_in_page: 5
+AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs
+    https://openreview.net/profile?id=~Xiaogeng_Liu1
+    https://openreview.net/profile?id=~Peiran_Li1
+    https://openreview.net/profile?id=~G._Edward_Suh2
+    https://openreview.net/profile?id=~Yevgeniy_Vorobeychik1
+    https://openreview.net/profile?id=~Zhuoqing_Mao1
+    https://openreview.net/profile?id=~Somesh_Jha1
+    https://openreview.net/profile?id=~Patrick_McDaniel1
+    https://openreview.net/profile?id=~Huan_Sun1
+    https://openreview.net/profile?id=~Bo_Li19
+    https://openreview.net/profile?id=~Chaowei_Xiao2
+
+[paper]
+# paper        : 56
+# page         : 3
+# paper_in_page: 6
+Towards Automated Knowledge Integration From Human-Interpretable Representations
+    https://openreview.net/profile?id=~Kasia_Kobalczyk1
+    https://openreview.net/profile?id=~Mihaela_van_der_Schaar2
+
+[paper]
+# paper        : 57
+# page         : 3
+# paper_in_page: 7
+BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval
+    https://openreview.net/profile?id=~Hongjin_SU1
+    https://openreview.net/profile?id=~Howard_Yen1
+    https://openreview.net/profile?id=~Mengzhou_Xia1
+    https://openreview.net/profile?id=~Weijia_Shi1
+    https://openreview.net/profile?id=~Niklas_Muennighoff1
+    https://openreview.net/profile?id=~Han-yu_Wang1
+    https://openreview.net/profile?id=~Liu_Haisu1
+    https://openreview.net/profile?id=~Quan_Shi1
+    https://openreview.net/profile?id=~Zachary_S_Siegel1
+    https://openreview.net/profile?id=~Michael_Tang3
+    https://openreview.net/profile?id=~Ruoxi_Sun2
+    https://openreview.net/profile?id=~Jinsung_Yoon1
+    https://openreview.net/profile?id=~Sercan_O_Arik1
+    https://openreview.net/profile?id=~Danqi_Chen1
+    https://openreview.net/profile?id=~Tao_Yu5
+
+[paper]
+# paper        : 58
+# page         : 3
+# paper_in_page: 8
+Reinforcement Learning for Control of Non-Markovian Cellular Population Dynamics
+    https://openreview.net/profile?id=~Josiah_C_Kratz1
+    https://openreview.net/profile?id=~Jacob_Adamczyk1
+
+[paper]
+# paper        : 59
+# page         : 3
+# paper_in_page: 9
+Online Reinforcement Learning in Non-Stationary Context-Driven Environments
+    https://openreview.net/profile?id=~Pouya_Hamadanian1
+    https://openreview.net/profile?id=~Arash_Nasr-Esfahany1
+    https://openreview.net/profile?id=~Malte_Schwarzkopf1
+    https://openreview.net/profile?id=~Siddhartha_Sen1
+    https://openreview.net/profile?id=~Mohammad_Alizadeh1
+
+[paper]
+# paper        : 60
+# page         : 3
+# paper_in_page: 10
+CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models
+    https://openreview.net/profile?id=~Song_Wang6
+    https://openreview.net/profile?id=~Peng_Wang40
+    https://openreview.net/profile?id=~Tong_Zhou9
+    https://openreview.net/profile?id=~Yushun_Dong1
+    https://openreview.net/profile?id=~Zhen_Tan2
+    https://openreview.net/profile?id=~Jundong_Li2
+
+[paper]
+# paper        : 61
+# page         : 3
+# paper_in_page: 11
+TabWak: A Watermark for Tabular Diffusion Models
+    https://openreview.net/profile?id=~Chaoyi_Zhu2
+    https://openreview.net/profile?id=~Jiayi_Tang3
+    https://openreview.net/profile?id=~Jeroen_M._Galjaard1
+    https://openreview.net/profile?id=~Pin-Yu_Chen1
+    https://openreview.net/profile?id=~Robert_Birke1
+    https://openreview.net/profile?id=~Cornelis_Bos1
+    https://openreview.net/profile?id=~Lydia_Y._Chen1
+
+[paper]
+# paper        : 62
+# page         : 3
+# paper_in_page: 12
+Active Task Disambiguation with LLMs
+    https://openreview.net/profile?id=~Kasia_Kobalczyk1
+    https://openreview.net/profile?id=~Nicol%C3%A1s_Astorga1
+    https://openreview.net/profile?id=~Tennison_Liu1
+    https://openreview.net/profile?id=~Mihaela_van_der_Schaar2
+
+[paper]
+# paper        : 63
+# page         : 3
+# paper_in_page: 13
+Surprising Effectiveness of pretraining Ternary Language Model at Scale
+    https://openreview.net/profile?id=~Ayush_Kaushal1
+    https://openreview.net/profile?id=~Tejas_Vaidhya1
+    https://openreview.net/profile?id=~Arnab_Kumar_Mondal1
+    https://openreview.net/profile?id=~Tejas_Pandey2
+    https://openreview.net/profile?id=~Aaryan_Bhagat1
+    https://openreview.net/profile?id=~Irina_Rish1
+
+[paper]
+# paper        : 64
+# page         : 3
+# paper_in_page: 14
+Generating Freeform Endoskeletal Robots
+    https://openreview.net/profile?id=~Muhan_Li2
+    https://openreview.net/profile?id=~Lingji_Kong1
+    https://openreview.net/profile?id=~Sam_Kriegman1
+
+[paper]
+# paper        : 65
+# page         : 3
+# paper_in_page: 15
+Understanding Factual Recall in Transformers via Associative Memories
+    https://openreview.net/profile?id=~Eshaan_Nichani1
+    https://openreview.net/profile?id=~Jason_D._Lee1
+    https://openreview.net/profile?id=~Alberto_Bietti1
+
+[paper]
+# paper        : 66
+# page         : 3
+# paper_in_page: 16
+Nesterov acceleration in benignly non-convex landscapes
+    https://openreview.net/profile?id=~Kanan_Gupta1
+    https://openreview.net/profile?id=~Stephan_Wojtowytsch1
+
+[paper]
+# paper        : 67
+# page         : 3
+# paper_in_page: 17
+AnalogGenie: A Generative Engine for Automatic Discovery of Analog Circuit Topologies
+    https://openreview.net/profile?id=~Jian_Gao15
+    https://openreview.net/profile?id=~Weidong_Cao2
+    https://openreview.net/profile?id=~Junyi_Yang1
+    https://openreview.net/profile?id=~Xuan_Zhang1
+
+[paper]
+# paper        : 68
+# page         : 3
+# paper_in_page: 18
+Probabilistic Geometric Principal Component Analysis with application to neural data
+    https://openreview.net/profile?id=~Han-Lin_Hsieh1
+    https://openreview.net/profile?id=~Maryam_Shanechi1
+
+[paper]
+# paper        : 69
+# page         : 3
+# paper_in_page: 19
+DataEnvGym: Data Generation Agents in Teacher Environments with Student Feedback
+    https://openreview.net/profile?id=~Zaid_Khan1
+    https://openreview.net/profile?id=~Elias_Stengel-Eskin1
+    https://openreview.net/profile?id=~Jaemin_Cho1
+    https://openreview.net/profile?id=~Mohit_Bansal2
+
+[paper]
+# paper        : 70
+# page         : 3
+# paper_in_page: 20
+Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via Chi-Squared Preference Optimization
+    https://openreview.net/profile?id=~Audrey_Huang1
+    https://openreview.net/profile?id=~Wenhao_Zhan1
+    https://openreview.net/profile?id=~Tengyang_Xie1
+    https://openreview.net/profile?id=~Jason_D._Lee1
+    https://openreview.net/profile?id=~Wen_Sun1
+    https://openreview.net/profile?id=~Akshay_Krishnamurthy1
+    https://openreview.net/profile?id=~Dylan_J_Foster1
+
+[paper]
+# paper        : 71
+# page         : 3
+# paper_in_page: 21
+Exact Certification of (Graph) Neural Networks Against Label Poisoning
+    https://openreview.net/profile?id=~Mahalakshmi_Sabanayagam1
+    https://openreview.net/profile?id=~Lukas_Gosch1
+    https://openreview.net/profile?id=~Stephan_G%C3%BCnnemann1
+    https://openreview.net/profile?id=~Debarghya_Ghoshdastidar1
+
+[paper]
+# paper        : 72
+# page         : 3
+# paper_in_page: 22
+Better Instruction-Following Through Minimum Bayes Risk
+    https://openreview.net/profile?id=~Ian_Wu3
+    https://openreview.net/profile?id=~Patrick_Fernandes1
+    https://openreview.net/profile?id=~Amanda_Bertsch1
+    https://openreview.net/profile?id=~Seungone_Kim1
+    https://openreview.net/profile?id=~Sina_Khoshfetrat_Pakazad1
+    https://openreview.net/profile?id=~Graham_Neubig1
+
+[paper]
+# paper        : 73
+# page         : 3
+# paper_in_page: 23
+Union-over-Intersections: Object Detection beyond Winner-Takes-All
+    https://openreview.net/profile?id=~Aritra_Bhowmik1
+    https://openreview.net/profile?id=~Pascal_Mettes1
+    https://openreview.net/profile?id=~Martin_R._Oswald1
+    https://openreview.net/profile?id=~Cees_G._M._Snoek1
+
+[paper]
+# paper        : 74
+# page         : 3
+# paper_in_page: 24
+MamKO: Mamba-based Koopman operator for modeling and predictive control
+    https://openreview.net/profile?id=~ZHAOYANG_LI12
+    https://openreview.net/profile?id=~Minghao_Han2
+    https://openreview.net/profile?id=~Xunyuan_Yin1
+
+[paper]
+# paper        : 75
+# page         : 3
+# paper_in_page: 25
+LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation models
+    https://openreview.net/profile?id=~Ziqi_Lu1
+    https://openreview.net/profile?id=~Heng_Yang4
+    https://openreview.net/profile?id=~Danfei_Xu1
+    https://openreview.net/profile?id=~Boyi_Li1
+    https://openreview.net/profile?id=~Boris_Ivanovic1
+    https://openreview.net/profile?id=~Marco_Pavone1
+    https://openreview.net/profile?id=~Yue_Wang2
+
+[paper]
+# paper        : 76
+# page         : 4
+# paper_in_page: 1
+Weighted Point Cloud Embedding for Multimodal Contrastive Learning Toward Optimal Similarity Metric
+    https://openreview.net/profile?id=~Toshimitsu_Uesaka1
+    https://openreview.net/profile?id=~Taiji_Suzuki1
+    https://openreview.net/profile?id=~Yuhta_Takida1
+    https://openreview.net/profile?id=~Chieh-Hsin_Lai2
+    https://openreview.net/profile?id=~Naoki_Murata1
+    https://openreview.net/profile?id=~Yuki_Mitsufuji1
+
+[paper]
+# paper        : 77
+# page         : 4
+# paper_in_page: 2
+Can LLMs Really Learn to Translate a Low-Resource Language from One Grammar Book?
+    https://openreview.net/profile?id=~Seth_Aycock1
+    https://openreview.net/profile?id=~David_Stap1
+    https://openreview.net/profile?id=~Di_Wu8
+    https://openreview.net/profile?id=~Christof_Monz1
+    https://openreview.net/profile?id=~Khalil_Sima%27an1
+
+[paper]
+# paper        : 78
+# page         : 4
+# paper_in_page: 3
+Retri3D: 3D Neural Graphics Representation Retrieval
+    https://openreview.net/profile?id=~Yushi_Guan1
+    https://openreview.net/profile?id=~Daniel_Kwan1
+    https://openreview.net/profile?id=~Jean_Sebastien_Dandurand1
+    https://openreview.net/profile?id=~Xi_Yan3
+    https://openreview.net/profile?id=~Ruofan_Liang1
+    https://openreview.net/profile?id=~Yuxuan_Zhang12
+    https://openreview.net/profile?id=~Nilesh_Jain1
+    https://openreview.net/profile?id=~Nilesh_Ahuja1
+    https://openreview.net/profile?id=~Selvakumar_Panneer1
+    https://openreview.net/profile?id=~Nandita_Vijaykumar1
+
+[paper]
+# paper        : 79
+# page         : 4
+# paper_in_page: 4
+Test-time Adaptation for Cross-modal Retrieval with Query Shift
+    https://openreview.net/profile?id=~Haobin_Li3
+    https://openreview.net/profile?id=~Peng_Hu2
+    https://openreview.net/profile?id=~Qianjun_Zhang1
+    https://openreview.net/profile?id=~Xi_Peng3
+    https://openreview.net/profile?id=~XitingLiu1
+    https://openreview.net/profile?id=~Mouxing_Yang1
+
+[paper]
+# paper        : 80
+# page         : 4
+# paper_in_page: 5
+Universal generalization guarantees for Wasserstein distributionally robust models
+    https://openreview.net/profile?id=~Tam_Le3
+    https://openreview.net/profile?id=~Jerome_Malick1
+
+[paper]
+# paper        : 81
+# page         : 4
+# paper_in_page: 6
+Conformal Prediction Sets Can Cause Disparate Impact
+    https://openreview.net/profile?id=~Jesse_C._Cresswell1
+    https://openreview.net/profile?id=~Bhargava_Kumar1
+    https://openreview.net/profile?id=~Yi_Sui1
+    https://openreview.net/profile?id=~Mouloud_Belbahri1
+
+[paper]
+# paper        : 82
+# page         : 4
+# paper_in_page: 7
+In Search of Forgotten Domain Generalization
+    https://openreview.net/profile?id=~Prasanna_Mayilvahanan2
+    https://openreview.net/profile?id=~Roland_S._Zimmermann1
+    https://openreview.net/profile?id=~Thadd%C3%A4us_Wiedemer1
+    https://openreview.net/profile?id=~Evgenia_Rusak1
+    https://openreview.net/profile?id=~Attila_Juhos1
+    https://openreview.net/profile?id=~Matthias_Bethge1
+    https://openreview.net/profile?id=~Wieland_Brendel1
+
+[paper]
+# paper        : 83
+# page         : 4
+# paper_in_page: 8
+TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning
+    https://openreview.net/profile?id=~Ge_Li3
+    https://openreview.net/profile?id=~Dong_Tian2
+    https://openreview.net/profile?id=~Hongyi_Zhou1
+    https://openreview.net/profile?id=~Xinkai_Jiang1
+    https://openreview.net/profile?id=~Rudolf_Lioutikov1
+    https://openreview.net/profile?id=~Gerhard_Neumann2
+
+[paper]
+# paper        : 84
+# page         : 4
+# paper_in_page: 9
+On the Expressiveness of Rational ReLU Neural Networks With Bounded Depth
+    https://openreview.net/profile?id=~Gennadiy_Averkov1
+    https://openreview.net/profile?id=~Christopher_Hojny1
+    https://openreview.net/profile?id=~Maximilian_Merkert1
+
+[paper]
+# paper        : 85
+# page         : 4
+# paper_in_page: 10
+On the Optimization and Generalization of Two-layer Transformers with Sign Gradient Descent
+    https://openreview.net/profile?id=~Bingrui_Li1
+    https://openreview.net/profile?id=~Wei_Huang6
+    https://openreview.net/profile?id=~Andi_Han1
+    https://openreview.net/profile?id=~Zhanpeng_Zhou1
+    https://openreview.net/profile?id=~Taiji_Suzuki1
+    https://openreview.net/profile?id=~Jun_Zhu2
+    https://openreview.net/profile?id=~Jianfei_Chen1
+
+[paper]
+# paper        : 86
+# page         : 4
+# paper_in_page: 11
+Emergent Orientation Maps —— Mechanisms, Coding Efficiency and Robustness
+    https://openreview.net/profile?id=~Haixin_Zhong2
+    https://openreview.net/profile?id=~Haoyu_Wang15
+    https://openreview.net/profile?id=~Wei_P_Dai1
+    https://openreview.net/profile?id=~Yuchao_Huang1
+    https://openreview.net/profile?id=~Mingyi_Huang2
+    https://openreview.net/profile?id=~Rubin_Wang2
+    https://openreview.net/profile?id=~Anna_Wang_Roe1
+    https://openreview.net/profile?id=~yuguo_yu1
+
+[paper]
+# paper        : 87
+# page         : 4
+# paper_in_page: 12
+How Much is Unseen Depends Chiefly on Information About the Seen
+    https://openreview.net/profile?id=~Seongmin_Lee6
+    https://openreview.net/profile?id=~Marcel_Boehme1
+
+[paper]
+# paper        : 88
+# page         : 4
+# paper_in_page: 13
+Harnessing Diversity for Important Data Selection in Pretraining Large Language Models
+    https://openreview.net/profile?id=~Chi_Zhang62
+    https://openreview.net/profile?id=~Huaping_Zhong2
+    https://openreview.net/profile?id=~Kuan_Zhang1
+    https://openreview.net/profile?id=~Chengliang_Chai1
+    https://openreview.net/profile?id=~Rui_Wang59
+    https://openreview.net/profile?id=~Xinlin_Zhuang2
+    https://openreview.net/profile?id=~Tianyi_Bai1
+    https://openreview.net/profile?id=~Qiu_Jiantao1
+    https://openreview.net/profile?id=~Lei_Cao1
+    https://openreview.net/profile?id=~Ju_Fan1
+    https://openreview.net/profile?id=~Ye_Yuan15
+    https://openreview.net/profile?id=~Guoren_Wang1
+    https://openreview.net/profile?id=~Conghui_He2
+
+[paper]
+# paper        : 89
+# page         : 4
+# paper_in_page: 14
+Adaptive Gradient Clipping for Robust Federated Learning
+    https://openreview.net/profile?id=~Youssef_Allouah1
+    https://openreview.net/profile?id=~Rachid_Guerraoui1
+    https://openreview.net/profile?id=~Nirupam_Gupta1
+    https://openreview.net/profile?id=~Ahmed_Jellouli1
+    https://openreview.net/profile?id=~Geovani_Rizk1
+    https://openreview.net/profile?id=~John_Stephan1
+
+[paper]
+# paper        : 90
+# page         : 4
+# paper_in_page: 15
+Imputation for prediction: beware of diminishing returns.
+    https://openreview.net/profile?id=~Marine_Le_Morvan2
+    https://openreview.net/profile?id=~Gael_Varoquaux1
+
+[paper]
+# paper        : 91
+# page         : 4
+# paper_in_page: 16
+Joint Gradient Balancing for Data Ordering in Finite-Sum Multi-Objective Optimization
+    https://openreview.net/profile?id=~Hansi_Yang1
+    https://openreview.net/profile?id=~James_Kwok1
+
+[paper]
+# paper        : 92
+# page         : 4
+# paper_in_page: 17
+Preference Optimization as Probabilistic Inference
+    https://openreview.net/profile?id=~Abbas_Abdolmaleki3
+    https://openreview.net/profile?id=~Bilal_Piot1
+    https://openreview.net/profile?id=~Jost_Tobias_Springenberg1
+    https://openreview.net/profile?id=~Bobak_Shahriari1
+    https://openreview.net/profile?id=~Tim_Hertweck1
+    https://openreview.net/profile?id=~Michael_Bloesch1
+    https://openreview.net/profile?id=~Rishabh_Joshi1
+    https://openreview.net/profile?id=~Thomas_Lampe1
+    https://openreview.net/profile?id=~Junhyuk_Oh2
+    https://openreview.net/profile?id=~Nicolas_Heess1
+    https://openreview.net/profile?id=~Jonas_Buchli1
+    https://openreview.net/profile?id=~Martin_Riedmiller1
+
+[paper]
+# paper        : 93
+# page         : 4
+# paper_in_page: 18
+CausalRivers - Scaling up benchmarking of causal discovery for real-world time-series
+    https://openreview.net/profile?id=~Gideon_Stein1
+    https://openreview.net/profile?id=~Maha_Shadaydeh1
+    https://openreview.net/profile?id=~Jan_Blunk1
+    https://openreview.net/profile?id=~Niklas_Penzel1
+    https://openreview.net/profile?id=~Joachim_Denzler2
+
+[paper]
+# paper        : 94
+# page         : 4
+# paper_in_page: 19
+Signature Kernel Conditional Independence Tests in Causal Discovery for Stochastic Processes
+    https://openreview.net/profile?id=~Georg_Manten1
+    https://openreview.net/profile?id=~Cecilia_Casolo1
+    https://openreview.net/profile?id=~Emilio_Ferrucci1
+    https://openreview.net/profile?id=~S%C3%B8ren_Wengel_Mogensen1
+    https://openreview.net/profile?id=~Cristopher_Salvi1
+    https://openreview.net/profile?id=~Niki_Kilbertus1
+
+[paper]
+# paper        : 95
+# page         : 4
+# paper_in_page: 20
+Provably Reliable Conformal Prediction Sets in the Presence of Data Poisoning
+    https://openreview.net/profile?id=~Yan_Scholten1
+    https://openreview.net/profile?id=~Stephan_G%C3%BCnnemann1
+
+[paper]
+# paper        : 96
+# page         : 4
+# paper_in_page: 21
+Weak-to-Strong Preference Optimization: Stealing Reward from Weak Aligned Model
+    https://openreview.net/profile?id=~Wenhong_Zhu1
+    https://openreview.net/profile?id=~Zhiwei_He1
+    https://openreview.net/profile?id=~Xiaofeng_Wang11
+    https://openreview.net/profile?id=~Pengfei_Liu1
+    https://openreview.net/profile?id=~Rui_Wang10
+
+[paper]
+# paper        : 97
+# page         : 4
+# paper_in_page: 22
+Benchmarking Predictive Coding Networks -- Made Simple
+    https://openreview.net/profile?id=~Luca_Pinchetti1
+    https://openreview.net/profile?id=~Chang_Qi2
+    https://openreview.net/profile?id=~Oleh_Lokshyn1
+    https://openreview.net/profile?id=~Cornelius_Emde1
+    https://openreview.net/profile?id=~Amine_M%27Charrak1
+    https://openreview.net/profile?id=~Mufeng_Tang1
+    https://openreview.net/profile?id=~Simon_Frieder1
+    https://openreview.net/profile?id=~Bayar_Menzat1
+    https://openreview.net/profile?id=~Gaspard_Oliviers1
+    https://openreview.net/profile?id=~Rafal_Bogacz1
+    https://openreview.net/profile?id=~Thomas_Lukasiewicz2
+    https://openreview.net/profile?id=~Tommaso_Salvatori1
+
+[paper]
+# paper        : 98
+# page         : 4
+# paper_in_page: 23
+LiFT: Learning to Fine-Tune via Bayesian Parameter Efficient Meta Fine-Tuning
+    https://openreview.net/profile?id=~Minyoung_Kim2
+    https://openreview.net/profile?id=~Timothy_Hospedales1
+
+[paper]
+# paper        : 99
+# page         : 4
+# paper_in_page: 24
+Lightweight Neural App Control
+    https://openreview.net/profile?id=~Filippos_Christianos1
+    https://openreview.net/profile?id=~Georgios_Papoudakis1
+    https://openreview.net/profile?id=~Thomas_Coste1
+    https://openreview.net/profile?id=~Jianye_HAO1
+    https://openreview.net/profile?id=~Jun_Wang2
+    https://openreview.net/profile?id=~Kun_Shao1
+
+[paper]
+# paper        : 100
+# page         : 4
+# paper_in_page: 25
+Progressive Compositionality in Text-to-Image Generative Models
+    https://openreview.net/profile?id=~Xu_Han3
+    https://openreview.net/profile?id=~Linghao_Jin1
+    https://openreview.net/profile?id=~Xiaofeng_Liu1
+    https://openreview.net/profile?id=~Paul_Pu_Liang1
+
+[paper]
+# paper        : 101
+# page         : 5
+# paper_in_page: 1
+On Quantizing Neural Representation for Variable-Rate Video Coding
+    https://openreview.net/profile?id=~Junqi_Shi1
+    https://openreview.net/profile?id=~Zhujia_Chen1
+    https://openreview.net/profile?id=~Hanfei_Li2
+    https://openreview.net/profile?id=~Qi_Zhao6
+    https://openreview.net/profile?id=~Ming_Lu3
+    https://openreview.net/profile?id=~Tong_Chen1
+    https://openreview.net/profile?id=~Zhan_Ma1
+
+[paper]
+# paper        : 102
+# page         : 5
+# paper_in_page: 2
+Can Watermarked LLMs be Identified by Users via Crafted Prompts?
+    https://openreview.net/profile?id=~Aiwei_Liu1
+    https://openreview.net/profile?id=~Sheng_Guan1
+    https://openreview.net/profile?id=~Yiming_Liu16
+    https://openreview.net/profile?id=~Leyi_Pan1
+    https://openreview.net/profile?id=~Yifei_Zhang6
+    https://openreview.net/profile?id=~Liancheng_Fang2
+    https://openreview.net/profile?id=~Lijie_Wen1
+    https://openreview.net/profile?id=~Philip_S._Yu1
+    https://openreview.net/profile?id=~Xuming_Hu1
+
+[paper]
+# paper        : 103
+# page         : 5
+# paper_in_page: 3
+Temporal Heterogeneous Graph Generation with Privacy, Utility, and Efficiency
+    https://openreview.net/profile?id=~Xinyu_He3
+    https://openreview.net/profile?id=~Dongqi_Fu1
+    https://openreview.net/profile?id=~Hanghang_Tong3
+    https://openreview.net/profile?id=~Ross_Maciejewski1
+    https://openreview.net/profile?id=~Jingrui_He1
+
+[paper]
+# paper        : 104
+# page         : 5
+# paper_in_page: 4
+Attention with Markov: A Curious Case of Single-layer Transformers
+    https://openreview.net/profile?id=~Ashok_Vardhan_Makkuva1
+    https://openreview.net/profile?id=~Marco_Bondaschi1
+    https://openreview.net/profile?id=~Alliot_Nagle1
+    https://openreview.net/profile?id=~Adway_Girish1
+    https://openreview.net/profile?id=~Hyeji_Kim1
+    https://openreview.net/profile?id=~Martin_Jaggi1
+    https://openreview.net/profile?id=~Michael_Gastpar1
+
+[paper]
+# paper        : 105
+# page         : 5
+# paper_in_page: 5
+The Computational Complexity of Circuit Discovery for Inner Interpretability
+    https://openreview.net/profile?id=~Federico_Adolfi1
+    https://openreview.net/profile?id=~Martina_G._Vilas1
+    https://openreview.net/profile?id=~Todd_Wareham1
+
+[paper]
+# paper        : 106
+# page         : 5
+# paper_in_page: 6
+Topological Schrödinger Bridge Matching
+    https://openreview.net/profile?id=~Maosheng_Yang1
+
+[paper]
+# paper        : 107
+# page         : 5
+# paper_in_page: 7
+ThunderKittens: Simple, Fast, and Adorable Kernels
+    https://openreview.net/profile?id=~Benjamin_Frederick_Spector1
+    https://openreview.net/profile?id=~Simran_Arora1
+    https://openreview.net/profile?id=~Aaryan_Singhal1
+    https://openreview.net/profile?id=~Arjun_Parthasarathy1
+    https://openreview.net/profile?id=~Daniel_Y_Fu1
+    https://openreview.net/profile?id=~Christopher_Re1
+
+[paper]
+# paper        : 108
+# page         : 5
+# paper_in_page: 8
+gRNAde: Geometric Deep Learning for 3D RNA inverse design
+    https://openreview.net/profile?id=~Chaitanya_K._Joshi1
+    https://openreview.net/profile?id=~Arian_Rokkum_Jamasb1
+    https://openreview.net/profile?id=~Ramon_Vi%C3%B1as_Torn%C3%A91
+    https://openreview.net/profile?id=~Charles_Harris2
+    https://openreview.net/profile?id=~Simon_V_Mathis1
+    https://openreview.net/profile?id=~Alex_Morehead1
+    https://openreview.net/profile?id=~Rishabh_Anand1
+    https://openreview.net/profile?id=~Pietro_Lio1
+
+[paper]
+# paper        : 109
+# page         : 5
+# paper_in_page: 9
+A Second-Order Perspective on Model Compositionality and Incremental Learning
+    https://openreview.net/profile?id=~Angelo_Porrello1
+    https://openreview.net/profile?id=~Lorenzo_Bonicelli1
+    https://openreview.net/profile?id=~Pietro_Buzzega1
+    https://openreview.net/profile?id=~Monica_Millunzi1
+    https://openreview.net/profile?id=~Simone_Calderara1
+    https://openreview.net/profile?id=~Rita_Cucchiara1
+
+[paper]
+# paper        : 110
+# page         : 5
+# paper_in_page: 10
+Lean-STaR: Learning to Interleave Thinking and Proving
+    https://openreview.net/profile?id=~Haohan_Lin1
+    https://openreview.net/profile?id=~Zhiqing_Sun1
+    https://openreview.net/profile?id=~Sean_Welleck1
+    https://openreview.net/profile?id=~Yiming_Yang1
+
+[paper]
+# paper        : 111
+# page         : 5
+# paper_in_page: 11
+Spectral Compressive Imaging via Unmixing-driven Subspace Diffusion Refinement
+    https://openreview.net/profile?id=~Haijin_Zeng1
+    https://openreview.net/profile?id=~Benteng_Sun1
+    https://openreview.net/profile?id=~Yongyong_Chen1
+    https://openreview.net/profile?id=~Jingyong_Su3
+    https://openreview.net/profile?id=~Yong_Xu9
+
+[paper]
+# paper        : 112
+# page         : 5
+# paper_in_page: 12
+CBQ: Cross-Block Quantization for Large Language Models
+    https://openreview.net/profile?id=~Xin_Ding4
+    https://openreview.net/profile?id=~Xiaoyu_Liu6
+    https://openreview.net/profile?id=~Zhijun_Tu1
+    https://openreview.net/profile?id=~Yun_Zhang5
+    https://openreview.net/profile?id=~Wei_Li60
+    https://openreview.net/profile?id=~Jie_Hu8
+    https://openreview.net/profile?id=~Hanting_Chen1
+    https://openreview.net/profile?id=~Yehui_Tang1
+    https://openreview.net/profile?id=~Zhiwei_Xiong1
+    https://openreview.net/profile?id=~Baoqun_Yin1
+    https://openreview.net/profile?id=~Yunhe_Wang1
+
+[paper]
+# paper        : 113
+# page         : 5
+# paper_in_page: 13
+Iterative Label Refinement Matters More than Preference Optimization under Weak Supervision
+    https://openreview.net/profile?id=~Yaowen_Ye1
+    https://openreview.net/profile?id=~Cassidy_Laidlaw1
+    https://openreview.net/profile?id=~Jacob_Steinhardt1
+
+[paper]
+# paper        : 114
+# page         : 5
+# paper_in_page: 14
+uniINF: Best-of-Both-Worlds Algorithm for Parameter-Free Heavy-Tailed MABs
+    https://openreview.net/profile?id=~Yu_Chen19
+    https://openreview.net/profile?id=~Yan_Dai1
+    https://openreview.net/profile?id=~Jiatai_Huang1
+    https://openreview.net/profile?id=~Longbo_Huang2
+
+[paper]
+# paper        : 115
+# page         : 5
+# paper_in_page: 15
+Exploring Local Memorization in Diffusion Models via Bright Ending Attention
+    https://openreview.net/profile?id=~Chen_Chen39
+    https://openreview.net/profile?id=~Daochang_Liu1
+    https://openreview.net/profile?id=~Mubarak_Shah3
+    https://openreview.net/profile?id=~Chang_Xu4
+
+[paper]
+# paper        : 116
+# page         : 5
+# paper_in_page: 16
+EmbedLLM: Learning Compact Representations of Large Language Models
+    https://openreview.net/profile?id=~Richard_Zhuang2
+    https://openreview.net/profile?id=~Tianhao_Wu1
+    https://openreview.net/profile?id=~Zhaojin_Wen1
+    https://openreview.net/profile?id=~Andrew_Li4
+    https://openreview.net/profile?id=~Jiantao_Jiao1
+    https://openreview.net/profile?id=~Kannan_Ramchandran1
+
+[paper]
+# paper        : 117
+# page         : 5
+# paper_in_page: 17
+InverseBench: Benchmarking Plug-and-Play Diffusion Models for Scientific Inverse Problems
+    https://openreview.net/profile?id=~Hongkai_Zheng1
+    https://openreview.net/profile?id=~Wenda_Chu1
+    https://openreview.net/profile?id=~Bingliang_Zhang1
+    https://openreview.net/profile?id=~Zihui_Wu2
+    https://openreview.net/profile?id=~Austin_Wang4
+    https://openreview.net/profile?id=~Berthy_Feng1
+    https://openreview.net/profile?id=~Caifeng_Zou1
+    https://openreview.net/profile?id=~Yu_Sun11
+    https://openreview.net/profile?id=~Nikola_Borislavov_Kovachki1
+    https://openreview.net/profile?id=~Zachary_E_Ross1
+    https://openreview.net/profile?id=~Katherine_Bouman1
+    https://openreview.net/profile?id=~Yisong_Yue1
+
+[paper]
+# paper        : 118
+# page         : 5
+# paper_in_page: 18
+What Does It Mean to Be a Transformer? Insights from a Theoretical Hessian Analysis
+    https://openreview.net/profile?id=~Weronika_Ormaniec1
+    https://openreview.net/profile?id=~Felix_Dangel1
+    https://openreview.net/profile?id=~Sidak_Pal_Singh1
+
+[paper]
+# paper        : 119
+# page         : 5
+# paper_in_page: 19
+Beyond Squared Error: Exploring Loss Design for Enhanced Training of Generative Flow Networks
+    https://openreview.net/profile?id=~Rui_Hu6
+    https://openreview.net/profile?id=~Yifan_Zhang16
+    https://openreview.net/profile?id=~Zhuoran_Li1
+    https://openreview.net/profile?id=~Longbo_Huang2
+
+[paper]
+# paper        : 120
+# page         : 5
+# paper_in_page: 20
+Adam Exploits   -geometry of Loss Landscape via Coordinate-wise Adaptivity
+    https://openreview.net/profile?id=~Shuo_Xie2
+    https://openreview.net/profile?id=~Mohamad_Amin_Mohamadi1
+    https://openreview.net/profile?id=~Zhiyuan_Li2
+
+[paper]
+# paper        : 121
+# page         : 5
+# paper_in_page: 21
+CBGBench: Fill in the Blank of Protein-Molecule Complex Binding Graph
+    https://openreview.net/profile?id=~Haitao_Lin2
+    https://openreview.net/profile?id=~Guojiang_Zhao1
+    https://openreview.net/profile?id=~Odin_Zhang1
+    https://openreview.net/profile?id=~Yufei_Huang4
+    https://openreview.net/profile?id=~Lirong_Wu1
+    https://openreview.net/profile?id=~Cheng_Tan1
+    https://openreview.net/profile?id=~Zicheng_Liu2
+    https://openreview.net/profile?id=~Zhifeng_Gao1
+    https://openreview.net/profile?id=~Stan_Z._Li2
+
+[paper]
+# paper        : 122
+# page         : 5
+# paper_in_page: 22
+Fair Clustering in the Sliding Window Model
+    https://openreview.net/profile?id=~Vincent_Cohen-Addad1
+    https://openreview.net/profile?id=~Shaofeng_H.-C._Jiang1
+    https://openreview.net/profile?id=~Qiaoyuan_Yang1
+    https://openreview.net/profile?id=~Yubo_Zhang4
+    https://openreview.net/profile?id=~Samson_Zhou1
+
+[paper]
+# paper        : 123
+# page         : 5
+# paper_in_page: 23
+NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models
+    https://openreview.net/profile?id=~Chankyu_Lee1
+    https://openreview.net/profile?id=~Rajarshi_Roy1
+    https://openreview.net/profile?id=~Mengyao_Xu1
+    https://openreview.net/profile?id=~Jonathan_Raiman1
+    https://openreview.net/profile?id=~Mohammad_Shoeybi1
+    https://openreview.net/profile?id=~Bryan_Catanzaro1
+    https://openreview.net/profile?id=~Wei_Ping1
+
+[paper]
+# paper        : 124
+# page         : 5
+# paper_in_page: 24
+Differentiation and Specialization of Attention Heads via the Refined Local Learning Coefficient
+    https://openreview.net/profile?id=~George_Wang1
+    https://openreview.net/profile?id=~Jesse_Hoogland1
+    https://openreview.net/profile?id=~Stan_van_Wingerden1
+    https://openreview.net/profile?id=~Zach_Furman1
+    https://openreview.net/profile?id=~Daniel_Murfet1
+
+[paper]
+# paper        : 125
+# page         : 5
+# paper_in_page: 25
+VLMaterial: Procedural Material Generation with Large Vision-Language Models
+    https://openreview.net/profile?id=~Beichen_Li1
+    https://openreview.net/profile?id=~Rundi_Wu1
+    https://openreview.net/profile?id=~Armando_Solar-Lezama1
+    https://openreview.net/profile?id=~Changxi_Zheng1
+    https://openreview.net/profile?id=~Liang_Shi9
+    https://openreview.net/profile?id=~Bernd_Bickel1
+    https://openreview.net/profile?id=~Wojciech_Matusik2
+
+[paper]
+# paper        : 126
+# page         : 6
+# paper_in_page: 1
+Enhancing Large Language Models' Situated Faithfulness to External Contexts
+    https://openreview.net/profile?id=~Yukun_Huang3
+    https://openreview.net/profile?id=~Sanxing_Chen1
+    https://openreview.net/profile?id=~Hongyi_Cai3
+    https://openreview.net/profile?id=~Bhuwan_Dhingra1
+
+[paper]
+# paper        : 127
+# page         : 6
+# paper_in_page: 2
+Representative Guidance: Diffusion Model Sampling with Consistency
+    https://openreview.net/profile?id=~Anh-Dung_Dinh2
+    https://openreview.net/profile?id=~Daochang_Liu1
+    https://openreview.net/profile?id=~Chang_Xu4
+
+[paper]
+# paper        : 128
+# page         : 6
+# paper_in_page: 3
+AIR-BENCH 2024: A Safety Benchmark based on Regulation and Policies Specified Risk Categories
+    https://openreview.net/profile?id=~Yi_Zeng3
+    https://openreview.net/profile?id=~Yu_Yang4
+    https://openreview.net/profile?id=~Andy_Zhou2
+    https://openreview.net/profile?id=~Jeffrey_Ziwei_Tan1
+    https://openreview.net/profile?id=~Yuheng_Tu1
+    https://openreview.net/profile?id=~Yifan_Mai1
+    https://openreview.net/profile?id=~Kevin_Klyman1
+    https://openreview.net/profile?id=~Minzhou_Pan1
+    https://openreview.net/profile?id=~Ruoxi_Jia1
+    https://openreview.net/profile?id=~Dawn_Song1
+    https://openreview.net/profile?id=~Percy_Liang1
+    https://openreview.net/profile?id=~Bo_Li19
+
+[paper]
+# paper        : 129
+# page         : 6
+# paper_in_page: 4
+DARE the Extreme: Revisiting Delta-Parameter Pruning For Fine-Tuned Models
+    https://openreview.net/profile?id=~Wenlong_Deng1
+    https://openreview.net/profile?id=~Yize_Zhao2
+    https://openreview.net/profile?id=~Vala_Vakilian2
+    https://openreview.net/profile?id=~Minghui_Chen1
+    https://openreview.net/profile?id=~Xiaoxiao_Li1
+    https://openreview.net/profile?id=~Christos_Thrampoulidis1
+
+[paper]
+# paper        : 130
+# page         : 6
+# paper_in_page: 5
+CREIMBO: Cross-Regional Ensemble Interactions in Multi-view Brain Observations
+    https://openreview.net/profile?id=~Noga_Mudrik1
+    https://openreview.net/profile?id=~Ryan_Ly1
+    https://openreview.net/profile?id=~Oliver_Ruebel1
+    https://openreview.net/profile?id=~Adam_Shabti_Charles1
+
+[paper]
+# paper        : 131
+# page         : 6
+# paper_in_page: 6
+Learning vector fields of differential equations on manifolds with geometrically constrained operator-valued kernels
+    https://openreview.net/profile?id=~Daning_Huang1
+    https://openreview.net/profile?id=~Hanyang_He1
+    https://openreview.net/profile?id=~John_Harlim1
+    https://openreview.net/profile?id=~Yan_Li49
+
+[paper]
+# paper        : 132
+# page         : 6
+# paper_in_page: 7
+Budgeted Online Continual Learning by Adaptive Layer Freezing and Frequency-based Sampling
+    https://openreview.net/profile?id=~Minhyuk_Seo1
+    https://openreview.net/profile?id=~Hyunseo_Koh1
+    https://openreview.net/profile?id=~Jonghyun_Choi1
+
+[paper]
+# paper        : 133
+# page         : 6
+# paper_in_page: 8
+Control-oriented Clustering of Visual Latent Representation
+    https://openreview.net/profile?id=~Han_Qi1
+    https://openreview.net/profile?id=~Haocheng_Yin1
+    https://openreview.net/profile?id=~Heng_Yang4
+
+[paper]
+# paper        : 134
+# page         : 6
+# paper_in_page: 9
+When do GFlowNets learn the right distribution?
+    https://openreview.net/profile?id=~Tiago_Silva4
+    https://openreview.net/profile?id=~Rodrigo_Barreto_Alves1
+    https://openreview.net/profile?id=~Eliezer_de_Souza_da_Silva1
+    https://openreview.net/profile?id=~Amauri_H_Souza1
+    https://openreview.net/profile?id=~Vikas_Garg2
+    https://openreview.net/profile?id=~Samuel_Kaski1
+    https://openreview.net/profile?id=~Diego_Mesquita1
+
+[paper]
+# paper        : 135
+# page         : 6
+# paper_in_page: 10
+R 2 -Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning
+    https://openreview.net/profile?id=~Mintong_Kang1
+    https://openreview.net/profile?id=~Bo_Li19
+
+[paper]
+# paper        : 136
+# page         : 6
+# paper_in_page: 11
+NetFormer: An interpretable model for recovering dynamical connectivity in neuronal population dynamics
+    https://openreview.net/profile?id=~Wuwei_Zhang1
+    https://openreview.net/profile?id=~Ziyu_Lu3
+    https://openreview.net/profile?id=~Trung_Le4
+    https://openreview.net/profile?id=~Hao_Wang3
+    https://openreview.net/profile?id=~Uygar_S%C3%BCmb%C3%BCl2
+    https://openreview.net/profile?id=~Eric_Todd_SheaBrown1
+    https://openreview.net/profile?id=~Lu_Mi1
+
+[paper]
+# paper        : 137
+# page         : 6
+# paper_in_page: 12
+Revisiting Random Walks for Learning on Graphs
+    https://openreview.net/profile?id=~Jinwoo_Kim4
+    https://openreview.net/profile?id=~Olga_Zaghen1
+    https://openreview.net/profile?id=~Ayhan_Suleymanzade1
+    https://openreview.net/profile?id=~Youngmin_Ryou1
+    https://openreview.net/profile?id=~Seunghoon_Hong2
+
+[paper]
+# paper        : 138
+# page         : 6
+# paper_in_page: 13
+DeFT: Decoding with Flash Tree-attention for Efficient Tree-structured LLM Inference
+    https://openreview.net/profile?id=~Jinwei_Yao1
+    https://openreview.net/profile?id=~Kaiqi_Chen7
+    https://openreview.net/profile?id=~Kexun_Zhang1
+    https://openreview.net/profile?id=~Jiaxuan_You2
+    https://openreview.net/profile?id=~Binhang_Yuan1
+    https://openreview.net/profile?id=~Zeke_Wang1
+    https://openreview.net/profile?id=~Tao_Lin1
+
+[paper]
+# paper        : 139
+# page         : 6
+# paper_in_page: 14
+How to Find the Exact Pareto Front for Multi-Objective MDPs?
+    https://openreview.net/profile?id=~Yining_Li3
+    https://openreview.net/profile?id=~Peizhong_Ju1
+    https://openreview.net/profile?id=~Ness_Shroff1
+
+[paper]
+# paper        : 140
+# page         : 6
+# paper_in_page: 15
+Enhancing Learning with Label Differential Privacy by Vector Approximation
+    https://openreview.net/profile?id=~Puning_Zhao1
+    https://openreview.net/profile?id=~Jiafei_Wu1
+    https://openreview.net/profile?id=~Zhe_Liu11
+    https://openreview.net/profile?id=~Li_Shen1
+    https://openreview.net/profile?id=~Zhikun_Zhang2
+    https://openreview.net/profile?id=~Rongfei_Fan1
+    https://openreview.net/profile?id=~Le_Sun3
+    https://openreview.net/profile?id=~Qingming_Li1
+
+[paper]
+# paper        : 141
+# page         : 6
+# paper_in_page: 16
+Online Neuro-Symbolic Predicate Invention for High-Level Planning
+    https://openreview.net/profile?id=~Yichao_Liang1
+    https://openreview.net/profile?id=~Nishanth_Kumar1
+    https://openreview.net/profile?id=~Hao_Tang5
+    https://openreview.net/profile?id=~Adrian_Weller1
+    https://openreview.net/profile?id=~Joshua_B._Tenenbaum1
+    https://openreview.net/profile?id=~Tom_Silver1
+    https://openreview.net/profile?id=~Joao_F._Henriques1
+    https://openreview.net/profile?id=~Kevin_Ellis1
+
+[paper]
+# paper        : 142
+# page         : 6
+# paper_in_page: 17
+Multi-Draft Speculative Sampling: Canonical Architectures and Theoretical Limits
+    https://openreview.net/profile?id=~Ashish_J_Khisti1
+    https://openreview.net/profile?id=~MohammadReza_Ebrahimi1
+    https://openreview.net/profile?id=~Hassan_Dbouk1
+    https://openreview.net/profile?id=~Arash_Behboodi1
+    https://openreview.net/profile?id=~Roland_Memisevic1
+    https://openreview.net/profile?id=~Christos_Louizos1
+
+[paper]
+# paper        : 143
+# page         : 6
+# paper_in_page: 18
+First-Person Fairness in Chatbots
+    https://openreview.net/profile?id=~Tyna_Eloundou1
+    https://openreview.net/profile?id=~Alex_Beutel1
+    https://openreview.net/profile?id=~David_G._Robinson1
+    https://openreview.net/profile?id=~Keren_Gu2
+    https://openreview.net/profile?id=~Anna-Luisa_Brakman1
+    https://openreview.net/profile?id=~Pamela_Mishkin1
+    https://openreview.net/profile?id=~Meghan_Shah1
+    https://openreview.net/profile?id=~Johannes_Heidecke1
+    https://openreview.net/profile?id=~Lilian_Weng1
+    https://openreview.net/profile?id=~Adam_Tauman_Kalai1
+
+[paper]
+# paper        : 144
+# page         : 6
+# paper_in_page: 19
+Can Large Language Models Understand Symbolic Graphics Programs?
+    https://openreview.net/profile?id=~Zeju_Qiu1
+    https://openreview.net/profile?id=~Weiyang_Liu1
+    https://openreview.net/profile?id=~Haiwen_Feng1
+    https://openreview.net/profile?id=~Zhen_Liu6
+    https://openreview.net/profile?id=~Tim_Z._Xiao1
+    https://openreview.net/profile?id=~Katherine_M._Collins1
+    https://openreview.net/profile?id=~Joshua_B._Tenenbaum1
+    https://openreview.net/profile?id=~Adrian_Weller1
+    https://openreview.net/profile?id=~Michael_J._Black1
+    https://openreview.net/profile?id=~Bernhard_Sch%C3%B6lkopf1
+
+[paper]
+# paper        : 145
+# page         : 6
+# paper_in_page: 20
+Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction
+    https://openreview.net/profile?id=~Ziyang_Wu1
+    https://openreview.net/profile?id=~Tianjiao_Ding1
+    https://openreview.net/profile?id=~Yifu_Lu1
+    https://openreview.net/profile?id=~Druv_Pai1
+    https://openreview.net/profile?id=~Jingyuan_Zhang2
+    https://openreview.net/profile?id=~Weida_Wang1
+    https://openreview.net/profile?id=~Yaodong_Yu4
+    https://openreview.net/profile?id=~Yi_Ma4
+    https://openreview.net/profile?id=~Benjamin_David_Haeffele1
+
+[paper]
+# paper        : 146
+# page         : 6
+# paper_in_page: 21
+Nonlinear Sequence Embedding by Monotone Variational Inequality
+    https://openreview.net/profile?id=~Jonathan_Yuyang_Zhou1
+    https://openreview.net/profile?id=~Yao_Xie2
+
+[paper]
+# paper        : 147
+# page         : 6
+# paper_in_page: 22
+X-ALMA: Plug & Play Modules and Adaptive Rejection for Quality Translation at Scale
+    https://openreview.net/profile?id=~Haoran_Xu3
+    https://openreview.net/profile?id=~Kenton_Murray1
+    https://openreview.net/profile?id=~Philipp_Koehn2
+    https://openreview.net/profile?id=~Hieu_Hoang2
+    https://openreview.net/profile?id=~Akiko_Eriguchi1
+    https://openreview.net/profile?id=~Huda_Khayrallah1
+
+[paper]
+# paper        : 148
+# page         : 6
+# paper_in_page: 23
+Not All LLM-Generated Data Are Equal: Rethinking Data Weighting in Text Classification
+    https://openreview.net/profile?id=~Hsun-Yu_Kuo1
+    https://openreview.net/profile?id=~Yin-Hsiang_Liao1
+    https://openreview.net/profile?id=~Yu-Chieh_Chao2
+    https://openreview.net/profile?id=~Wei-Yun_Ma1
+    https://openreview.net/profile?id=~Pu-Jen_Cheng1
+
+[paper]
+# paper        : 149
+# page         : 6
+# paper_in_page: 24
+Systems with Switching Causal Relations: A Meta-Causal Perspective
+    https://openreview.net/profile?id=~Moritz_Willig1
+    https://openreview.net/profile?id=~Tim_Tobiasch1
+    https://openreview.net/profile?id=~Florian_Peter_Busch1
+    https://openreview.net/profile?id=~Jonas_Seng1
+    https://openreview.net/profile?id=~Devendra_Singh_Dhami1
+    https://openreview.net/profile?id=~Kristian_Kersting1
+
+[paper]
+# paper        : 150
+# page         : 6
+# paper_in_page: 25
+Multi-Robot Motion Planning with Diffusion Models
+    https://openreview.net/profile?id=~Yorai_Shaoul1
+    https://openreview.net/profile?id=~Itamar_Mishani1
+    https://openreview.net/profile?id=~Shivam_Vats1
+    https://openreview.net/profile?id=~Jiaoyang_Li1
+    https://openreview.net/profile?id=~Maxim_Likhachev1
+
+[paper]
+# paper        : 151
+# page         : 7
+# paper_in_page: 1
+Graph Neural Networks Can (Often) Count Substructures
+    https://openreview.net/profile?id=~Paolo_Pellizzoni1
+    https://openreview.net/profile?id=~Till_Hendrik_Schulz1
+    https://openreview.net/profile?id=~Karsten_Borgwardt2
+
+[paper]
+# paper        : 152
+# page         : 7
+# paper_in_page: 2
+Towards hyperparameter-free optimization with differential privacy
+    https://openreview.net/profile?id=~Ruixuan_Liu2
+    https://openreview.net/profile?id=~Zhiqi_Bu1
+
+[paper]
+# paper        : 153
+# page         : 7
+# paper_in_page: 3
+AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials
+    https://openreview.net/profile?id=~Yiheng_Xu1
+    https://openreview.net/profile?id=~Dunjie_Lu1
+    https://openreview.net/profile?id=~Zhennan_Shen1
+    https://openreview.net/profile?id=~Junli_Wang3
+    https://openreview.net/profile?id=~Zekun_Wang1
+    https://openreview.net/profile?id=~Yuchen_Mao1
+    https://openreview.net/profile?id=~Caiming_Xiong1
+    https://openreview.net/profile?id=~Tao_Yu5
+
+[paper]
+# paper        : 154
+# page         : 7
+# paper_in_page: 4
+Bilinear MLPs enable weight-based mechanistic interpretability
+    https://openreview.net/profile?id=~Michael_T_Pearce1
+    https://openreview.net/profile?id=~Thomas_Dooms1
+    https://openreview.net/profile?id=~Alice_Rigg1
+    https://openreview.net/profile?id=~Jose_Oramas1
+    https://openreview.net/profile?id=~Lee_Sharkey1
+
+[paper]
+# paper        : 155
+# page         : 7
+# paper_in_page: 5
+Towards a Unified and Verified Understanding of Group-Operation Networks
+    https://openreview.net/profile?id=~Wilson_Wu1
+    https://openreview.net/profile?id=~Louis_Jaburi1
+    https://openreview.net/profile?id=~jacob_drori2
+    https://openreview.net/profile?id=~Jason_Gross2
+
+[paper]
+# paper        : 156
+# page         : 7
+# paper_in_page: 6
+Approximation algorithms for combinatorial optimization with predictions
+    https://openreview.net/profile?id=~Antonios_Antoniadis1
+    https://openreview.net/profile?id=~Marek_Elias1
+    https://openreview.net/profile?id=~Adam_Polak1
+    https://openreview.net/profile?id=~Moritz_Venzin1
+
+[paper]
+# paper        : 157
+# page         : 7
+# paper_in_page: 7
+Bayesian Experimental Design Via Contrastive Diffusions
+    https://openreview.net/profile?id=~Jacopo_Iollo1
+    https://openreview.net/profile?id=~Christophe_Heinkel%C3%A91
+    https://openreview.net/profile?id=~Pierre_Alliez1
+    https://openreview.net/profile?id=~Florence_Forbes1
+
+[paper]
+# paper        : 158
+# page         : 7
+# paper_in_page: 8
+MorphoDiff: Cellular Morphology Painting with Diffusion Models
+    https://openreview.net/profile?id=~Zeinab_Navidi1
+    https://openreview.net/profile?id=~Jun_Ma1
+    https://openreview.net/profile?id=~Esteban_Miglietta1
+    https://openreview.net/profile?id=~Le_Liu5
+    https://openreview.net/profile?id=~Anne_E_Carpenter1
+    https://openreview.net/profile?id=~Beth_A_Cimini1
+    https://openreview.net/profile?id=~Benjamin_Haibe-Kains1
+    https://openreview.net/profile?id=~BO_WANG11
+
+[paper]
+# paper        : 159
+# page         : 7
+# paper_in_page: 9
+Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations
+    https://openreview.net/profile?id=~Richard_Bergna1
+    https://openreview.net/profile?id=~Sergio_Calvo_Ordo%C3%B1ez1
+    https://openreview.net/profile?id=~Felix_Opolka1
+    https://openreview.net/profile?id=~Pietro_Lio1
+    https://openreview.net/profile?id=~Jos%C3%A9_Miguel_Hern%C3%A1ndez-Lobato1
+
+[paper]
+# paper        : 160
+# page         : 7
+# paper_in_page: 10
+Simplifying Deep Temporal Difference Learning
+    https://openreview.net/profile?id=~Matteo_Gallici1
+    https://openreview.net/profile?id=~Mattie_Fellows1
+    https://openreview.net/profile?id=~Benjamin_Ellis1
+    https://openreview.net/profile?id=~Bartomeu_Pou1
+    https://openreview.net/profile?id=~Ivan_Masmitja1
+    https://openreview.net/profile?id=~Jakob_Nicolaus_Foerster1
+    https://openreview.net/profile?id=~Mario_Martin2
+
+[paper]
+# paper        : 161
+# page         : 7
+# paper_in_page: 11
+The Superposition of Diffusion Models
+    https://openreview.net/profile?id=~Marta_Skreta1
+    https://openreview.net/profile?id=~Lazar_Atanackovic1
+    https://openreview.net/profile?id=~Joey_Bose1
+    https://openreview.net/profile?id=~Alexander_Tong1
+    https://openreview.net/profile?id=~Kirill_Neklyudov1
+
+[paper]
+# paper        : 162
+# page         : 7
+# paper_in_page: 12
+Differentiable Integer Linear Programming
+    https://openreview.net/profile?id=~Zijie_Geng1
+    https://openreview.net/profile?id=~Jie_Wang1
+    https://openreview.net/profile?id=~Xijun_Li1
+    https://openreview.net/profile?id=~Fangzhou_Zhu1
+    https://openreview.net/profile?id=~Jianye_HAO1
+    https://openreview.net/profile?id=~Bin_Li8
+    https://openreview.net/profile?id=~Feng_Wu1
+
+[paper]
+# paper        : 163
+# page         : 7
+# paper_in_page: 13
+Streaming Algorithms For  p Flows and  p Regression
+    https://openreview.net/profile?id=~Amit_Chakrabarti2
+    https://openreview.net/profile?id=~Jeffrey_Jiang2
+    https://openreview.net/profile?id=~David_Woodruff1
+    https://openreview.net/profile?id=~Taisuke_Yasuda1
+
+[paper]
+# paper        : 164
+# page         : 7
+# paper_in_page: 14
+Generalized Principal-Agent Problem with a Learning Agent
+    https://openreview.net/profile?id=~Tao_Lin2
+    https://openreview.net/profile?id=~Yiling_Chen1
+
+[paper]
+# paper        : 165
+# page         : 7
+# paper_in_page: 15
+Targeted Attack Improves Protection against Unauthorized Diffusion Customization
+    https://openreview.net/profile?id=~Boyang_Zheng1
+    https://openreview.net/profile?id=~Chumeng_Liang2
+    https://openreview.net/profile?id=~Xiaoyu_Wu1
+
+[paper]
+# paper        : 166
+# page         : 7
+# paper_in_page: 16
+High-dimensional Analysis of Knowledge Distillation: Weak-to-Strong Generalization and Scaling Laws
+    https://openreview.net/profile?id=~Muhammed_Emrullah_Ildiz1
+    https://openreview.net/profile?id=~Halil_Alperen_Gozeten1
+    https://openreview.net/profile?id=~Ege_Onur_Taga1
+    https://openreview.net/profile?id=~Marco_Mondelli1
+    https://openreview.net/profile?id=~Samet_Oymak2
+
+[paper]
+# paper        : 167
+# page         : 7
+# paper_in_page: 17
+BlendRL: A Framework for Merging Symbolic and Neural Policy Learning
+    https://openreview.net/profile?id=~Hikaru_Shindo1
+    https://openreview.net/profile?id=~Quentin_Delfosse1
+    https://openreview.net/profile?id=~Devendra_Singh_Dhami1
+    https://openreview.net/profile?id=~Kristian_Kersting1
+
+[paper]
+# paper        : 168
+# page         : 7
+# paper_in_page: 18
+Uncovering Overfitting in Large Language Model Editing
+    https://openreview.net/profile?id=~Mengqi_Zhang1
+    https://openreview.net/profile?id=~Xiaotian_Ye1
+    https://openreview.net/profile?id=~Qiang_Liu8
+    https://openreview.net/profile?id=~Shu_Wu1
+    https://openreview.net/profile?id=~Pengjie_Ren1
+    https://openreview.net/profile?id=~Zhumin_Chen1
+
+[paper]
+# paper        : 169
+# page         : 7
+# paper_in_page: 19
+Advantage-Guided Distillation for Preference Alignment in Small Language Models
+    https://openreview.net/profile?id=~Shiping_Gao2
+    https://openreview.net/profile?id=~Fanqi_Wan1
+    https://openreview.net/profile?id=~Jiajian_Guo1
+    https://openreview.net/profile?id=~Xiaojun_Quan1
+    https://openreview.net/profile?id=~Qifan_Wang2
+
+[paper]
+# paper        : 170
+# page         : 7
+# paper_in_page: 20
+SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding
+    https://openreview.net/profile?id=~Zhenyu_Yang6
+    https://openreview.net/profile?id=~Yuhang_Hu3
+    https://openreview.net/profile?id=~Zemin_Du2
+    https://openreview.net/profile?id=~Dizhan_Xue1
+    https://openreview.net/profile?id=~Shengsheng_Qian1
+    https://openreview.net/profile?id=~Jiahong_Wu2
+    https://openreview.net/profile?id=~Fan_Yang30
+    https://openreview.net/profile?id=~Weiming_Dong1
+    https://openreview.net/profile?id=~Changsheng_Xu1
+
+[paper]
+# paper        : 171
+# page         : 7
+# paper_in_page: 21
+Knowledge Distillation with Multi-granularity Mixture of Priors for Image Super-Resolution
+    https://openreview.net/profile?id=~Simiao_Li2
+    https://openreview.net/profile?id=~Yun_Zhang5
+    https://openreview.net/profile?id=~Wei_Li60
+    https://openreview.net/profile?id=~Hanting_Chen1
+    https://openreview.net/profile?id=~Wenjia_Wang2
+    https://openreview.net/profile?id=~Bingyi_Jing1
+    https://openreview.net/profile?id=~Shaohui_Lin1
+    https://openreview.net/profile?id=~Jie_Hu8
+
+[paper]
+# paper        : 172
+# page         : 7
+# paper_in_page: 22
+Controlling Language and Diffusion Models by Transporting Activations
+    https://openreview.net/profile?id=~Pau_Rodriguez2
+    https://openreview.net/profile?id=~Arno_Blaas1
+    https://openreview.net/profile?id=~Michal_Klein1
+    https://openreview.net/profile?id=~Luca_Zappella1
+    https://openreview.net/profile?id=~Nicholas_Apostoloff1
+    https://openreview.net/profile?id=~marco_cuturi2
+    https://openreview.net/profile?id=~Xavier_Suau1
+
+[paper]
+# paper        : 173
+# page         : 7
+# paper_in_page: 23
+Efficient and Accurate Explanation Estimation with Distribution Compression
+    https://openreview.net/profile?id=~Hubert_Baniecki1
+    https://openreview.net/profile?id=~Giuseppe_Casalicchio1
+    https://openreview.net/profile?id=~Bernd_Bischl1
+    https://openreview.net/profile?id=~Przemyslaw_Biecek2
+
+[paper]
+# paper        : 174
+# page         : 7
+# paper_in_page: 24
+Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment
+    https://openreview.net/profile?id=~Dongping_Chen1
+    https://openreview.net/profile?id=~Ruoxi_Chen1
+    https://openreview.net/profile?id=~Shu_Pu1
+    https://openreview.net/profile?id=~Zhaoyi_Liu1
+    https://openreview.net/profile?id=~Yanru_Wu2
+    https://openreview.net/profile?id=~Caixi_Chen1
+    https://openreview.net/profile?id=~Benlin_Liu1
+    https://openreview.net/profile?id=~Yue_Huang9
+    https://openreview.net/profile?id=~Yao_Wan2
+    https://openreview.net/profile?id=~Pan_Zhou5
+    https://openreview.net/profile?id=~Ranjay_Krishna1
+
+[paper]
+# paper        : 175
+# page         : 7
+# paper_in_page: 25
+ODE-based Smoothing Neural Network for Reinforcement Learning Tasks
+    https://openreview.net/profile?id=~Yinuo_Wang5
+    https://openreview.net/profile?id=~Wenxuan_Wang5
+    https://openreview.net/profile?id=~Xujie_Song1
+    https://openreview.net/profile?id=~Tong_Liu11
+    https://openreview.net/profile?id=~Yuming_Yin1
+    https://openreview.net/profile?id=~Liangfa_Chen1
+    https://openreview.net/profile?id=~Likun_Wang1
+    https://openreview.net/profile?id=~Jingliang_Duan1
+    https://openreview.net/profile?id=~Shengbo_Eben_Li2
+
+[paper]
+# paper        : 176
+# page         : 8
+# paper_in_page: 1
+Learning from End User Data with Shuffled Differential Privacy over Kernel Densities
+    https://openreview.net/profile?id=~Tal_Wagner1
+
+[paper]
+# paper        : 177
+# page         : 8
+# paper_in_page: 2
+Biologically Constrained Barrel Cortex Model Integrates Whisker Inputs and Replicates Key Brain Network Dynamics
+    https://openreview.net/profile?id=~Tianfang_Zhu1
+    https://openreview.net/profile?id=~Dongli_Hu1
+    https://openreview.net/profile?id=~Jiandong_Zhou2
+    https://openreview.net/profile?id=~Kai_Du2
+    https://openreview.net/profile?id=~Anan_LI2
+
+[paper]
+# paper        : 178
+# page         : 8
+# paper_in_page: 3
+MAGNet: Motif-Agnostic Generation of Molecules from Scaffolds
+    https://openreview.net/profile?id=~Leon_Hetzel1
+    https://openreview.net/profile?id=~Johanna_Sommer1
+    https://openreview.net/profile?id=~Bastian_Rieck1
+    https://openreview.net/profile?id=~Fabian_J_Theis1
+    https://openreview.net/profile?id=~Stephan_G%C3%BCnnemann1
+
+[paper]
+# paper        : 179
+# page         : 8
+# paper_in_page: 4
+Broaden your SCOPE! Efficient Conversation Planning for LLMs with Semantic Space
+    https://openreview.net/profile?id=~Zhiliang_Chen1
+    https://openreview.net/profile?id=~Xinyuan_Niu1
+    https://openreview.net/profile?id=~Chuan-Sheng_Foo1
+    https://openreview.net/profile?id=~Bryan_Kian_Hsiang_Low1
+
+[paper]
+# paper        : 180
+# page         : 8
+# paper_in_page: 5
+SPA-BENCH: A COMPREHENSIVE BENCHMARK FOR SMARTPHONE AGENT EVALUATION
+    https://openreview.net/profile?id=~Jingxuan_Chen2
+    https://openreview.net/profile?id=~Derek_Yuen1
+    https://openreview.net/profile?id=~Bin_Xie3
+    https://openreview.net/profile?id=~Yuhao_Yang5
+    https://openreview.net/profile?id=~Gongwei_Chen1
+    https://openreview.net/profile?id=~Zhihao_Wu7
+    https://openreview.net/profile?id=~Li_Yixing2
+    https://openreview.net/profile?id=~Xurui_Zhou1
+    https://openreview.net/profile?id=~Weiwen_Liu1
+    https://openreview.net/profile?id=~Shuai_Wang34
+    https://openreview.net/profile?id=~Kaiwen_Zhou2
+    https://openreview.net/profile?id=~Rui_Shao1
+    https://openreview.net/profile?id=~Liqiang_Nie2
+    https://openreview.net/profile?id=~Yasheng_Wang1
+    https://openreview.net/profile?id=~Jianye_HAO1
+    https://openreview.net/profile?id=~Jun_Wang2
+    https://openreview.net/profile?id=~Kun_Shao1
+
+[paper]
+# paper        : 181
+# page         : 8
+# paper_in_page: 6
+DeepRTL: Bridging Verilog Understanding and Generation with a Unified Representation Model
+    https://openreview.net/profile?id=~Yi_Liu48
+    https://openreview.net/profile?id=~Changran_XU1
+    https://openreview.net/profile?id=~Yunhao_Zhou1
+    https://openreview.net/profile?id=~Zeju_Li4
+    https://openreview.net/profile?id=~Qiang_Xu1
+
+[paper]
+# paper        : 182
+# page         : 8
+# paper_in_page: 7
+Robust Function-Calling for On-Device Language Model via Function Masking
+    https://openreview.net/profile?id=~Qiqiang_Lin1
+    https://openreview.net/profile?id=~Muning_Wen2
+    https://openreview.net/profile?id=~Qiuying_Peng1
+    https://openreview.net/profile?id=~Guanyu_Nie1
+    https://openreview.net/profile?id=~Junwei_Liao1
+    https://openreview.net/profile?id=~Jun_Wang84
+    https://openreview.net/profile?id=~Xiaoyun_Mo1
+    https://openreview.net/profile?id=~Jiamu_Zhou1
+    https://openreview.net/profile?id=~Cheng_Cheng15
+    https://openreview.net/profile?id=~Yin_Zhao3
+    https://openreview.net/profile?id=~Jun_Wang38
+    https://openreview.net/profile?id=~Weinan_Zhang1
+
+[paper]
+# paper        : 183
+# page         : 8
+# paper_in_page: 8
+IGL-Bench: Establishing the Comprehensive Benchmark for Imbalanced Graph Learning
+    https://openreview.net/profile?id=~Jiawen_Qin1
+    https://openreview.net/profile?id=~Haonan_Yuan2
+    https://openreview.net/profile?id=~Qingyun_Sun2
+    https://openreview.net/profile?id=~Lyujin_Xu1
+    https://openreview.net/profile?id=~Jiaqi_Yuan2
+    https://openreview.net/profile?id=~Pengfeng_Huang1
+    https://openreview.net/profile?id=~Zhaonan_Wang4
+    https://openreview.net/profile?id=~Xingcheng_Fu1
+    https://openreview.net/profile?id=~Hao_Peng7
+    https://openreview.net/profile?id=~Jianxin_Li3
+    https://openreview.net/profile?id=~Philip_S._Yu1
+
+[paper]
+# paper        : 184
+# page         : 8
+# paper_in_page: 9
+Learning Equivariant Non-Local Electron Density Functionals
+    https://openreview.net/profile?id=~Nicholas_Gao1
+    https://openreview.net/profile?id=~Eike_Eberhard1
+    https://openreview.net/profile?id=~Stephan_G%C3%BCnnemann1
+
+[paper]
+# paper        : 185
+# page         : 8
+# paper_in_page: 10
+PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction
+    https://openreview.net/profile?id=~Shangyu_Chen2
+    https://openreview.net/profile?id=~Zizheng_Pan1
+    https://openreview.net/profile?id=~Jianfei_Cai1
+    https://openreview.net/profile?id=~Dinh_Phung2
+
+[paper]
+# paper        : 186
+# page         : 8
+# paper_in_page: 11
+Near-Optimal Online Learning for Multi-Agent Submodular Coordination: Tight Approximation and Communication Efficiency
+    https://openreview.net/profile?id=~Qixin_Zhang1
+    https://openreview.net/profile?id=~Zongqi_Wan1
+    https://openreview.net/profile?id=~Yu_Yang9
+    https://openreview.net/profile?id=~Li_Shen1
+    https://openreview.net/profile?id=~Dacheng_Tao1
+
+[paper]
+# paper        : 187
+# page         : 8
+# paper_in_page: 12
+PETRA: Parallel End-to-end Training with Reversible Architectures
+    https://openreview.net/profile?id=~Stephane_Rivaud1
+    https://openreview.net/profile?id=~Louis_Fournier1
+    https://openreview.net/profile?id=~Thomas_Pumir1
+    https://openreview.net/profile?id=~Eugene_Belilovsky1
+    https://openreview.net/profile?id=~Michael_Eickenberg5
+    https://openreview.net/profile?id=~Edouard_Oyallon1
+
+[paper]
+# paper        : 188
+# page         : 8
+# paper_in_page: 13
+BirdSet: A Large-Scale Dataset for Audio Classification in Avian Bioacoustics
+    https://openreview.net/profile?id=~Lukas_Rauch1
+    https://openreview.net/profile?id=~Raphael_Schwinger1
+    https://openreview.net/profile?id=~Moritz_Wirth1
+    https://openreview.net/profile?id=~Ren%C3%A9_Heinrich1
+    https://openreview.net/profile?id=~Denis_Huseljic1
+    https://openreview.net/profile?id=~Marek_Herde1
+    https://openreview.net/profile?id=~Jonas_Lange1
+    https://openreview.net/profile?id=~Stefan_Kahl1
+    https://openreview.net/profile?id=~Bernhard_Sick1
+    https://openreview.net/profile?id=~Sven_Tomforde1
+    https://openreview.net/profile?id=~Christoph_Scholz1
+
+[paper]
+# paper        : 189
+# page         : 8
+# paper_in_page: 14
+SePer: Measure Retrieval Utility Through The Lens Of Semantic Perplexity Reduction
+    https://openreview.net/profile?id=~Lu_Dai1
+    https://openreview.net/profile?id=~Yijie_Xu2
+    https://openreview.net/profile?id=~Jinhui_Ye1
+    https://openreview.net/profile?id=~Hao_Liu17
+    https://openreview.net/profile?id=~Hui_Xiong1
+
+[paper]
+# paper        : 190
+# page         : 8
+# paper_in_page: 15
+Physics-aligned field reconstruction with diffusion bridge
+    https://openreview.net/profile?id=~Zeyu_Li5
+    https://openreview.net/profile?id=~Hongkun_Dou3
+    https://openreview.net/profile?id=~Shen_Fang1
+    https://openreview.net/profile?id=~Wang_Han1
+    https://openreview.net/profile?id=~Yue_Deng4
+    https://openreview.net/profile?id=~Lijun_Yang1
+
+[paper]
+# paper        : 191
+# page         : 8
+# paper_in_page: 16
+RegMix: Data Mixture as Regression for Language Model Pre-training
+    https://openreview.net/profile?id=~Qian_Liu2
+    https://openreview.net/profile?id=~Xiaosen_Zheng1
+    https://openreview.net/profile?id=~Niklas_Muennighoff1
+    https://openreview.net/profile?id=~Guangtao_Zeng1
+    https://openreview.net/profile?id=~Longxu_Dou1
+    https://openreview.net/profile?id=~Tianyu_Pang1
+    https://openreview.net/profile?id=~Jing_Jiang1
+    https://openreview.net/profile?id=~Min_Lin1
+
+[paper]
+# paper        : 192
+# page         : 8
+# paper_in_page: 17
+When Attention Sink Emerges in Language Models: An Empirical View
+    https://openreview.net/profile?id=~Xiangming_Gu1
+    https://openreview.net/profile?id=~Tianyu_Pang1
+    https://openreview.net/profile?id=~Chao_Du1
+    https://openreview.net/profile?id=~Qian_Liu2
+    https://openreview.net/profile?id=~Fengzhuo_Zhang1
+    https://openreview.net/profile?id=~Cunxiao_Du3
+    https://openreview.net/profile?id=~Ye_Wang3
+    https://openreview.net/profile?id=~Min_Lin1
+
+[paper]
+# paper        : 193
+# page         : 8
+# paper_in_page: 18
+PianoMotion10M: Dataset and Benchmark for Hand Motion Generation in Piano Performance
+    https://openreview.net/profile?id=~Qijun_Gan1
+    https://openreview.net/profile?id=~Song_Wang11
+    https://openreview.net/profile?id=~Shengtao_Wu1
+    https://openreview.net/profile?id=~Jianke_Zhu1
+
+[paper]
+# paper        : 194
+# page         : 8
+# paper_in_page: 19
+The Power of LLM-Generated Synthetic Data for Stance Detection in Online Political Discussions
+    https://openreview.net/profile?id=~Stefan_Sylvius_Wagner1
+    https://openreview.net/profile?id=~Maike_Behrendt1
+    https://openreview.net/profile?id=~Marc_Ziegele1
+    https://openreview.net/profile?id=~Stefan_Harmeling1
+
+[paper]
+# paper        : 195
+# page         : 8
+# paper_in_page: 20
+Language Models Can Articulate Their Implicit Goals
+    https://openreview.net/profile?id=~Jan_Betley1
+    https://openreview.net/profile?id=~Xuchan_Bao1
+    https://openreview.net/profile?id=~Mart%C3%ADn_Soto1
+    https://openreview.net/profile?id=~Anna_Sztyber-Betley1
+    https://openreview.net/profile?id=~James_Chua2
+    https://openreview.net/profile?id=~Owain_Evans1
+
+[paper]
+# paper        : 196
+# page         : 8
+# paper_in_page: 21
+COPER: Correlation-based Permutations for Multi-View Clustering
+    https://openreview.net/profile?id=~Ran_Eisenberg1
+    https://openreview.net/profile?id=~Jonathan_Svirsky1
+    https://openreview.net/profile?id=~Ofir_Lindenbaum1
+
+[paper]
+# paper        : 197
+# page         : 8
+# paper_in_page: 22
+Improving Convergence Guarantees of Random Subspace Second-order Algorithm for Nonconvex Optimization
+    https://openreview.net/profile?id=~Rei_Higuchi1
+    https://openreview.net/profile?id=~Pierre-Louis_Poirion1
+    https://openreview.net/profile?id=~Akiko_Takeda2
+
+[paper]
+# paper        : 198
+# page         : 8
+# paper_in_page: 23
+Revisiting text-to-image evaluation with Gecko: on metrics, prompts, and human rating
+    https://openreview.net/profile?id=~Olivia_Wiles1
+    https://openreview.net/profile?id=~Chuhan_Zhang2
+    https://openreview.net/profile?id=~Isabela_Albuquerque1
+    https://openreview.net/profile?id=~Ivana_Kajic1
+    https://openreview.net/profile?id=~Su_Wang4
+    https://openreview.net/profile?id=~Emanuele_Bugliarello1
+    https://openreview.net/profile?id=~Yasumasa_Onoe1
+    https://openreview.net/profile?id=~Pinelopi_Papalampidi1
+    https://openreview.net/profile?id=~Ira_Ktena1
+    https://openreview.net/profile?id=~Christopher_Knutsen1
+    https://openreview.net/profile?id=~Cyrus_Rashtchian1
+    https://openreview.net/profile?id=~Anant_Nawalgaria1
+    https://openreview.net/profile?id=~Jordi_Pont-Tuset2
+    https://openreview.net/profile?id=~Aida_Nematzadeh1
+
+[paper]
+# paper        : 199
+# page         : 8
+# paper_in_page: 24
+Diffusion Bridge AutoEncoders for Unsupervised Representation Learning
+    https://openreview.net/profile?id=~Yeongmin_Kim1
+    https://openreview.net/profile?id=~Kwanghyeon_Lee1
+    https://openreview.net/profile?id=~Minsang_Park1
+    https://openreview.net/profile?id=~Byeonghu_Na1
+    https://openreview.net/profile?id=~Il-chul_Moon1
+
+[paper]
+# paper        : 200
+# page         : 8
+# paper_in_page: 25
+Bundle Neural Network for message diffusion on graphs
+    https://openreview.net/profile?id=~Jacob_Bamberger1
+    https://openreview.net/profile?id=~Federico_Barbero1
+    https://openreview.net/profile?id=~Xiaowen_Dong1
+    https://openreview.net/profile?id=~Michael_M._Bronstein1
+
+[paper]
+# paper        : 201
+# page         : 9
+# paper_in_page: 1
+SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints
+    https://openreview.net/profile?id=~Miruna_Cretu1
+    https://openreview.net/profile?id=~Charles_Harris2
+    https://openreview.net/profile?id=~Ilia_Igashov1
+    https://openreview.net/profile?id=~Arne_Schneuing1
+    https://openreview.net/profile?id=~Marwin_Segler2
+    https://openreview.net/profile?id=~Bruno_Correia1
+    https://openreview.net/profile?id=~Julien_Roy1
+    https://openreview.net/profile?id=~Emmanuel_Bengio1
+    https://openreview.net/profile?id=~Pietro_Lio1
+
+[paper]
+# paper        : 202
+# page         : 9
+# paper_in_page: 2
+u-  P: The Unit-Scaled Maximal Update Parametrization
+    https://openreview.net/profile?id=~Charlie_Blake1
+    https://openreview.net/profile?id=~Constantin_Eichenberg1
+    https://openreview.net/profile?id=~Josef_Dean1
+    https://openreview.net/profile?id=~Lukas_Balles1
+    https://openreview.net/profile?id=~Luke_Yuri_Prince1
+    https://openreview.net/profile?id=~Bj%C3%B6rn_Deiseroth1
+    https://openreview.net/profile?id=~Andres_Felipe_Cruz-Salinas1
+    https://openreview.net/profile?id=~Carlo_Luschi1
+    https://openreview.net/profile?id=~Samuel_Weinbach1
+    https://openreview.net/profile?id=~Douglas_Orr1
+
+[paper]
+# paper        : 203
+# page         : 9
+# paper_in_page: 3
+Improved Convergence Rate for Diffusion Probabilistic Models
+    https://openreview.net/profile?id=~Gen_Li2
+    https://openreview.net/profile?id=~Yuchen_Jiao1
+
+[paper]
+# paper        : 204
+# page         : 9
+# paper_in_page: 4
+MagicPIG: LSH Sampling for Efficient LLM Generation
+    https://openreview.net/profile?id=~Zhuoming_Chen1
+    https://openreview.net/profile?id=~Ranajoy_Sadhukhan1
+    https://openreview.net/profile?id=~Zihao_Ye1
+    https://openreview.net/profile?id=~Yang_Zhou27
+    https://openreview.net/profile?id=~Jianyu_Zhang2
+    https://openreview.net/profile?id=~Niklas_Nolte1
+    https://openreview.net/profile?id=~Yuandong_Tian1
+    https://openreview.net/profile?id=~Matthijs_Douze1
+    https://openreview.net/profile?id=~Leon_Bottou1
+    https://openreview.net/profile?id=~Zhihao_Jia2
+    https://openreview.net/profile?id=~Beidi_Chen1
+
+[paper]
+# paper        : 205
+# page         : 9
+# paper_in_page: 5
+Streamlining Redundant Layers to Compress Large Language Models
+    https://openreview.net/profile?id=~Xiaodong_Chen7
+    https://openreview.net/profile?id=~Yuxuan_Hu2
+    https://openreview.net/profile?id=~Jing_Zhang24
+    https://openreview.net/profile?id=~Yanling_Wang1
+    https://openreview.net/profile?id=~Cuiping_Li1
+    https://openreview.net/profile?id=~Hong_Chen5
+
+[paper]
+# paper        : 206
+# page         : 9
+# paper_in_page: 6
+Rethinking and improving autoformalization: towards a faithful metric and a Dependency Retrieval-based approach
+    https://openreview.net/profile?id=~Qi_Liu17
+    https://openreview.net/profile?id=~Xinhao_Zheng2
+    https://openreview.net/profile?id=~Xudong_Lu1
+    https://openreview.net/profile?id=~Qinxiang_Cao1
+    https://openreview.net/profile?id=~Junchi_Yan2
+
+[paper]
+# paper        : 207
+# page         : 9
+# paper_in_page: 7
+Identifiable Exchangeable Mechanisms for Causal Structure and Representation Learning
+    https://openreview.net/profile?id=~Patrik_Reizinger1
+    https://openreview.net/profile?id=~Siyuan_Guo1
+    https://openreview.net/profile?id=~Ferenc_Husz%C3%A1r1
+    https://openreview.net/profile?id=~Bernhard_Sch%C3%B6lkopf1
+    https://openreview.net/profile?id=~Wieland_Brendel1
+
+[paper]
+# paper        : 208
+# page         : 9
+# paper_in_page: 8
+Learning Spatiotemporal Dynamical Systems from Point Process Observations
+    https://openreview.net/profile?id=~Valerii_Iakovlev1
+    https://openreview.net/profile?id=~Harri_L%C3%A4hdesm%C3%A4ki1
+
+[paper]
+# paper        : 209
+# page         : 9
+# paper_in_page: 9
+Probabilistic Neural Pruning via Sparsity Evolutionary Fokker-Planck-Kolmogorov Equation
+    https://openreview.net/profile?id=~Zhanfeng_Mo1
+    https://openreview.net/profile?id=~Haosen_Shi1
+    https://openreview.net/profile?id=~Sinno_Jialin_Pan1
+
+[paper]
+# paper        : 210
+# page         : 9
+# paper_in_page: 10
+Diffusion Attribution Score: Which Training Sample Determines Your Generation?
+    https://openreview.net/profile?id=~Jinxu_Lin1
+    https://openreview.net/profile?id=~Linwei_Tao2
+    https://openreview.net/profile?id=~Minjing_Dong1
+    https://openreview.net/profile?id=~Chang_Xu4
+
+[paper]
+# paper        : 211
+# page         : 9
+# paper_in_page: 11
+Uncovering Gaps in How Humans and LLMs Interpret Subjective Language
+    https://openreview.net/profile?id=~Erik_Jones3
+    https://openreview.net/profile?id=~Arjun_Patrawala1
+    https://openreview.net/profile?id=~Jacob_Steinhardt1
+
+[paper]
+# paper        : 212
+# page         : 9
+# paper_in_page: 12
+Learning local equivariant representations for quantum operators
+    https://openreview.net/profile?id=~Zhanghao_Zhouyin1
+    https://openreview.net/profile?id=~Zixi_Gan1
+    https://openreview.net/profile?id=~Shishir_Kumar_Pandey1
+    https://openreview.net/profile?id=~Linfeng_Zhang1
+    https://openreview.net/profile?id=~Qiangqiang_Gu1
+
+[paper]
+# paper        : 213
+# page         : 9
+# paper_in_page: 13
+PhyMPGN: Physics-encoded Message Passing Graph Network for spatiotemporal PDE systems
+    https://openreview.net/profile?id=~Bocheng_Zeng1
+    https://openreview.net/profile?id=~Qi_Wang30
+    https://openreview.net/profile?id=~Mengtao_Yan1
+    https://openreview.net/profile?id=~Yang_Liu52
+    https://openreview.net/profile?id=~Ruizhi_Chengze1
+    https://openreview.net/profile?id=~Yi_Zhang92
+    https://openreview.net/profile?id=~Hongsheng_Liu1
+    https://openreview.net/profile?id=~Zidong_Wang1
+    https://openreview.net/profile?id=~Hao_Sun4
+
+[paper]
+# paper        : 214
+# page         : 9
+# paper_in_page: 14
+Demystifying the Token Dynamics of Deep Selective State Space Models
+    https://openreview.net/profile?id=~Thieu_Vo1
+    https://openreview.net/profile?id=~Duy-Tung_Pham1
+    https://openreview.net/profile?id=~Xin_T._Tong2
+    https://openreview.net/profile?id=~Tan_Minh_Nguyen1
+
+[paper]
+# paper        : 215
+# page         : 9
+# paper_in_page: 15
+Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions
+    https://openreview.net/profile?id=~Yan_Ru_Pei1
+
+[paper]
+# paper        : 216
+# page         : 9
+# paper_in_page: 16
+MixEval-X: Any-to-any Evaluations from Real-world Data Mixture
+    https://openreview.net/profile?id=~Jinjie_Ni1
+    https://openreview.net/profile?id=~Yifan_Song2
+    https://openreview.net/profile?id=~Deepanway_Ghosal2
+    https://openreview.net/profile?id=~Bo_Li23
+    https://openreview.net/profile?id=~David_Junhao_Zhang1
+    https://openreview.net/profile?id=~Xiang_Yue1
+    https://openreview.net/profile?id=~Fuzhao_Xue1
+    https://openreview.net/profile?id=~Yuntian_Deng2
+    https://openreview.net/profile?id=~Zian_Zheng1
+    https://openreview.net/profile?id=~Kaichen_Zhang2
+    https://openreview.net/profile?id=~Mahir_Shah3
+    https://openreview.net/profile?id=~Kabir_Jain1
+    https://openreview.net/profile?id=~Yang_You1
+    https://openreview.net/profile?id=~Michael_Shieh1
+
+[paper]
+# paper        : 217
+# page         : 9
+# paper_in_page: 17
+Knowledge Localization: Mission Not Accomplished? Enter Query Localization!
+    https://openreview.net/profile?id=~Yuheng_Chen5
+    https://openreview.net/profile?id=~Pengfei_Cao1
+    https://openreview.net/profile?id=~Yubo_Chen1
+    https://openreview.net/profile?id=~Kang_Liu1
+    https://openreview.net/profile?id=~Jun_Zhao4
+
+[paper]
+# paper        : 218
+# page         : 9
+# paper_in_page: 18
+Graph Sparsification via Mixture of Graphs
+    https://openreview.net/profile?id=~Guibin_Zhang1
+    https://openreview.net/profile?id=~Xiangguo_Sun1
+    https://openreview.net/profile?id=~Yanwei_Yue1
+    https://openreview.net/profile?id=~Chonghe_Jiang1
+    https://openreview.net/profile?id=~Kun_Wang15
+    https://openreview.net/profile?id=~Tianlong_Chen1
+    https://openreview.net/profile?id=~Shirui_Pan1
+
+[paper]
+# paper        : 219
+# page         : 9
+# paper_in_page: 19
+Realistic Evaluation of Deep Partial-Label Learning Algorithms
+    https://openreview.net/profile?id=~Wei_Wang68
+    https://openreview.net/profile?id=~Dong-Dong_Wu1
+    https://openreview.net/profile?id=~Jindong_Wang4
+    https://openreview.net/profile?id=~Gang_Niu1
+    https://openreview.net/profile?id=~Min-Ling_Zhang2
+    https://openreview.net/profile?id=~Masashi_Sugiyama1
+
+[paper]
+# paper        : 220
+# page         : 9
+# paper_in_page: 20
+BodyGen: Advancing Towards Efficient Embodiment Co-Design
+    https://openreview.net/profile?id=~Haofei_Lu1
+    https://openreview.net/profile?id=~Zhe_Wu6
+    https://openreview.net/profile?id=~Junliang_Xing1
+    https://openreview.net/profile?id=~Jianshu_Li1
+    https://openreview.net/profile?id=~Ruoyu_Li3
+    https://openreview.net/profile?id=~Zhe_Li16
+    https://openreview.net/profile?id=~Yuanchun_Shi1
+
+[paper]
+# paper        : 221
+# page         : 9
+# paper_in_page: 21
+RAG-SR: Retrieval-Augmented Generation for Neural Symbolic Regression
+    https://openreview.net/profile?id=~Hengzhe_Zhang1
+    https://openreview.net/profile?id=~Qi_Chen10
+    https://openreview.net/profile?id=~Bing_XUE2
+    https://openreview.net/profile?id=~Wolfgang_Banzhaf1
+    https://openreview.net/profile?id=~Mengjie_Zhang1
+
+[paper]
+# paper        : 222
+# page         : 9
+# paper_in_page: 22
+Theory on Mixture-of-Experts in Continual Learning
+    https://openreview.net/profile?id=~Hongbo_Li6
+    https://openreview.net/profile?id=~Sen_Lin1
+    https://openreview.net/profile?id=~Lingjie_Duan1
+    https://openreview.net/profile?id=~Yingbin_Liang1
+    https://openreview.net/profile?id=~Ness_Shroff1
+
+[paper]
+# paper        : 223
+# page         : 9
+# paper_in_page: 23
+Decentralized Sporadic Federated Learning: A Unified Algorithmic Framework with Convergence Guarantees
+    https://openreview.net/profile?id=~Shahryar_Zehtabi1
+    https://openreview.net/profile?id=~Dong-Jun_Han1
+    https://openreview.net/profile?id=~Rohit_Parasnis1
+    https://openreview.net/profile?id=~Seyyedali_Hosseinalipour1
+    https://openreview.net/profile?id=~Christopher_Brinton1
+
+[paper]
+# paper        : 224
+# page         : 9
+# paper_in_page: 24
+MAD-TD: Model-Augmented Data stabilizes High Update Ratio RL
+    https://openreview.net/profile?id=~Claas_A_Voelcker1
+    https://openreview.net/profile?id=~Marcel_Hussing1
+    https://openreview.net/profile?id=~Eric_Eaton2
+    https://openreview.net/profile?id=~Amir-massoud_Farahmand1
+    https://openreview.net/profile?id=~Igor_Gilitschenski1
+
+[paper]
+# paper        : 225
+# page         : 9
+# paper_in_page: 25
+Linear Mode Connectivity in Differentiable Tree Ensembles
+    https://openreview.net/profile?id=~Ryuichi_Kanoh1
+    https://openreview.net/profile?id=~Mahito_Sugiyama1
+
+[paper]
+# paper        : 226
+# page         : 10
+# paper_in_page: 1
+Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model
+    https://openreview.net/profile?id=~Keda_TAO1
+    https://openreview.net/profile?id=~Jinjin_Gu1
+    https://openreview.net/profile?id=~Yulun_Zhang1
+    https://openreview.net/profile?id=~Xiucheng_Wang2
+    https://openreview.net/profile?id=~Nan_Cheng1
+
+[paper]
+# paper        : 227
+# page         : 10
+# paper_in_page: 2
+DEEM: Diffusion models serve as the eyes of large language models for image perception
+    https://openreview.net/profile?id=~Run_Luo1
+    https://openreview.net/profile?id=~Yunshui_Li1
+    https://openreview.net/profile?id=~Longze_Chen1
+    https://openreview.net/profile?id=~Wanwei_He1
+    https://openreview.net/profile?id=~Ting-En_Lin1
+    https://openreview.net/profile?id=~Ziqiang_Liu2
+    https://openreview.net/profile?id=~Lei_Zhang32
+    https://openreview.net/profile?id=~Zikai_Song1
+    https://openreview.net/profile?id=~Hamid_Rokny1
+    https://openreview.net/profile?id=~Xiaobo_Xia1
+    https://openreview.net/profile?id=~Tongliang_Liu1
+    https://openreview.net/profile?id=~Binyuan_Hui1
+    https://openreview.net/profile?id=~Min_Yang6
+
+[paper]
+# paper        : 228
+# page         : 10
+# paper_in_page: 3
+Stabilizing Reinforcement Learning in Differentiable Multiphysics Simulation
+    https://openreview.net/profile?id=~Eliot_Xing1
+    https://openreview.net/profile?id=~Vernon_Luk1
+    https://openreview.net/profile?id=~Jean_Oh2
+
+[paper]
+# paper        : 229
+# page         : 10
+# paper_in_page: 4
+Credal Wrapper of Model Averaging for Uncertainty Estimation in Classification
+    https://openreview.net/profile?id=~Kaizheng_Wang2
+    https://openreview.net/profile?id=~Fabio_Cuzzolin1
+    https://openreview.net/profile?id=~Keivan_Shariatmadar1
+    https://openreview.net/profile?id=~David_Moens1
+    https://openreview.net/profile?id=~Hans_Hallez1
+
+[paper]
+# paper        : 230
+# page         : 10
+# paper_in_page: 5
+Discovering Temporally Compositional Neural Manifolds with Switching Infinite GPFA
+    https://openreview.net/profile?id=~Changmin_Yu1
+    https://openreview.net/profile?id=~Maneesh_Sahani1
+    https://openreview.net/profile?id=~M%C3%A1t%C3%A9_Lengyel1
+
+[paper]
+# paper        : 231
+# page         : 10
+# paper_in_page: 6
+Presto! Distilling Steps and Layers for Accelerating Music Generation
+    https://openreview.net/profile?id=~Zachary_Novack1
+    https://openreview.net/profile?id=~Ge_Zhu1
+    https://openreview.net/profile?id=~Jonah_Casebeer1
+    https://openreview.net/profile?id=~Julian_McAuley1
+    https://openreview.net/profile?id=~Taylor_Berg-Kirkpatrick1
+    https://openreview.net/profile?id=~Nicholas_J._Bryan1
+
+[paper]
+# paper        : 232
+# page         : 10
+# paper_in_page: 7
+Grounding Video Models to Actions through Goal Conditioned Exploration
+    https://openreview.net/profile?id=~Yunhao_Luo1
+    https://openreview.net/profile?id=~Yilun_Du1
+
+[paper]
+# paper        : 233
+# page         : 10
+# paper_in_page: 8
+RESuM: A Rare Event Surrogate Model for Physics Detector Design
+    https://openreview.net/profile?id=~Ann-Kathrin_Schuetz1
+    https://openreview.net/profile?id=~A.W.P._Poon1
+    https://openreview.net/profile?id=~Aobo_Li2
+
+[paper]
+# paper        : 234
+# page         : 10
+# paper_in_page: 9
+Bi-Factorial Preference Optimization: Balancing Safety-Helpfulness in Language Models
+    https://openreview.net/profile?id=~Wenxuan_Zhang3
+    https://openreview.net/profile?id=~Philip_Torr1
+    https://openreview.net/profile?id=~Mohamed_Elhoseiny1
+    https://openreview.net/profile?id=~Adel_Bibi1
+
+[paper]
+# paper        : 235
+# page         : 10
+# paper_in_page: 10
+Enhancing the Scalability and Applicability of Kohn-Sham Hamiltonians for Molecular Systems
+    https://openreview.net/profile?id=~Yunyang_Li1
+    https://openreview.net/profile?id=~Zaishuo_Xia2
+    https://openreview.net/profile?id=~Lin_Huang2
+    https://openreview.net/profile?id=~Xinran_Wei1
+    https://openreview.net/profile?id=~Samuel_Harshe1
+    https://openreview.net/profile?id=~Han_Yang6
+    https://openreview.net/profile?id=~Erpai_Luo1
+    https://openreview.net/profile?id=~Zun_Wang2
+    https://openreview.net/profile?id=~Jia_Zhang1
+    https://openreview.net/profile?id=~Chang_Liu10
+    https://openreview.net/profile?id=~Bin_Shao1
+    https://openreview.net/profile?id=~Mark_Gerstein2
+
+[paper]
+# paper        : 236
+# page         : 10
+# paper_in_page: 11
+Dense Video Object Captioning from Disjoint Supervision
+    https://openreview.net/profile?id=~Xingyi_Zhou2
+    https://openreview.net/profile?id=~Anurag_Arnab1
+    https://openreview.net/profile?id=~Chen_Sun1
+    https://openreview.net/profile?id=~Cordelia_Schmid1
+
+[paper]
+# paper        : 237
+# page         : 10
+# paper_in_page: 12
+SplatFormer: Point Transformer for Robust 3D Gaussian Splatting
+    https://openreview.net/profile?id=~Yutong_Chen1
+    https://openreview.net/profile?id=~Marko_Mihajlovic1
+    https://openreview.net/profile?id=~Sergey_Prokudin1
+    https://openreview.net/profile?id=~Xiyi_Chen1
+    https://openreview.net/profile?id=~Yiming_Wang6
+    https://openreview.net/profile?id=~Siyu_Tang1
+
+[paper]
+# paper        : 238
+# page         : 10
+# paper_in_page: 13
+DeLLMa: Decision Making Under Uncertainty with Large Language Models
+    https://openreview.net/profile?id=~Ollie_Liu1
+    https://openreview.net/profile?id=~Deqing_Fu1
+    https://openreview.net/profile?id=~Dani_Yogatama2
+    https://openreview.net/profile?id=~Willie_Neiswanger2
+
+[paper]
+# paper        : 239
+# page         : 10
+# paper_in_page: 14
+OmniRe: Omni Urban Scene Reconstruction
+    https://openreview.net/profile?id=~Ziyu_Chen2
+    https://openreview.net/profile?id=~Jiawei_Yang1
+    https://openreview.net/profile?id=~Jiahui_Huang3
+    https://openreview.net/profile?id=~Riccardo_de_Lutio1
+    https://openreview.net/profile?id=~Janick_Martinez_Esturo1
+    https://openreview.net/profile?id=~Boris_Ivanovic1
+    https://openreview.net/profile?id=~Or_Litany1
+    https://openreview.net/profile?id=~Zan_Gojcic1
+    https://openreview.net/profile?id=~Sanja_Fidler1
+    https://openreview.net/profile?id=~Marco_Pavone1
+    https://openreview.net/profile?id=~Li_Song3
+    https://openreview.net/profile?id=~Yue_Wang2
+
+[paper]
+# paper        : 240
+# page         : 10
+# paper_in_page: 15
+ZAPBench: A Benchmark for Whole-Brain Activity Prediction in Zebrafish
+    https://openreview.net/profile?id=~Jan-Matthis_Lueckmann2
+    https://openreview.net/profile?id=~Alexander_Immer1
+    https://openreview.net/profile?id=~Alex_Bo-Yuan_Chen1
+    https://openreview.net/profile?id=~Peter_H._Li1
+    https://openreview.net/profile?id=~Mariela_D_Petkova1
+    https://openreview.net/profile?id=~Nirmala_A_Iyer1
+    https://openreview.net/profile?id=~Luuk_Willem_Hesselink1
+    https://openreview.net/profile?id=~Aparna_Dev1
+    https://openreview.net/profile?id=~Gudrun_Ihrke1
+    https://openreview.net/profile?id=~Woohyun_Park2
+    https://openreview.net/profile?id=~Alyson_Petruncio1
+    https://openreview.net/profile?id=~Aubrey_Weigel1
+    https://openreview.net/profile?id=~Wyatt_Korff1
+    https://openreview.net/profile?id=~Florian_Engert1
+    https://openreview.net/profile?id=~Jeff_Lichtman1
+    https://openreview.net/profile?id=~Misha_Ahrens1
+    https://openreview.net/profile?id=~Michal_Januszewski1
+    https://openreview.net/profile?id=~Viren_Jain2
+
+[paper]
+# paper        : 241
+# page         : 10
+# paper_in_page: 16
+Lumina-T2X: Scalable Flow-based Large Diffusion Transformer for Flexible Resolution Generation
+    https://openreview.net/profile?id=~Peng_Gao3
+    https://openreview.net/profile?id=~Le_Zhuo2
+    https://openreview.net/profile?id=~Dongyang_Liu1
+    https://openreview.net/profile?id=~Ruoyi_Du1
+    https://openreview.net/profile?id=~Xu_Luo1
+    https://openreview.net/profile?id=~Longtian_Qiu1
+    https://openreview.net/profile?id=~Yuhang_Zhang6
+    https://openreview.net/profile?id=~Rongjie_Huang1
+    https://openreview.net/profile?id=~Shijie_Geng1
+    https://openreview.net/profile?id=~Renrui_Zhang1
+    https://openreview.net/profile?id=~Junlin_Xie3
+    https://openreview.net/profile?id=~Wenqi_Shao2
+    https://openreview.net/profile?id=~Zhengkai_Jiang1
+    https://openreview.net/profile?id=~Tianshuo_Yang1
+    https://openreview.net/profile?id=~Weicai_Ye3
+    https://openreview.net/profile?id=~Tong_He2
+    https://openreview.net/profile?id=~Jingwen_He1
+    https://openreview.net/profile?id=~Junjun_He2
+    https://openreview.net/profile?id=~Yu_Qiao1
+    https://openreview.net/profile?id=~Hongsheng_Li3
+
+[paper]
+# paper        : 242
+# page         : 10
+# paper_in_page: 17
+A Periodic Bayesian Flow for Material Generation
+    https://openreview.net/profile?id=~Hanlin_Wu1
+    https://openreview.net/profile?id=~Yuxuan_Song2
+    https://openreview.net/profile?id=~Jingjing_Gong3
+    https://openreview.net/profile?id=~Ziyao_Cao1
+    https://openreview.net/profile?id=~Yawen_Ouyang1
+    https://openreview.net/profile?id=~Jianbing_Zhang1
+    https://openreview.net/profile?id=~Hao_Zhou5
+    https://openreview.net/profile?id=~Wei-Ying_Ma2
+    https://openreview.net/profile?id=~Jingjing_Liu2
+
+[paper]
+# paper        : 243
+# page         : 10
+# paper_in_page: 18
+Unleashing the Potential of Diffusion Models for Incomplete Data Imputation
+    https://openreview.net/profile?id=~Hengrui_Zhang1
+    https://openreview.net/profile?id=~Liancheng_Fang2
+    https://openreview.net/profile?id=~Qitian_Wu1
+    https://openreview.net/profile?id=~Philip_S._Yu1
+
+[paper]
+# paper        : 244
+# page         : 10
+# paper_in_page: 19
+Towards Marginal Fairness Sliced Wasserstein Barycenter
+    https://openreview.net/profile?id=~Khai_Nguyen1
+    https://openreview.net/profile?id=~Hai_Nguyen1
+    https://openreview.net/profile?id=~Nhat_Ho1
+
+[paper]
+# paper        : 245
+# page         : 10
+# paper_in_page: 20
+Continuous Exposure Learning for Low-light Image Enhancement using Neural ODEs
+    https://openreview.net/profile?id=~Donggoo_Jung1
+    https://openreview.net/profile?id=~Daehyun_Kim6
+    https://openreview.net/profile?id=~Tae_Hyun_Kim2
+
+[paper]
+# paper        : 246
+# page         : 10
+# paper_in_page: 21
+Learning to Solve Differential Equation Constrained Optimization Problems
+    https://openreview.net/profile?id=~Vincenzo_Di_Vito_Francesco3
+    https://openreview.net/profile?id=~Mostafa_Mohammadian1
+    https://openreview.net/profile?id=~Kyri_Baker1
+    https://openreview.net/profile?id=~Ferdinando_Fioretto1
+
+[paper]
+# paper        : 247
+# page         : 10
+# paper_in_page: 22
+Boosting Ray Search Procedure of Hard-label Attacks with Transfer-based Priors
+    https://openreview.net/profile?id=~Chen_Ma2
+    https://openreview.net/profile?id=~Xinjie_Xu2
+    https://openreview.net/profile?id=~Shuyu_Cheng1
+    https://openreview.net/profile?id=~Qi_Xuan1
+
+[paper]
+# paper        : 248
+# page         : 10
+# paper_in_page: 23
+3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation
+    https://openreview.net/profile?id=~dewei_Zhou1
+    https://openreview.net/profile?id=~Ji_Xie2
+    https://openreview.net/profile?id=~Zongxin_Yang1
+    https://openreview.net/profile?id=~Yi_Yang4
+
+[paper]
+# paper        : 249
+# page         : 10
+# paper_in_page: 24
+DRoP: Distributionally Robust Data Pruning
+    https://openreview.net/profile?id=~Artem_M_Vysogorets1
+    https://openreview.net/profile?id=~Kartik_Ahuja1
+    https://openreview.net/profile?id=~Julia_Kempe1
+
+[paper]
+# paper        : 250
+# page         : 10
+# paper_in_page: 25
+Co 3 Gesture: Towards Coherent Concurrent Co-speech 3D Gesture Generation with Interactive Diffusion
+    https://openreview.net/profile?id=~Xingqun_Qi1
+    https://openreview.net/profile?id=~Yatian_Wang1
+    https://openreview.net/profile?id=~Hengyuan_Zhang2
+    https://openreview.net/profile?id=~Jiahao_Pan1
+    https://openreview.net/profile?id=~Wei_Xue5
+    https://openreview.net/profile?id=~Shanghang_Zhang4
+    https://openreview.net/profile?id=~Wenhan_Luo1
+    https://openreview.net/profile?id=~Qifeng_Liu1
+    https://openreview.net/profile?id=~Yike_Guo1
+
+[paper]
+# paper        : 251
+# page         : 11
+# paper_in_page: 1
+Following the Human Thread in Social Navigation
+    https://openreview.net/profile?id=~Luca_Scofano1
+    https://openreview.net/profile?id=~Alessio_Sampieri1
+    https://openreview.net/profile?id=~Tommaso_Campari1
+    https://openreview.net/profile?id=~Valentino_Sacco1
+    https://openreview.net/profile?id=~Indro_Spinelli1
+    https://openreview.net/profile?id=~Lamberto_Ballan3
+    https://openreview.net/profile?id=~Fabio_Galasso1
+
+[paper]
+# paper        : 252
+# page         : 11
+# paper_in_page: 2
+Don't flatten, tokenize! Unlocking the key to SoftMoE's efficacy in deep RL
+    https://openreview.net/profile?id=~Ghada_Sokar1
+    https://openreview.net/profile?id=~Johan_Samir_Obando_Ceron1
+    https://openreview.net/profile?id=~Aaron_Courville3
+    https://openreview.net/profile?id=~Hugo_Larochelle1
+    https://openreview.net/profile?id=~Pablo_Samuel_Castro1
+
+[paper]
+# paper        : 253
+# page         : 11
+# paper_in_page: 3
+Boltzmann-Aligned Inverse Folding Model as a Predictor of Mutational Effects on Protein-Protein Interactions
+    https://openreview.net/profile?id=~Xiaoran_Jiao1
+    https://openreview.net/profile?id=~Weian_Mao2
+    https://openreview.net/profile?id=~Wengong_Jin1
+    https://openreview.net/profile?id=~Peiyuan_Yang1
+    https://openreview.net/profile?id=~Hao_Chen17
+    https://openreview.net/profile?id=~Chunhua_Shen2
+
+[paper]
+# paper        : 254
+# page         : 11
+# paper_in_page: 4
+Improving Unsupervised Constituency Parsing via Maximizing Semantic Information
+    https://openreview.net/profile?id=~Junjie_Chen3
+    https://openreview.net/profile?id=~Xiangheng_He1
+    https://openreview.net/profile?id=~Yusuke_Miyao2
+    https://openreview.net/profile?id=~Danushka_Bollegala1
+
+[paper]
+# paper        : 255
+# page         : 11
+# paper_in_page: 5
+Student-Informed Teacher Training
+    https://openreview.net/profile?id=~Nico_Messikommer1
+    https://openreview.net/profile?id=~Jiaxu_Xing1
+    https://openreview.net/profile?id=~Elie_Aljalbout2
+    https://openreview.net/profile?id=~Davide_Scaramuzza1
+
+[paper]
+# paper        : 256
+# page         : 11
+# paper_in_page: 6
+OS-ATLAS: Foundation Action Model for Generalist GUI Agents
+    https://openreview.net/profile?id=~Zhiyong_Wu3
+    https://openreview.net/profile?id=~Zhenyu_Wu7
+    https://openreview.net/profile?id=~Fangzhi_Xu1
+    https://openreview.net/profile?id=~Yian_Wang3
+    https://openreview.net/profile?id=~Qiushi_Sun1
+    https://openreview.net/profile?id=~Chengyou_Jia1
+    https://openreview.net/profile?id=~Kanzhi_Cheng1
+    https://openreview.net/profile?id=~Zichen_Ding1
+    https://openreview.net/profile?id=~Liheng_Chen2
+    https://openreview.net/profile?id=~Paul_Pu_Liang1
+    https://openreview.net/profile?id=~Yu_Qiao1
+
+[paper]
+# paper        : 257
+# page         : 11
+# paper_in_page: 7
+Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models
+    https://openreview.net/profile?id=~Qingni_Wang1
+    https://openreview.net/profile?id=~Tiantian_Geng1
+    https://openreview.net/profile?id=~Zhiyuan_Wang9
+    https://openreview.net/profile?id=~Teng_Wang1
+    https://openreview.net/profile?id=~Bo_Fu9
+    https://openreview.net/profile?id=~Feng_Zheng1
+
+[paper]
+# paper        : 258
+# page         : 11
+# paper_in_page: 8
+Exploring the Camera Bias of Person Re-identification
+    https://openreview.net/profile?id=~Myungseo_Song1
+    https://openreview.net/profile?id=~Jin-Woo_Park3
+    https://openreview.net/profile?id=~Jong-Seok_Lee1
+
+[paper]
+# paper        : 259
+# page         : 11
+# paper_in_page: 9
+Preference Optimization for Reasoning with Pseudo Feedback
+    https://openreview.net/profile?id=~Fangkai_Jiao1
+    https://openreview.net/profile?id=~Geyang_Guo2
+    https://openreview.net/profile?id=~Xingxing_Zhang1
+    https://openreview.net/profile?id=~Nancy_F._Chen1
+    https://openreview.net/profile?id=~Shafiq_Joty1
+    https://openreview.net/profile?id=~Furu_Wei1
+
+[paper]
+# paper        : 260
+# page         : 11
+# paper_in_page: 10
+Regularization by Texts for Latent Diffusion Inverse Solvers
+    https://openreview.net/profile?id=~Jeongsol_Kim1
+    https://openreview.net/profile?id=~Geon_Yeong_Park1
+    https://openreview.net/profile?id=~Hyungjin_Chung1
+    https://openreview.net/profile?id=~Jong_Chul_Ye1
+
+[paper]
+# paper        : 261
+# page         : 11
+# paper_in_page: 11
+Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage
+    https://openreview.net/profile?id=~Zhi_Gao5
+    https://openreview.net/profile?id=~Bofei_Zhang1
+    https://openreview.net/profile?id=~Pengxiang_Li1
+    https://openreview.net/profile?id=~Xiaojian_Ma1
+    https://openreview.net/profile?id=~Tao_Yuan6
+    https://openreview.net/profile?id=~Yue_Fan2
+    https://openreview.net/profile?id=~Yuwei_Wu1
+    https://openreview.net/profile?id=~Yunde_Jia1
+    https://openreview.net/profile?id=~Song-Chun_Zhu1
+    https://openreview.net/profile?id=~Qing_Li1
+
+[paper]
+# paper        : 262
+# page         : 11
+# paper_in_page: 12
+Monitoring Latent World States in Language Models with Propositional Probes
+    https://openreview.net/profile?id=~Jiahai_Feng1
+    https://openreview.net/profile?id=~Stuart_Russell1
+    https://openreview.net/profile?id=~Jacob_Steinhardt1
+
+[paper]
+# paper        : 263
+# page         : 11
+# paper_in_page: 13
+TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models
+    https://openreview.net/profile?id=~Makoto_Shing1
+    https://openreview.net/profile?id=~Kou_Misaki2
+    https://openreview.net/profile?id=~Han_Bao2
+    https://openreview.net/profile?id=~Sho_Yokoi1
+    https://openreview.net/profile?id=~Takuya_Akiba2
+
+[paper]
+# paper        : 264
+# page         : 11
+# paper_in_page: 14
+Learning Transformer-based World Models with Contrastive Predictive Coding
+    https://openreview.net/profile?id=~Maxime_Burchi1
+    https://openreview.net/profile?id=~Radu_Timofte1
+
+[paper]
+# paper        : 265
+# page         : 11
+# paper_in_page: 15
+Multimodality Helps Few-Shot 3D Point Cloud Semantic Segmentation
+    https://openreview.net/profile?id=~Zhaochong_An1
+    https://openreview.net/profile?id=~Guolei_Sun2
+    https://openreview.net/profile?id=~Yun_Liu1
+    https://openreview.net/profile?id=~Runjia_Li1
+    https://openreview.net/profile?id=~Min_Wu2
+    https://openreview.net/profile?id=~Ming-Ming_Cheng3
+    https://openreview.net/profile?id=~Ender_Konukoglu1
+    https://openreview.net/profile?id=~Serge_Belongie1
+
+[paper]
+# paper        : 266
+# page         : 11
+# paper_in_page: 16
+MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark
+    https://openreview.net/profile?id=~S_Sakshi1
+    https://openreview.net/profile?id=~Utkarsh_Tyagi1
+    https://openreview.net/profile?id=~Sonal_Kumar1
+    https://openreview.net/profile?id=~Ashish_Seth1
+    https://openreview.net/profile?id=~Ramaneswaran_Selvakumar1
+    https://openreview.net/profile?id=~Oriol_Nieto1
+    https://openreview.net/profile?id=~Ramani_Duraiswami1
+    https://openreview.net/profile?id=~Sreyan_Ghosh1
+    https://openreview.net/profile?id=~Dinesh_Manocha3
+
+[paper]
+# paper        : 267
+# page         : 11
+# paper_in_page: 17
+Invariant Graphon Networks: Approximation and Cut Distance
+    https://openreview.net/profile?id=~Daniel_Herbst1
+    https://openreview.net/profile?id=~Stefanie_Jegelka3
+
+[paper]
+# paper        : 268
+# page         : 11
+# paper_in_page: 18
+Towards General-Purpose Model-Free Reinforcement Learning
+    https://openreview.net/profile?id=~Scott_Fujimoto1
+    https://openreview.net/profile?id=~Pierluca_D%27Oro1
+    https://openreview.net/profile?id=~Amy_Zhang1
+    https://openreview.net/profile?id=~Yuandong_Tian1
+    https://openreview.net/profile?id=~Michael_Rabbat1
+
+[paper]
+# paper        : 269
+# page         : 11
+# paper_in_page: 19
+Multi-Field Adaptive Retrieval
+    https://openreview.net/profile?id=~Millicent_Li1
+    https://openreview.net/profile?id=~Tongfei_Chen1
+    https://openreview.net/profile?id=~Benjamin_Van_Durme2
+    https://openreview.net/profile?id=~Patrick_Xia1
+
+[paper]
+# paper        : 270
+# page         : 11
+# paper_in_page: 20
+Scaling FP8 training to trillion-token LLMs
+    https://openreview.net/profile?id=~Maxim_Fishman1
+    https://openreview.net/profile?id=~Brian_Chmiel1
+    https://openreview.net/profile?id=~Ron_Banner1
+    https://openreview.net/profile?id=~Daniel_Soudry1
+
+[paper]
+# paper        : 271
+# page         : 11
+# paper_in_page: 21
+Topograph: An Efficient Graph-Based Framework for Strictly Topology Preserving Image Segmentation
+    https://openreview.net/profile?id=~Laurin_Lux1
+    https://openreview.net/profile?id=~Alexander_H_Berger1
+    https://openreview.net/profile?id=~Alexander_Weers1
+    https://openreview.net/profile?id=~Nico_Stucki1
+    https://openreview.net/profile?id=~Daniel_Rueckert2
+    https://openreview.net/profile?id=~Ulrich_Bauer1
+    https://openreview.net/profile?id=~Johannes_C._Paetzold1
+
+[paper]
+# paper        : 272
+# page         : 11
+# paper_in_page: 22
+On Disentangled Training for Nonlinear Transform in Learned Image Compression
+    https://openreview.net/profile?id=~Han_Li8
+    https://openreview.net/profile?id=~Shaohui_Li3
+    https://openreview.net/profile?id=~Wenrui_Dai1
+    https://openreview.net/profile?id=~Maida_Cao1
+    https://openreview.net/profile?id=~Nuowen_Kan1
+    https://openreview.net/profile?id=~Chenglin_Li2
+    https://openreview.net/profile?id=~Junni_Zou1
+    https://openreview.net/profile?id=~Hongkai_Xiong1
+
+[paper]
+# paper        : 273
+# page         : 11
+# paper_in_page: 23
+Decomposition Polyhedra of Piecewise Linear Functions
+    https://openreview.net/profile?id=~Marie-Charlotte_Brandenburg1
+    https://openreview.net/profile?id=~Moritz_Leo_Grillo1
+    https://openreview.net/profile?id=~Christoph_Hertrich1
+
+[paper]
+# paper        : 274
+# page         : 11
+# paper_in_page: 24
+Provably Accurate Shapley Value Estimation via Leverage Score Sampling
+    https://openreview.net/profile?id=~Christopher_Musco1
+    https://openreview.net/profile?id=~R._Teal_Witter1
+
+[paper]
+# paper        : 275
+# page         : 11
+# paper_in_page: 25
+Rethinking Reward Model Evaluation: Are We Barking up the Wrong Tree?
+    https://openreview.net/profile?id=~Xueru_Wen1
+    https://openreview.net/profile?id=~Jie_Lou2
+    https://openreview.net/profile?id=~Yaojie_Lu1
+    https://openreview.net/profile?id=~Hongyu_Lin1
+    https://openreview.net/profile?id=~XingYu2
+    https://openreview.net/profile?id=~Xinyu_Lu1
+    https://openreview.net/profile?id=~Ben_He1
+    https://openreview.net/profile?id=~Xianpei_Han1
+    https://openreview.net/profile?id=~Debing_Zhang1
+    https://openreview.net/profile?id=~Le_Sun1
+
+[paper]
+# paper        : 276
+# page         : 12
+# paper_in_page: 1
+Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts
+    https://openreview.net/profile?id=~Xiaoming_Shi2
+    https://openreview.net/profile?id=~Shiyu_Wang3
+    https://openreview.net/profile?id=~Yuqi_Nie1
+    https://openreview.net/profile?id=~Dianqi_Li1
+    https://openreview.net/profile?id=~Zhou_Ye3
+    https://openreview.net/profile?id=~Qingsong_Wen2
+    https://openreview.net/profile?id=~Ming_Jin3
+
+[paper]
+# paper        : 277
+# page         : 12
+# paper_in_page: 2
+Generalization Guarantees for Representation Learning via Data-Dependent Gaussian Mixture Priors
+    https://openreview.net/profile?id=~Milad_Sefidgaran1
+    https://openreview.net/profile?id=~Abdellatif_Zaidi1
+    https://openreview.net/profile?id=~Piotr_Krasnowski1
+
+[paper]
+# paper        : 278
+# page         : 12
+# paper_in_page: 3
+OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents
+    https://openreview.net/profile?id=~Zhaolin_Hu2
+    https://openreview.net/profile?id=~Yixiao_Zhou2
+    https://openreview.net/profile?id=~Zhongan_Wang1
+    https://openreview.net/profile?id=~Xin_Li61
+    https://openreview.net/profile?id=~Weimin_Yang1
+    https://openreview.net/profile?id=~Hehe_Fan1
+    https://openreview.net/profile?id=~Yi_Yang4
+
+[paper]
+# paper        : 279
+# page         : 12
+# paper_in_page: 4
+ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability
+    https://openreview.net/profile?id=~ZhongXiang_Sun2
+    https://openreview.net/profile?id=~Xiaoxue_Zang1
+    https://openreview.net/profile?id=~Kai_Zheng1
+    https://openreview.net/profile?id=~Jun_Xu1
+    https://openreview.net/profile?id=~Xiao_Zhang7
+    https://openreview.net/profile?id=~Weijie_Yu1
+    https://openreview.net/profile?id=~Yang_Song6
+    https://openreview.net/profile?id=~Han_Li11
+
+[paper]
+# paper        : 280
+# page         : 12
+# paper_in_page: 5
+Accelerating Goal-Conditioned Reinforcement Learning Algorithms and Research
+    https://openreview.net/profile?id=~Micha%C5%82_Bortkiewicz1
+    https://openreview.net/profile?id=~W%C5%82adys%C5%82aw_Pa%C5%82ucki1
+    https://openreview.net/profile?id=~Vivek_Myers1
+    https://openreview.net/profile?id=~Tadeusz_Dziarmaga1
+    https://openreview.net/profile?id=~Tomasz_Arczewski1
+    https://openreview.net/profile?id=~%C5%81ukasz_Kuci%C5%84ski1
+    https://openreview.net/profile?id=~Benjamin_Eysenbach1
+
+[paper]
+# paper        : 281
+# page         : 12
+# paper_in_page: 6
+Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought
+    https://openreview.net/profile?id=~Jianhao_Huang1
+    https://openreview.net/profile?id=~Zixuan_Wang4
+    https://openreview.net/profile?id=~Jason_D._Lee1
+
+[paper]
+# paper        : 282
+# page         : 12
+# paper_in_page: 7
+SimBa: Simplicity Bias for Scaling Up Parameters in Deep Reinforcement Learning
+    https://openreview.net/profile?id=~Hojoon_Lee1
+    https://openreview.net/profile?id=~Dongyoon_Hwang1
+    https://openreview.net/profile?id=~Donghu_Kim1
+    https://openreview.net/profile?id=~Hyunseung_Kim1
+    https://openreview.net/profile?id=~Jun_Jet_Tai1
+    https://openreview.net/profile?id=~Kaushik_Subramanian2
+    https://openreview.net/profile?id=~Peter_R._Wurman1
+    https://openreview.net/profile?id=~Jaegul_Choo1
+    https://openreview.net/profile?id=~Peter_Stone1
+    https://openreview.net/profile?id=~Takuma_Seno2
+
+[paper]
+# paper        : 283
+# page         : 12
+# paper_in_page: 8
+Tuning Frequency Bias of State Space Models
+    https://openreview.net/profile?id=~Annan_Yu1
+    https://openreview.net/profile?id=~Dongwei_Lyu1
+    https://openreview.net/profile?id=~Soon_Hoe_Lim1
+    https://openreview.net/profile?id=~Michael_W._Mahoney1
+    https://openreview.net/profile?id=~N._Benjamin_Erichson1
+
+[paper]
+# paper        : 284
+# page         : 12
+# paper_in_page: 9
+Planning in Natural Language Improves LLM Search for Code Generation
+    https://openreview.net/profile?id=~Evan_Z_Wang1
+    https://openreview.net/profile?id=~Federico_Cassano1
+    https://openreview.net/profile?id=~Catherine_Wu1
+    https://openreview.net/profile?id=~Yunfeng_Bai3
+    https://openreview.net/profile?id=~William_Song2
+    https://openreview.net/profile?id=~Vaskar_Nath1
+    https://openreview.net/profile?id=~Ziwen_Han1
+    https://openreview.net/profile?id=~Sean_M._Hendryx1
+    https://openreview.net/profile?id=~Summer_Yue2
+    https://openreview.net/profile?id=~Hugh_Zhang1
+
+[paper]
+# paper        : 285
+# page         : 12
+# paper_in_page: 10
+Recovering Manifold Structure Using Ollivier Ricci Curvature
+    https://openreview.net/profile?id=~Tristan_Luca_Saidi1
+    https://openreview.net/profile?id=~Abigail_Hickok1
+    https://openreview.net/profile?id=~Andrew_J._Blumberg1
+
+[paper]
+# paper        : 286
+# page         : 12
+# paper_in_page: 11
+Improved Approximation Algorithms for k -Submodular Maximization via Multilinear Extension
+    https://openreview.net/profile?id=~Huanjian_Zhou1
+    https://openreview.net/profile?id=~Lingxiao_Huang2
+    https://openreview.net/profile?id=~Baoxiang_Wang1
+
+[paper]
+# paper        : 287
+# page         : 12
+# paper_in_page: 12
+Nonlinear multiregion neural dynamics with parametric impulse response communication channels
+    https://openreview.net/profile?id=~Matthew_Dowling2
+    https://openreview.net/profile?id=~Cristina_Savin1
+
+[paper]
+# paper        : 288
+# page         : 12
+# paper_in_page: 13
+Diffusion On Syntax Trees For Program Synthesis
+    https://openreview.net/profile?id=~Shreyas_Kapur1
+    https://openreview.net/profile?id=~Erik_Jenner1
+    https://openreview.net/profile?id=~Stuart_Russell1
+
+[paper]
+# paper        : 289
+# page         : 12
+# paper_in_page: 14
+Scaling up the Banded Matrix Factorization Mechanism for Large Scale Differentially Private ML
+    https://openreview.net/profile?id=~Ryan_McKenna2
+
+[paper]
+# paper        : 290
+# page         : 12
+# paper_in_page: 15
+Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models
+    https://openreview.net/profile?id=~Guanting_Dong1
+    https://openreview.net/profile?id=~Keming_Lu1
+    https://openreview.net/profile?id=~Chengpeng_Li1
+    https://openreview.net/profile?id=~Tingyu_Xia1
+    https://openreview.net/profile?id=~Bowen_Yu3
+    https://openreview.net/profile?id=~Chang_Zhou2
+    https://openreview.net/profile?id=~Jingren_Zhou1
+
+[paper]
+# paper        : 291
+# page         : 12
+# paper_in_page: 16
+How Feature Learning Can Improve Neural Scaling Laws
+    https://openreview.net/profile?id=~Blake_Bordelon1
+    https://openreview.net/profile?id=~Alexander_Atanasov1
+    https://openreview.net/profile?id=~Cengiz_Pehlevan2
+
+[paper]
+# paper        : 292
+# page         : 12
+# paper_in_page: 17
+A CLIP-Powered Framework for Robust and Generalizable Data Selection
+    https://openreview.net/profile?id=~Suorong_Yang1
+    https://openreview.net/profile?id=~Peng_Ye4
+    https://openreview.net/profile?id=~Wanli_Ouyang1
+    https://openreview.net/profile?id=~Dongzhan_Zhou1
+    https://openreview.net/profile?id=~Furao_Shen1
+
+[paper]
+# paper        : 293
+# page         : 12
+# paper_in_page: 18
+PABBO: Preferential Amortized Black-Box Optimization
+    https://openreview.net/profile?id=~Xinyu_Zhang41
+    https://openreview.net/profile?id=~Daolang_Huang1
+    https://openreview.net/profile?id=~Julien_Martinelli1
+    https://openreview.net/profile?id=~Samuel_Kaski1
+
+[paper]
+# paper        : 294
+# page         : 12
+# paper_in_page: 19
+Test-time Alignment of Diffusion Models without Reward Over-optimization
+    https://openreview.net/profile?id=~Sunwoo_Kim5
+    https://openreview.net/profile?id=~Minkyu_Kim2
+    https://openreview.net/profile?id=~Dongmin_Park1
+
+[paper]
+# paper        : 295
+# page         : 12
+# paper_in_page: 20
+Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures
+    https://openreview.net/profile?id=~Yuchen_Duan1
+    https://openreview.net/profile?id=~Weiyun_Wang2
+    https://openreview.net/profile?id=~Zhe_Chen10
+    https://openreview.net/profile?id=~Xizhou_Zhu1
+    https://openreview.net/profile?id=~Lewei_Lu1
+    https://openreview.net/profile?id=~Tong_Lu1
+    https://openreview.net/profile?id=~Yu_Qiao1
+    https://openreview.net/profile?id=~Hongsheng_Li3
+    https://openreview.net/profile?id=~Jifeng_Dai1
+    https://openreview.net/profile?id=~Wenhai_Wang2
+
+[paper]
+# paper        : 296
+# page         : 12
+# paper_in_page: 21
+GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation
+    https://openreview.net/profile?id=~Danny_Wang1
+    https://openreview.net/profile?id=~Ruihong_Qiu1
+    https://openreview.net/profile?id=~Guangdong_Bai1
+    https://openreview.net/profile?id=~Zi_Huang1
+
+[paper]
+# paper        : 297
+# page         : 12
+# paper_in_page: 22
+Fine-tuning with Reserved Majority for Noise Reduction
+    https://openreview.net/profile?id=~Shuyang_Jiang2
+    https://openreview.net/profile?id=~Yusheng_Liao1
+    https://openreview.net/profile?id=~Yanfeng_Wang1
+    https://openreview.net/profile?id=~Ya_Zhang1
+    https://openreview.net/profile?id=~Yu_Wang40
+
+[paper]
+# paper        : 298
+# page         : 12
+# paper_in_page: 23
+LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models
+    https://openreview.net/profile?id=~Feng_Li9
+    https://openreview.net/profile?id=~Renrui_Zhang1
+    https://openreview.net/profile?id=~Hao_Zhang39
+    https://openreview.net/profile?id=~Yuanhan_Zhang1
+    https://openreview.net/profile?id=~Bo_Li23
+    https://openreview.net/profile?id=~Wei_Li78
+    https://openreview.net/profile?id=~Zejun_MA1
+    https://openreview.net/profile?id=~Chunyuan_Li1
+
+[paper]
+# paper        : 299
+# page         : 12
+# paper_in_page: 24
+Formation of Representations in Neural Networks
+    https://openreview.net/profile?id=~Liu_Ziyin1
+    https://openreview.net/profile?id=~Isaac_L._Chuang1
+    https://openreview.net/profile?id=~Tomer_Galanti1
+    https://openreview.net/profile?id=~Tomaso_A_Poggio2
+
+[paper]
+# paper        : 300
+# page         : 12
+# paper_in_page: 25
+ImpScore: A Learnable Metric For Quantifying The Implicitness Level of Sentences
+    https://openreview.net/profile?id=~Yuxin_Wang7
+    https://openreview.net/profile?id=~Xiaomeng_Zhu2
+    https://openreview.net/profile?id=~Weimin_Lyu1
+    https://openreview.net/profile?id=~Saeed_Hassanpour1
+    https://openreview.net/profile?id=~Soroush_Vosoughi1
+
+[paper]
+# paper        : 301
+# page         : 13
+# paper_in_page: 1
+ADIFF: Explaining audio difference using natural language
+    https://openreview.net/profile?id=~Soham_Deshmukh1
+    https://openreview.net/profile?id=~Shuo_Han4
+    https://openreview.net/profile?id=~Rita_Singh1
+    https://openreview.net/profile?id=~Bhiksha_Raj1
+
+[paper]
+# paper        : 302
+# page         : 13
+# paper_in_page: 2
+Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds
+    https://openreview.net/profile?id=~Shuangqi_Li1
+    https://openreview.net/profile?id=~Hieu_Le2
+    https://openreview.net/profile?id=~Jingyi_Xu2
+    https://openreview.net/profile?id=~Mathieu_Salzmann1
+
+[paper]
+# paper        : 303
+# page         : 13
+# paper_in_page: 3
+LoRA-Pro: Are Low-Rank Adapters Properly Optimized?
+    https://openreview.net/profile?id=~Zhengbo_Wang1
+    https://openreview.net/profile?id=~Jian_Liang1
+    https://openreview.net/profile?id=~Ran_He1
+    https://openreview.net/profile?id=~Zilei_Wang1
+    https://openreview.net/profile?id=~Tieniu_Tan1
+
+[paper]
+# paper        : 304
+# page         : 13
+# paper_in_page: 4
+Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding
+    https://openreview.net/profile?id=~Zhongyi_Shui1
+    https://openreview.net/profile?id=~Jianpeng_Zhang2
+    https://openreview.net/profile?id=~Weiwei_Cao1
+    https://openreview.net/profile?id=~Sinuo_Wang1
+    https://openreview.net/profile?id=~Ruizhe_Guo1
+    https://openreview.net/profile?id=~Le_Lu3
+    https://openreview.net/profile?id=~Lin_Yang13
+    https://openreview.net/profile?id=~Xianghua_Ye1
+    https://openreview.net/profile?id=~Tingbo_Liang1
+    https://openreview.net/profile?id=~Qi_Zhang62
+    https://openreview.net/profile?id=~Ling_Zhang7
+
+[paper]
+# paper        : 305
+# page         : 13
+# paper_in_page: 5
+Learning Closed-Loop Concept-Guided Policies from Unlabeled Demonstrations
+    https://openreview.net/profile?id=~Pei_Zhou2
+    https://openreview.net/profile?id=~Ruizhe_Liu1
+    https://openreview.net/profile?id=~Qian_Luo1
+    https://openreview.net/profile?id=~Yibing_Song1
+    https://openreview.net/profile?id=~Fan_Wang6
+    https://openreview.net/profile?id=~Yanchao_Yang1
+
+[paper]
+# paper        : 306
+# page         : 13
+# paper_in_page: 6
+Perm: A Parametric Representation for Multi-Style 3D Hair Modeling
+    https://openreview.net/profile?id=~Chengan_He1
+    https://openreview.net/profile?id=~Xin_Sun11
+    https://openreview.net/profile?id=~Zhixin_Shu1
+    https://openreview.net/profile?id=~Fujun_Luan2
+    https://openreview.net/profile?id=~Soren_Pirk1
+    https://openreview.net/profile?id=~Jorge_Alejandro_Amador_Herrera1
+    https://openreview.net/profile?id=~Dominik_Michels1
+    https://openreview.net/profile?id=~Tuanfeng_Yang_Wang1
+    https://openreview.net/profile?id=~Meng_Zhang19
+    https://openreview.net/profile?id=~Holly_Rushmeier1
+    https://openreview.net/profile?id=~Yi_Zhou1
+
+[paper]
+# paper        : 307
+# page         : 13
+# paper_in_page: 7
+Easing Training Process of Rectified Flow Models Via Lengthening Inter-Path Distance
+    https://openreview.net/profile?id=~Xu_Shifeng2
+    https://openreview.net/profile?id=~Yanzhu_Liu2
+    https://openreview.net/profile?id=~Adams_Wai-Kin_Kong1
+
+[paper]
+# paper        : 308
+# page         : 13
+# paper_in_page: 8
+GETS: Ensemble Temperature Scaling for Calibration in Graph Neural Networks
+    https://openreview.net/profile?id=~Dingyi_Zhuang1
+    https://openreview.net/profile?id=~Chonghe_Jiang1
+    https://openreview.net/profile?id=~Yunhan_Zheng1
+    https://openreview.net/profile?id=~Shenhao_Wang1
+    https://openreview.net/profile?id=~Jinhua_Zhao2
+
+[paper]
+# paper        : 309
+# page         : 13
+# paper_in_page: 9
+Conditional Diffusion with Ordinal Regression: Longitudinal Data Generation for Neurodegenerative Disease Studies
+    https://openreview.net/profile?id=~Hyuna_Cho1
+    https://openreview.net/profile?id=~Ziquan_Wei1
+    https://openreview.net/profile?id=~Seungjoo_Lee3
+    https://openreview.net/profile?id=~Tingting_Dan1
+    https://openreview.net/profile?id=~Guorong_Wu1
+    https://openreview.net/profile?id=~Won_Hwa_Kim4
+
+[paper]
+# paper        : 310
+# page         : 13
+# paper_in_page: 10
+SoftCVI: Contrastive variational inference with self-generated soft labels
+    https://openreview.net/profile?id=~Daniel_Ward3
+    https://openreview.net/profile?id=~Mark_Beaumont1
+    https://openreview.net/profile?id=~Matteo_Fasiolo1
+
+[paper]
+# paper        : 311
+# page         : 13
+# paper_in_page: 11
+MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion
+    https://openreview.net/profile?id=~Junyi_Zhang3
+    https://openreview.net/profile?id=~Charles_Herrmann1
+    https://openreview.net/profile?id=~Junhwa_Hur1
+    https://openreview.net/profile?id=~Varun_Jampani2
+    https://openreview.net/profile?id=~Trevor_Darrell2
+    https://openreview.net/profile?id=~Forrester_Cole1
+    https://openreview.net/profile?id=~Deqing_Sun2
+    https://openreview.net/profile?id=~Ming-Hsuan_Yang1
+
+[paper]
+# paper        : 312
+# page         : 13
+# paper_in_page: 12
+ND-SDF: Learning Normal Deflection Fields for High-Fidelity Indoor Reconstruction
+    https://openreview.net/profile?id=~Ziyu_Tang1
+    https://openreview.net/profile?id=~Weicai_Ye3
+    https://openreview.net/profile?id=~Yifan_Wang42
+    https://openreview.net/profile?id=~Di_Huang6
+    https://openreview.net/profile?id=~Hujun_Bao1
+    https://openreview.net/profile?id=~Tong_He2
+    https://openreview.net/profile?id=~Guofeng_Zhang3
+
+[paper]
+# paper        : 313
+# page         : 13
+# paper_in_page: 13
+SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation
+    https://openreview.net/profile?id=~Yining_Hong1
+    https://openreview.net/profile?id=~Beide_Liu1
+    https://openreview.net/profile?id=~Maxine_Wu1
+    https://openreview.net/profile?id=~Yuanhao_Zhai1
+    https://openreview.net/profile?id=~Kai-Wei_Chang1
+    https://openreview.net/profile?id=~Linjie_Li1
+    https://openreview.net/profile?id=~Kevin_Lin3
+    https://openreview.net/profile?id=~Chung-Ching_Lin2
+    https://openreview.net/profile?id=~Jianfeng_Wang4
+    https://openreview.net/profile?id=~Lijuan_Wang1
+    https://openreview.net/profile?id=~Ying_Nian_Wu1
+    https://openreview.net/profile?id=~Zhengyuan_Yang1
+
+[paper]
+# paper        : 314
+# page         : 13
+# paper_in_page: 14
+Atlas Gaussians Diffusion for 3D Generation
+    https://openreview.net/profile?id=~Haitao_Yang1
+    https://openreview.net/profile?id=~Yuan_Dong3
+    https://openreview.net/profile?id=~Hanwen_Jiang1
+    https://openreview.net/profile?id=~Dejia_Xu1
+    https://openreview.net/profile?id=~Georgios_Pavlakos1
+    https://openreview.net/profile?id=~Qixing_Huang1
+
+[paper]
+# paper        : 315
+# page         : 13
+# paper_in_page: 15
+Min-K%++: Improved Baseline for Pre-Training Data Detection from Large Language Models
+    https://openreview.net/profile?id=~Jingyang_Zhang2
+    https://openreview.net/profile?id=~Jingwei_Sun2
+    https://openreview.net/profile?id=~Eric_Yeats1
+    https://openreview.net/profile?id=~Yang_Ouyang1
+    https://openreview.net/profile?id=~Martin_Kuo1
+    https://openreview.net/profile?id=~Jianyi_Zhang1
+    https://openreview.net/profile?id=~Hao_Frank_Yang1
+    https://openreview.net/profile?id=~Hai_Li1
+
+[paper]
+# paper        : 316
+# page         : 13
+# paper_in_page: 16
+4K4DGen: Panoramic 4D Generation at 4K Resolution
+    https://openreview.net/profile?id=~Renjie_Li3
+    https://openreview.net/profile?id=~Panwang_Pan1
+    https://openreview.net/profile?id=~Bangbang_Yang1
+    https://openreview.net/profile?id=~Dejia_Xu1
+    https://openreview.net/profile?id=~Shijie_Zhou1
+    https://openreview.net/profile?id=~Xuanyang_Zhang2
+    https://openreview.net/profile?id=~Zeming_Li2
+    https://openreview.net/profile?id=~Achuta_Kadambi2
+    https://openreview.net/profile?id=~Zhangyang_Wang1
+    https://openreview.net/profile?id=~Zhengzhong_Tu1
+    https://openreview.net/profile?id=~Zhiwen_Fan2
+
+[paper]
+# paper        : 317
+# page         : 13
+# paper_in_page: 17
+Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking
+    https://openreview.net/profile?id=~Mattia_Segu1
+    https://openreview.net/profile?id=~Luigi_Piccinelli1
+    https://openreview.net/profile?id=~Siyuan_Li9
+    https://openreview.net/profile?id=~Yung-Hsu_Yang1
+    https://openreview.net/profile?id=~Bernt_Schiele1
+    https://openreview.net/profile?id=~Luc_Van_Gool1
+
+[paper]
+# paper        : 318
+# page         : 13
+# paper_in_page: 18
+Programming Refusal with Conditional Activation Steering
+    https://openreview.net/profile?id=~Bruce_W._Lee1
+    https://openreview.net/profile?id=~Inkit_Padhi1
+    https://openreview.net/profile?id=~Karthikeyan_Natesan_Ramamurthy1
+    https://openreview.net/profile?id=~Erik_Miehling1
+    https://openreview.net/profile?id=~Pierre_Dognin1
+    https://openreview.net/profile?id=~Manish_Nagireddy1
+    https://openreview.net/profile?id=~Amit_Dhurandhar1
+
+[paper]
+# paper        : 319
+# page         : 13
+# paper_in_page: 19
+Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders
+    https://openreview.net/profile?id=~Min_Shi2
+    https://openreview.net/profile?id=~Fuxiao_Liu1
+    https://openreview.net/profile?id=~Shihao_Wang2
+    https://openreview.net/profile?id=~Shijia_Liao1
+    https://openreview.net/profile?id=~Subhashree_Radhakrishnan1
+    https://openreview.net/profile?id=~Yilin_Zhao4
+    https://openreview.net/profile?id=~De-An_Huang1
+    https://openreview.net/profile?id=~Hongxu_Yin2
+    https://openreview.net/profile?id=~Karan_Sapra2
+    https://openreview.net/profile?id=~Yaser_Yacoob1
+    https://openreview.net/profile?id=~Humphrey_Shi1
+    https://openreview.net/profile?id=~Bryan_Catanzaro1
+    https://openreview.net/profile?id=~Andrew_Tao1
+    https://openreview.net/profile?id=~Jan_Kautz1
+    https://openreview.net/profile?id=~Zhiding_Yu1
+    https://openreview.net/profile?id=~Guilin_Liu2
+
+[paper]
+# paper        : 320
+# page         : 13
+# paper_in_page: 20
+PerturboLLaVA: Reducing Multimodal Hallucinations with Perturbative Visual Training
+    https://openreview.net/profile?id=~Cong_Chen10
+    https://openreview.net/profile?id=~Mingyu_Liu1
+    https://openreview.net/profile?id=~Chenchen_Jing2
+    https://openreview.net/profile?id=~Yizhou_Zhou1
+    https://openreview.net/profile?id=~Fengyun_Rao2
+    https://openreview.net/profile?id=~Hao_Chen17
+    https://openreview.net/profile?id=~Bo_Zhang9
+    https://openreview.net/profile?id=~Chunhua_Shen2
+
+[paper]
+# paper        : 321
+# page         : 13
+# paper_in_page: 21
+CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control
+    https://openreview.net/profile?id=~Guy_Tevet1
+    https://openreview.net/profile?id=~Sigal_Raab1
+    https://openreview.net/profile?id=~Setareh_Cohan1
+    https://openreview.net/profile?id=~Daniele_Reda2
+    https://openreview.net/profile?id=~Zhengyi_Luo1
+    https://openreview.net/profile?id=~Xue_Bin_Peng1
+    https://openreview.net/profile?id=~Amit_Haim_Bermano2
+    https://openreview.net/profile?id=~Michiel_van_de_Panne1
+
+[paper]
+# paper        : 322
+# page         : 13
+# paper_in_page: 22
+Linear SCM Identification in the Presence of Confounders and Gaussian Noise
+    https://openreview.net/profile?id=~Vahideh_Sanjaroonpouri1
+    https://openreview.net/profile?id=~Pouria_Ramazi1
+
+[paper]
+# paper        : 323
+# page         : 13
+# paper_in_page: 23
+Geometric Inductive Biases of Deep Networks: The Role of Data and Architecture
+    https://openreview.net/profile?id=~Sajad_Movahedi1
+    https://openreview.net/profile?id=~Antonio_Orvieto3
+    https://openreview.net/profile?id=~Seyed-Mohsen_Moosavi-Dezfooli1
+
+[paper]
+# paper        : 324
+# page         : 13
+# paper_in_page: 24
+MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion
+    https://openreview.net/profile?id=~Onkar_Kishor_Susladkar1
+    https://openreview.net/profile?id=~Jishu_Sen_Gupta1
+    https://openreview.net/profile?id=~Chirag_Sehgal1
+    https://openreview.net/profile?id=~Sparsh_Mittal1
+    https://openreview.net/profile?id=~Rekha_Singhal1
+
+[paper]
+# paper        : 325
+# page         : 13
+# paper_in_page: 25
+Rare-to-Frequent: Unlocking Compositional Generation Power of Diffusion Models on Rare Concepts with LLM Guidance
+    https://openreview.net/profile?id=~Dongmin_Park1
+    https://openreview.net/profile?id=~Sebin_Kim1
+    https://openreview.net/profile?id=~Taehong_Moon1
+    https://openreview.net/profile?id=~Minkyu_Kim2
+    https://openreview.net/profile?id=~Kangwook_Lee1
+    https://openreview.net/profile?id=~Jaewoong_Cho1
+
+[paper]
+# paper        : 326
+# page         : 14
+# paper_in_page: 1
+POTEC: Off-Policy Contextual Bandits for Large Action Spaces via Policy Decomposition
+    https://openreview.net/profile?id=~Yuta_Saito1
+    https://openreview.net/profile?id=~Jihan_Yao1
+    https://openreview.net/profile?id=~Thorsten_Joachims1
+
+[paper]
+# paper        : 327
+# page         : 14
+# paper_in_page: 2
+MetaUrban: An Embodied AI Simulation Platform for Urban Micromobility
+    https://openreview.net/profile?id=~Wayne_Wu1
+    https://openreview.net/profile?id=~Honglin_He2
+    https://openreview.net/profile?id=~Jack_He1
+    https://openreview.net/profile?id=~Yiran_Wang2
+    https://openreview.net/profile?id=~Chenda_Duan1
+    https://openreview.net/profile?id=~Zhizheng_Liu1
+    https://openreview.net/profile?id=~Quanyi_Li1
+    https://openreview.net/profile?id=~Bolei_Zhou5
+
+[paper]
+# paper        : 328
+# page         : 14
+# paper_in_page: 3
+D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement
+    https://openreview.net/profile?id=~Yansong_Peng1
+    https://openreview.net/profile?id=~Hebei_Li1
+    https://openreview.net/profile?id=~Peixi_Wu2
+    https://openreview.net/profile?id=~Yueyi_Zhang2
+    https://openreview.net/profile?id=~Xiaoyan_Sun1
+    https://openreview.net/profile?id=~Feng_Wu1
+
+[paper]
+# paper        : 329
+# page         : 14
+# paper_in_page: 4
+DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control
+    https://openreview.net/profile?id=~Kaifeng_Zhao1
+    https://openreview.net/profile?id=~Gen_Li3
+    https://openreview.net/profile?id=~Siyu_Tang1
+
+[paper]
+# paper        : 330
+# page         : 14
+# paper_in_page: 5
+Mitigating Information Loss in Tree-Based Reinforcement Learning via Direct Optimization
+    https://openreview.net/profile?id=~Sascha_Marton1
+    https://openreview.net/profile?id=~Tim_Grams1
+    https://openreview.net/profile?id=~Florian_Vogt1
+    https://openreview.net/profile?id=~Stefan_L%C3%BCdtke1
+    https://openreview.net/profile?id=~Christian_Bartelt1
+    https://openreview.net/profile?id=~Heiner_Stuckenschmidt2
+
+[paper]
+# paper        : 331
+# page         : 14
+# paper_in_page: 6
+Sharpness-Aware Minimization Efficiently Selects Flatter Minima Late In Training
+    https://openreview.net/profile?id=~Zhanpeng_Zhou1
+    https://openreview.net/profile?id=~Mingze_Wang2
+    https://openreview.net/profile?id=~Yuchen_Mao3
+    https://openreview.net/profile?id=~Bingrui_Li1
+    https://openreview.net/profile?id=~Junchi_Yan2
+
+[paper]
+# paper        : 332
+# page         : 14
+# paper_in_page: 7
+What Makes a Good Diffusion Planner for Decision Making?
+    https://openreview.net/profile?id=~Haofei_Lu1
+    https://openreview.net/profile?id=~Dongqi_Han1
+    https://openreview.net/profile?id=~Yifei_Shen1
+    https://openreview.net/profile?id=~Dongsheng_Li2
+
+[paper]
+# paper        : 333
+# page         : 14
+# paper_in_page: 8
+ThinK: Thinner Key Cache by Query-Driven Pruning
+    https://openreview.net/profile?id=~Yuhui_Xu2
+    https://openreview.net/profile?id=~Zhanming_Jie2
+    https://openreview.net/profile?id=~Hanze_Dong1
+    https://openreview.net/profile?id=~Lei_Wang28
+    https://openreview.net/profile?id=~Xudong_Lu1
+    https://openreview.net/profile?id=~Aojun_Zhou2
+    https://openreview.net/profile?id=~Amrita_Saha2
+    https://openreview.net/profile?id=~Caiming_Xiong1
+    https://openreview.net/profile?id=~Doyen_Sahoo1
+
+[paper]
+# paper        : 334
+# page         : 14
+# paper_in_page: 9
+Linear Spherical Sliced Optimal Transport: A Fast Metric for Comparing Spherical Data
+    https://openreview.net/profile?id=~Xinran_Liu2
+    https://openreview.net/profile?id=~Yikun_Bai2
+    https://openreview.net/profile?id=~Rocio_Diaz_Martin2
+    https://openreview.net/profile?id=~Kaiwen_Shi2
+    https://openreview.net/profile?id=~Ashkan_Shahbazi1
+    https://openreview.net/profile?id=~Bennett_A._Landman1
+    https://openreview.net/profile?id=~Catie_Chang1
+    https://openreview.net/profile?id=~Soheil_Kolouri1
+
+[paper]
+# paper        : 335
+# page         : 14
+# paper_in_page: 10
+RelitLRM: Generative Relightable Radiance for Large Reconstruction Models
+    https://openreview.net/profile?id=~Tianyuan_Zhang2
+    https://openreview.net/profile?id=~Zhengfei_Kuang1
+    https://openreview.net/profile?id=~Haian_Jin1
+    https://openreview.net/profile?id=~Zexiang_Xu1
+    https://openreview.net/profile?id=~Sai_Bi1
+    https://openreview.net/profile?id=~Hao_Tan1
+    https://openreview.net/profile?id=~He_Zhang16
+    https://openreview.net/profile?id=~Yiwei_Hu1
+    https://openreview.net/profile?id=~Milos_Hasan1
+    https://openreview.net/profile?id=~William_T._Freeman1
+    https://openreview.net/profile?id=~Kai_Zhang7
+    https://openreview.net/profile?id=~Fujun_Luan2
+
+[paper]
+# paper        : 336
+# page         : 14
+# paper_in_page: 11
+A Geometric Framework for Understanding Memorization in Generative Models
+    https://openreview.net/profile?id=~Brendan_Leigh_Ross1
+    https://openreview.net/profile?id=~Hamidreza_Kamkari1
+    https://openreview.net/profile?id=~Tongzi_Wu1
+    https://openreview.net/profile?id=~Rasa_Hosseinzadeh2
+    https://openreview.net/profile?id=~Zhaoyan_Liu1
+    https://openreview.net/profile?id=~George_Stein1
+    https://openreview.net/profile?id=~Jesse_C._Cresswell1
+    https://openreview.net/profile?id=~Gabriel_Loaiza-Ganem1
+
+[paper]
+# paper        : 337
+# page         : 14
+# paper_in_page: 12
+Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control
+    https://openreview.net/profile?id=~Carles_Domingo-Enrich1
+    https://openreview.net/profile?id=~Michal_Drozdzal1
+    https://openreview.net/profile?id=~Brian_Karrer1
+    https://openreview.net/profile?id=~Ricky_T._Q._Chen1
+
+[paper]
+# paper        : 338
+# page         : 14
+# paper_in_page: 13
+ConFIG: Towards Conflict-free Training of Physics Informed Neural Networks
+    https://openreview.net/profile?id=~Qiang_Liu28
+    https://openreview.net/profile?id=~Mengyu_Chu3
+    https://openreview.net/profile?id=~Nils_Thuerey1
+
+[paper]
+# paper        : 339
+# page         : 14
+# paper_in_page: 14
+DLEFT-MKC: Dynamic Late Fusion Multiple Kernel Clustering with Robust Tensor Learning via Min-Max Optimizaiton
+    https://openreview.net/profile?id=~Yi_Zhang28
+    https://openreview.net/profile?id=~Siwei_Wang4
+    https://openreview.net/profile?id=~Jiyuan_Liu1
+    https://openreview.net/profile?id=~Shengju_Yu1
+    https://openreview.net/profile?id=~Zhibin_Dong1
+    https://openreview.net/profile?id=~Suyuan_Liu1
+    https://openreview.net/profile?id=~Xinwang_Liu1
+    https://openreview.net/profile?id=~En_Zhu1
+
+[paper]
+# paper        : 340
+# page         : 14
+# paper_in_page: 15
+Hymba: A Hybrid-head Architecture for Small Language Models
+    https://openreview.net/profile?id=~Xin_Dong1
+    https://openreview.net/profile?id=~Yonggan_Fu1
+    https://openreview.net/profile?id=~Shizhe_Diao2
+    https://openreview.net/profile?id=~Wonmin_Byeon1
+    https://openreview.net/profile?id=~ZIJIA_CHEN1
+    https://openreview.net/profile?id=~Ameya_Sunil_Mahabaleshwarkar1
+    https://openreview.net/profile?id=~Shih-Yang_Liu2
+    https://openreview.net/profile?id=~Matthijs_Van_keirsbilck1
+    https://openreview.net/profile?id=~Min-Hung_Chen2
+    https://openreview.net/profile?id=~Yoshi_Suhara1
+    https://openreview.net/profile?id=~Yingyan_Celine_Lin1
+    https://openreview.net/profile?id=~Jan_Kautz1
+    https://openreview.net/profile?id=~Pavlo_Molchanov1
+
+[paper]
+# paper        : 341
+# page         : 14
+# paper_in_page: 16
+Severing Spurious Correlations with Data Pruning
+    https://openreview.net/profile?id=~Varun_Mulchandani1
+    https://openreview.net/profile?id=~Jung-Eun_Kim1
+
+[paper]
+# paper        : 342
+# page         : 14
+# paper_in_page: 17
+CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation
+    https://openreview.net/profile?id=~Nikolai_Kalischek1
+    https://openreview.net/profile?id=~Michael_Oechsle1
+    https://openreview.net/profile?id=~Fabian_Manhardt1
+    https://openreview.net/profile?id=~Philipp_Henzler1
+    https://openreview.net/profile?id=~Konrad_Schindler1
+    https://openreview.net/profile?id=~Federico_Tombari1
+
+[paper]
+# paper        : 343
+# page         : 14
+# paper_in_page: 18
+Determine-Then-Ensemble: Necessity of Top-k Union for Large Language Model Ensembling
+    https://openreview.net/profile?id=~Yuxuan_Yao2
+    https://openreview.net/profile?id=~Han_Wu5
+    https://openreview.net/profile?id=~Mingyang_LIU7
+    https://openreview.net/profile?id=~Sichun_Luo1
+    https://openreview.net/profile?id=~Xiongwei_Han1
+    https://openreview.net/profile?id=~Jie_Liu33
+    https://openreview.net/profile?id=~Zhijiang_Guo2
+    https://openreview.net/profile?id=~Linqi_Song1
+
+[paper]
+# paper        : 344
+# page         : 14
+# paper_in_page: 19
+MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code
+    https://openreview.net/profile?id=~Zimu_Lu1
+    https://openreview.net/profile?id=~Aojun_Zhou2
+    https://openreview.net/profile?id=~Ke_Wang18
+    https://openreview.net/profile?id=~Houxing_Ren1
+    https://openreview.net/profile?id=~Weikang_Shi1
+    https://openreview.net/profile?id=~Junting_Pan2
+    https://openreview.net/profile?id=~Mingjie_Zhan1
+    https://openreview.net/profile?id=~Hongsheng_Li3
+
+[paper]
+# paper        : 345
+# page         : 14
+# paper_in_page: 20
+Training-Free Activation Sparsity in Large Language Models
+    https://openreview.net/profile?id=~James_Liu3
+    https://openreview.net/profile?id=~Pragaash_Ponnusamy1
+    https://openreview.net/profile?id=~Tianle_Cai1
+    https://openreview.net/profile?id=~Han_Guo1
+    https://openreview.net/profile?id=~Yoon_Kim1
+    https://openreview.net/profile?id=~Ben_Athiwaratkun1
+
+[paper]
+# paper        : 346
+# page         : 14
+# paper_in_page: 21
+Poison-splat: Computation Cost Attack on 3D Gaussian Splatting
+    https://openreview.net/profile?id=~Jiahao_Lu4
+    https://openreview.net/profile?id=~Yifan_Zhang1
+    https://openreview.net/profile?id=~Qiuhong_Shen1
+    https://openreview.net/profile?id=~Xinchao_Wang1
+    https://openreview.net/profile?id=~Shuicheng_YAN3
+
+[paper]
+# paper        : 347
+# page         : 14
+# paper_in_page: 22
+Gap-Dependent Bounds for Q-Learning using Reference-Advantage Decomposition
+    https://openreview.net/profile?id=~Zhong_Zheng3
+    https://openreview.net/profile?id=~Haochen_Zhang8
+    https://openreview.net/profile?id=~Lingzhou_Xue1
+
+[paper]
+# paper        : 348
+# page         : 14
+# paper_in_page: 23
+Effective Interplay between Sparsity and Quantization: From Theory to Practice
+    https://openreview.net/profile?id=~Simla_Burcu_Harma1
+    https://openreview.net/profile?id=~Ayan_Chakraborty1
+    https://openreview.net/profile?id=~Elizaveta_Kostenok1
+    https://openreview.net/profile?id=~Danila_Mishin1
+    https://openreview.net/profile?id=~Dongho_Ha1
+    https://openreview.net/profile?id=~Babak_Falsafi1
+    https://openreview.net/profile?id=~Martin_Jaggi1
+    https://openreview.net/profile?id=~Ming_Liu17
+    https://openreview.net/profile?id=~Yunho_Oh1
+    https://openreview.net/profile?id=~Suvinay_Subramanian1
+    https://openreview.net/profile?id=~Amir_Yazdanbakhsh1
+
+[paper]
+# paper        : 349
+# page         : 14
+# paper_in_page: 24
+One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt
+    https://openreview.net/profile?id=~Tao_Liu23
+    https://openreview.net/profile?id=~Kai_Wang7
+    https://openreview.net/profile?id=~Senmao_Li2
+    https://openreview.net/profile?id=~Joost_van_de_Weijer5
+    https://openreview.net/profile?id=~Fahad_Shahbaz_Khan1
+    https://openreview.net/profile?id=~Shiqi_Yang1
+    https://openreview.net/profile?id=~Yaxing_Wang3
+    https://openreview.net/profile?id=~Jian_Yang1
+    https://openreview.net/profile?id=~Ming-Ming_Cheng3
+
+[paper]
+# paper        : 350
+# page         : 14
+# paper_in_page: 25
+GEAs: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision
+    https://openreview.net/profile?id=~Zihui_Zhang2
+    https://openreview.net/profile?id=~Yafei_YANG1
+    https://openreview.net/profile?id=~Hongtao_Wen1
+    https://openreview.net/profile?id=~Bo_Yang7
+
+[paper]
+# paper        : 351
+# page         : 15
+# paper_in_page: 1
+Scalable and Certifiable Graph Unlearning: Overcoming the Approximation Error Barrier
+    https://openreview.net/profile?id=~Lu_Yi2
+    https://openreview.net/profile?id=~Zhewei_Wei1
+
+[paper]
+# paper        : 352
+# page         : 15
+# paper_in_page: 2
+Enhancing Pre-trained Representation Classifiability can Boost its Interpretability
+    https://openreview.net/profile?id=~Shufan_Shen1
+    https://openreview.net/profile?id=~Zhaobo_Qi1
+    https://openreview.net/profile?id=~Junshu_Sun1
+    https://openreview.net/profile?id=~Qingming_Huang2
+    https://openreview.net/profile?id=~Qi_Tian3
+    https://openreview.net/profile?id=~Shuhui_Wang1
+
+[paper]
+# paper        : 353
+# page         : 15
+# paper_in_page: 3
+TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters
+    https://openreview.net/profile?id=~Haiyang_Wang2
+    https://openreview.net/profile?id=~Yue_Fan1
+    https://openreview.net/profile?id=~Muhammad_Ferjad_Naeem1
+    https://openreview.net/profile?id=~Liwei_Wang1
+    https://openreview.net/profile?id=~Yongqin_Xian1
+    https://openreview.net/profile?id=~Jan_Eric_Lenssen1
+    https://openreview.net/profile?id=~Federico_Tombari1
+    https://openreview.net/profile?id=~Bernt_Schiele1
+
+[paper]
+# paper        : 354
+# page         : 15
+# paper_in_page: 4
+Simple yet Effective Incomplete Multi-view Clustering: Similarity-level Imputation and Intra-view Hybrid-group Prototype Construction
+    https://openreview.net/profile?id=~Shengju_Yu1
+    https://openreview.net/profile?id=~Zhibin_Dong1
+    https://openreview.net/profile?id=~Siwei_Wang4
+    https://openreview.net/profile?id=~Pei_Zhang9
+    https://openreview.net/profile?id=~Yi_Zhang28
+    https://openreview.net/profile?id=~Xinwang_Liu1
+    https://openreview.net/profile?id=~Naiyang_Guan1
+    https://openreview.net/profile?id=~Tiejun_Li1
+    https://openreview.net/profile?id=~Yiu-ming_Cheung1
+
+[paper]
+# paper        : 355
+# page         : 15
+# paper_in_page: 5
+Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion
+    https://openreview.net/profile?id=~Kaizhe_Hu1
+    https://openreview.net/profile?id=~Zihang_Rui1
+    https://openreview.net/profile?id=~Yao_He1
+    https://openreview.net/profile?id=~Yuyao_Liu1
+    https://openreview.net/profile?id=~Pu_Hua1
+    https://openreview.net/profile?id=~Huazhe_Xu1
+
+[paper]
+# paper        : 356
+# page         : 15
+# paper_in_page: 6
+LiveBench: A Challenging, Contamination-Free LLM Benchmark
+    https://openreview.net/profile?id=~Colin_White1
+    https://openreview.net/profile?id=~Samuel_Dooley1
+    https://openreview.net/profile?id=~Manley_Roberts1
+    https://openreview.net/profile?id=~Arka_Pal2
+    https://openreview.net/profile?id=~Benjamin_Feuer1
+    https://openreview.net/profile?id=~Siddhartha_Jain1
+    https://openreview.net/profile?id=~Ravid_Shwartz-Ziv2
+    https://openreview.net/profile?id=~Neel_Jain1
+    https://openreview.net/profile?id=~Khalid_Saifullah1
+    https://openreview.net/profile?id=~Sreemanti_Dey1
+    https://openreview.net/profile?id=~Shubh-Agrawal1
+    https://openreview.net/profile?id=~Sandeep_Singh_Sandha1
+    https://openreview.net/profile?id=~Siddartha_Venkat_Naidu1
+    https://openreview.net/profile?id=~Chinmay_Hegde1
+    https://openreview.net/profile?id=~Yann_LeCun1
+    https://openreview.net/profile?id=~Tom_Goldstein1
+    https://openreview.net/profile?id=~Willie_Neiswanger2
+    https://openreview.net/profile?id=~Micah_Goldblum1
+
+[paper]
+# paper        : 357
+# page         : 15
+# paper_in_page: 7
+Anti-Exposure Bias in Diffusion Models via Prompt Learning
+    https://openreview.net/profile?id=~Junyu_Zhang2
+    https://openreview.net/profile?id=~Daochang_Liu1
+    https://openreview.net/profile?id=~Eunbyung_Park1
+    https://openreview.net/profile?id=~Shichao_Zhang3
+    https://openreview.net/profile?id=~Chang_Xu4
+
+[paper]
+# paper        : 358
+# page         : 15
+# paper_in_page: 8
+DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes
+    https://openreview.net/profile?id=~Hengwei_Bian1
+    https://openreview.net/profile?id=~Lingdong_Kong1
+    https://openreview.net/profile?id=~Haozhe_Xie1
+    https://openreview.net/profile?id=~Liang_Pan2
+    https://openreview.net/profile?id=~Yu_Qiao1
+    https://openreview.net/profile?id=~Ziwei_Liu1
+
+[paper]
+# paper        : 359
+# page         : 15
+# paper_in_page: 9
+Computational Explorations of Total Variation Distance
+    https://openreview.net/profile?id=~Arnab_Bhattacharyya1
+    https://openreview.net/profile?id=~Sutanu_Gayen1
+    https://openreview.net/profile?id=~Kuldeep_S._Meel2
+    https://openreview.net/profile?id=~Dimitrios_Myrisiotis1
+    https://openreview.net/profile?id=~A._Pavan1
+    https://openreview.net/profile?id=~N._V._Vinodchandran2
+
+[paper]
+# paper        : 360
+# page         : 15
+# paper_in_page: 10
+Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model
+    https://openreview.net/profile?id=~Chunming_He1
+    https://openreview.net/profile?id=~Chengyu_Fang3
+    https://openreview.net/profile?id=~Yulun_Zhang1
+    https://openreview.net/profile?id=~Longxiang_Tang1
+    https://openreview.net/profile?id=~Jinfa_Huang2
+    https://openreview.net/profile?id=~Kai_Li11
+    https://openreview.net/profile?id=~Zhenhua_Guo3
+    https://openreview.net/profile?id=~Xiu_Li1
+    https://openreview.net/profile?id=~Sina_Farsiu1
+
+[paper]
+# paper        : 361
+# page         : 15
+# paper_in_page: 11
+MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers
+    https://openreview.net/profile?id=~Ao_Li11
+    https://openreview.net/profile?id=~Wei_Fang6
+    https://openreview.net/profile?id=~Hongbo_Zhao1
+    https://openreview.net/profile?id=~Le_Lu3
+    https://openreview.net/profile?id=~Ge_Yang3
+    https://openreview.net/profile?id=~Minfeng_Xu1
+
+[paper]
+# paper        : 362
+# page         : 15
+# paper_in_page: 12
+SRSA: Skill Retrieval and Adaptation for Robotic Assembly Tasks
+    https://openreview.net/profile?id=~Yijie_Guo1
+    https://openreview.net/profile?id=~Bingjie_Tang1
+    https://openreview.net/profile?id=~Iretiayo_Akinola1
+    https://openreview.net/profile?id=~Dieter_Fox1
+    https://openreview.net/profile?id=~Abhishek_Gupta1
+    https://openreview.net/profile?id=~Yashraj_Narang1
+
+[paper]
+# paper        : 363
+# page         : 15
+# paper_in_page: 13
+SVDQuant: Absorbing Outliers by Low-Rank Component for 4-Bit Diffusion Models
+    https://openreview.net/profile?id=~Muyang_Li2
+    https://openreview.net/profile?id=~Yujun_Lin1
+    https://openreview.net/profile?id=~Zhekai_Zhang1
+    https://openreview.net/profile?id=~Tianle_Cai1
+    https://openreview.net/profile?id=~Junxian_Guo2
+    https://openreview.net/profile?id=~Xiuyu_Li1
+    https://openreview.net/profile?id=~Enze_Xie1
+    https://openreview.net/profile?id=~Chenlin_Meng1
+    https://openreview.net/profile?id=~Jun-Yan_Zhu1
+    https://openreview.net/profile?id=~Song_Han5
+
+[paper]
+# paper        : 364
+# page         : 15
+# paper_in_page: 14
+DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from One Demo
+    https://openreview.net/profile?id=~Junzhe_Zhu1
+    https://openreview.net/profile?id=~Yuanchen_Ju1
+    https://openreview.net/profile?id=~Junyi_Zhang3
+    https://openreview.net/profile?id=~Muhan_Wang1
+    https://openreview.net/profile?id=~Zhecheng_Yuan1
+    https://openreview.net/profile?id=~Kaizhe_Hu1
+    https://openreview.net/profile?id=~Huazhe_Xu1
+
+[paper]
+# paper        : 365
+# page         : 15
+# paper_in_page: 15
+LoCoDL: Communication-Efficient Distributed Learning with Local Training and Compression
+    https://openreview.net/profile?id=~Laurent_Condat1
+    https://openreview.net/profile?id=~Arto_Maranjyan1
+    https://openreview.net/profile?id=~Peter_Richt%C3%A1rik1
+
+[paper]
+# paper        : 366
+# page         : 15
+# paper_in_page: 16
+LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models
+    https://openreview.net/profile?id=~Hantao_Zhang2
+    https://openreview.net/profile?id=~Yuhe_Liu3
+    https://openreview.net/profile?id=~Jiancheng_Yang3
+    https://openreview.net/profile?id=~Shouhong_Wan1
+    https://openreview.net/profile?id=~Xinyuan_Wang2
+    https://openreview.net/profile?id=~Wei_Peng4
+    https://openreview.net/profile?id=~Pascal_Fua1
+
+[paper]
+# paper        : 367
+# page         : 15
+# paper_in_page: 17
+Beyond Next Token Prediction: Patch-Level Training for Large Language Models
+    https://openreview.net/profile?id=~Chenze_Shao1
+    https://openreview.net/profile?id=~Fandong_Meng3
+    https://openreview.net/profile?id=~Jie_Zhou8
+
+[paper]
+# paper        : 368
+# page         : 15
+# paper_in_page: 18
+LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models
+    https://openreview.net/profile?id=~Junyan_Ye1
+    https://openreview.net/profile?id=~Baichuan_Zhou1
+    https://openreview.net/profile?id=~Zilong_Huang2
+    https://openreview.net/profile?id=~Junan_Zhang1
+    https://openreview.net/profile?id=~Tianyi_Bai1
+    https://openreview.net/profile?id=~Hengrui_Kang1
+    https://openreview.net/profile?id=~Jun_He7
+    https://openreview.net/profile?id=~Honglin_Lin2
+    https://openreview.net/profile?id=~Zihao_Wang37
+    https://openreview.net/profile?id=~Tong_Wu2
+    https://openreview.net/profile?id=~Zhizheng_Wu1
+    https://openreview.net/profile?id=~Yiping_Chen2
+    https://openreview.net/profile?id=~Dahua_Lin1
+    https://openreview.net/profile?id=~Conghui_He2
+    https://openreview.net/profile?id=~Weijia_Li2
+
+[paper]
+# paper        : 369
+# page         : 15
+# paper_in_page: 19
+Recognize Any Surgical Object: Unleashing the Power of Weakly-Supervised Data
+    https://openreview.net/profile?id=~Jiajie_Li2
+    https://openreview.net/profile?id=~Brian_R_Quaranto1
+    https://openreview.net/profile?id=~Chenhui_Xu1
+    https://openreview.net/profile?id=~Ishan_Mishra1
+    https://openreview.net/profile?id=~Ruiyang_Qin1
+    https://openreview.net/profile?id=~Dancheng_Liu2
+    https://openreview.net/profile?id=~Peter_C_W_Kim1
+    https://openreview.net/profile?id=~Jinjun_Xiong1
+
+[paper]
+# paper        : 370
+# page         : 15
+# paper_in_page: 20
+Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation
+    https://openreview.net/profile?id=~Peiwen_Sun1
+    https://openreview.net/profile?id=~Sitong_Cheng1
+    https://openreview.net/profile?id=~Xiangtai_Li1
+    https://openreview.net/profile?id=~Zhen_Ye2
+    https://openreview.net/profile?id=~Huadai_Liu1
+    https://openreview.net/profile?id=~Honggang_Zhang1
+    https://openreview.net/profile?id=~Wei_Xue5
+    https://openreview.net/profile?id=~Yike_Guo1
+
+[paper]
+# paper        : 371
+# page         : 15
+# paper_in_page: 21
+Moner: Motion Correction in Undersampled Radial MRI with Unsupervised Neural Representation
+    https://openreview.net/profile?id=~Qing_Wu3
+    https://openreview.net/profile?id=~Chenhe_Du2
+    https://openreview.net/profile?id=~Xuanyu_Tian1
+    https://openreview.net/profile?id=~Jingyi_Yu5
+    https://openreview.net/profile?id=~Yuyao_Zhang3
+    https://openreview.net/profile?id=~Hongjiang_Wei1
+
+[paper]
+# paper        : 372
+# page         : 15
+# paper_in_page: 22
+UniMatch: Universal Matching from Atom to Task for Few-Shot Drug Discovery
+    https://openreview.net/profile?id=~Ruifeng_Li1
+    https://openreview.net/profile?id=~Mingqian_Li1
+    https://openreview.net/profile?id=~Wei_Liu31
+    https://openreview.net/profile?id=~Yuhua_Zhou1
+    https://openreview.net/profile?id=~Xiangxin_Zhou1
+    https://openreview.net/profile?id=~Yuan_Yao16
+    https://openreview.net/profile?id=~Qiang_Zhang6
+    https://openreview.net/profile?id=~Hongyang_Chen2
+
+[paper]
+# paper        : 373
+# page         : 15
+# paper_in_page: 23
+Instance-dependent Early Stopping
+    https://openreview.net/profile?id=~Suqin_Yuan1
+    https://openreview.net/profile?id=~Runqi_Lin1
+    https://openreview.net/profile?id=~Lei_Feng1
+    https://openreview.net/profile?id=~Bo_Han1
+    https://openreview.net/profile?id=~Tongliang_Liu1
+
