@@ -6,6 +6,7 @@ class PaperInfo:
         self.index_str = index_str
         self.title = ""
         self.first_author_emails = ""
+        self.last_author_emails = ""
         self.all_author_emails = ""
         self.author_href_list = []
 
@@ -63,6 +64,12 @@ def parse_paper_list_file(paper_file, paper_type=None):
     return pi_list
 
 def replenish_emails_to_pi_list(pi_list, author_file):
+    """
+    replenish Emails to each PaperInfo in the PaperInfo list.
+    :param pi_list:
+    :param author_file:
+    :return:
+    """
     with open(author_file, "r") as f:
         lines = f.readlines()
     href_map = {}
@@ -79,12 +86,17 @@ def replenish_emails_to_pi_list(pi_list, author_file):
     print(f"author count: {len(href_map)}")
     for pi in pi_list:
         href_list = pi.author_href_list
-        href = href_list[0]
+        href = href_list[0]     # ------------------- first author emails
         if href in href_map:
             pi.first_author_emails = href_map[href]
         else:
             print(f"Error: not found email for: {href}")
-        tmp = ""
+        href = href_list[-1]    # ------------------- last author emails
+        if href in href_map:
+            pi.last_author_emails = href_map[href]
+        else:
+            print(f"Error: not found email for: {href}")
+        tmp = ""                # ------------------- all author emails
         for href in href_list:
             if href in href_map:
                 tmp += href_map[href]
@@ -95,13 +107,38 @@ def replenish_emails_to_pi_list(pi_list, author_file):
     # for
 
 def save_pi_list_by_first_author(pi_list, res_file):
+    """
+    Save PaperInfo list by first author, specifying his/her Emails.
+    :param pi_list:
+    :param res_file:
+    :return:
+    """
     with open(res_file, "w") as f:
         for pi in pi_list:
-            f.write(f"{pi.index_str}: {pi.first_author_emails}\n")
+            f.write(f"{pi.index_str}: {pi.author_href_list[0]} : {pi.first_author_emails}\n")
+        # for
+    # with
+
+def save_pi_list_by_last_author(pi_list, res_file):
+    """
+    Save PaperInfo list by last author, specifying his/her Emails.
+    :param pi_list:
+    :param res_file:
+    :return:
+    """
+    with open(res_file, "w") as f:
+        for pi in pi_list:
+            f.write(f"{pi.index_str}: {pi.author_href_list[-1]} : {pi.last_author_emails}\n")
         # for
     # with
 
 def save_pi_list_by_all_author(pi_list, res_file):
+    """
+    Save PaperInfo list by all author, specifying their Emails.
+    :param pi_list:
+    :param res_file:
+    :return:
+    """
     with open(res_file, "w") as f:
         for pi in pi_list:
             f.write(f"{pi.index_str}: {pi.all_author_emails}\n")
@@ -120,6 +157,10 @@ def replenish_emails(paper_file_list, author_file):
 
     f_path1 = "./res_paper_with_first_author_emails.txt"
     save_pi_list_by_first_author(pi_list, f_path1)
+    print(f"File saved: {f_path1}")
+
+    f_path1 = "./res_paper_with_last_author_emails.txt"
+    save_pi_list_by_last_author(pi_list, f_path1)
     print(f"File saved: {f_path1}")
 
     f_path2 = "./res_paper_with_all_author_emails.txt"
